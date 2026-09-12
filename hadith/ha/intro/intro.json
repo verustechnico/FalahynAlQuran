@@ -1,0 +1,53 @@
+{
+    "books": [
+        {
+            "slug": "bukhari",
+            "en_name": "Sahih al-Bukhari",
+            "ar_name": "صحيح البخاري",
+            "intro": "Sahih al-Bukhari tarin hadisai ne da Imam Muhammad al-Bukhari (ya rasu 256 AH/870 CE) (rahimahullah) ya tattara. Mafi yawancin al'ummar Musulmi sun yarda cewa tarinsa shi ne mafi inganci a cikin ingantattun hadisan Sunnar Annabi Muhammad (ﷺ). Yana ɗauke da hadisai fiye da 7500 (tare da maimaitawa) a cikin littattafai 97. Fassarar da aka bayar a nan ta Dr. M. Muhsin Khan ce.",
+            "totalHadith": 7291
+        },
+        {
+            "slug": "muslim",
+            "en_name": "Sahih Muslim",
+            "ar_name": "صحيح مسلم",
+            "intro": "Sahih Muslim tarin hadisai ne da Imam Muslim ibn al-Hajjaj al-Naysaburi (rahimahullah) ya tattara. Ana ɗaukar tarinsa a matsayin ɗaya daga cikin mafi ingancin tarin Sunnar Annabi (ﷺ), kuma tare da Sahih al-Bukhari suna kafa \"Sahihain,\" ko \"Sahihai Biyu.\" Yana ɗauke da kusan hadisai 7500 (tare da maimaitawa) a cikin littattafai 57. Fassarar da aka bayar a nan ta Abdul Hamid Siddiqui ce.",
+            "totalHadith": 7470
+        },
+        {
+            "slug": "nasai",
+            "en_name": "Sunan an-Nasa'i",
+            "ar_name": "سنن النسائي",
+            "intro": "Sunan an-Nasa'i tarin hadisai ne da Imam Ahmad an-Nasa'i (rahimahullah) ya tattara. Ana ɗaukar tarinsa gaba ɗaya a matsayin ɗaya daga cikin manyan tarin hadisai shida (Kutub as-Sittah) na Sunnar Annabi (ﷺ). Yana ɗauke da kusan hadisai 5700 (tare da maimaitawa) a cikin littattafai 52.",
+            "totalHadith": 5766
+        },
+        {
+            "slug": "tirmidhi",
+            "en_name": "Jami` at-Tirmidhi",
+            "ar_name": "جامع الترمذي",
+            "intro": "Jami` at-Tirmidhi tarin hadisai ne da Imam Abu `Isa Muhammad at-Tirmidhi (rahimahullah) ya tattara. Ana ɗaukar tarinsa gaba ɗaya a matsayin ɗaya daga cikin manyan tarin hadisai shida (Kutub as-Sittah) na Sunnar Annabi (ﷺ). Yana ɗauke da kusan hadisai 4400 (tare da maimaitawa) a cikin littattafai 46.",
+            "totalHadith": 3956
+        },
+        {
+            "slug": "ibnmajah",
+            "en_name": "Sunan Ibn Majah",
+            "ar_name": "سنن ابن ماجه",
+            "intro": "Sunan Ibn Majah tarin hadisai ne da Imam Muhammad bin Yazid Ibn Majah al-Qazvini (rahimahullah) ya tattara. Ana ɗaukar sa a matsayin littafi na shida a cikin manyan tarin hadisai shida (Kutub as-Sittah) na Sunnar Annabi (ﷺ). Yana ɗauke da hadisai 4341 a cikin littattafai 37.",
+            "totalHadith": 4341
+        },
+        {
+            "slug": "malik",
+            "en_name": "Muwatta Malik",
+            "ar_name": "موطأ مالك",
+            "intro": "Al-Muwatta (wato \"hanya da aka sauƙaƙa\" ko \"abin da aka sauƙaƙa\") wanda Imam Malik ibn Anas ya tattara a ƙarni na 8, yana ɗaya daga cikin mafi ƙuruciya kuma mafi ingancin tarin al'adun Musulunci da fiƙihu. Yana haɗa hadisan Annabi (marfu) tare da hukuncin shari'a, ayyuka, da maganganun Sahabbai (mawquf) da Tabi'ai (maqtu), yana ba da muhimmanci sosai ga al'adun shari'a da ijma'in mutanen Madina.",
+            "totalHadith": 1973
+        },
+        {
+            "slug": "abudawud",
+            "en_name": "Sunan Abi Dawud",
+            "ar_name": "سنن أبي داود",
+            "intro": "Sunan Abi Dawud tarin hadisai ne da Imam Abu Dawud Sulayman ibn al-Ash'ath as-Sijistani (rahimahullah) ya tattara. Ana ɗaukar sa a matsayin ɗaya daga cikin manyan tarin hadisai shida (Kutub as-Sittah) na Sunnar Annabi (ﷺ). Yana ɗauke da hadisai 5274 a cikin littattafai 43. Wasiƙa daga Imam Abu Dawud zuwa ga mutanen Makkah wadda take bayyana littafinsa, kalmomin da ya yi amfani da su, da kuma manhajarsa.",
+            "totalHadith": 5276
+        }
+    ]
+}

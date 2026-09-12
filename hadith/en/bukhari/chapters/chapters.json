@@ -1,0 +1,682 @@
+[
+
+  {
+    "id": 1,
+    "name": "Revelation",
+    "startingHadithNo": 1,
+    "endingHadithNo": 7,
+    "totalHadith": 7
+  },
+  {
+    "id": 2,
+    "name": "Belief",
+    "startingHadithNo": 8,
+    "endingHadithNo": 58,
+    "totalHadith": 51
+  },
+  {
+    "id": 3,
+    "name": "Knowledge",
+    "startingHadithNo": 59,
+    "endingHadithNo": 134,
+    "totalHadith": 76
+  },
+  {
+    "id": 4,
+    "name": "Ablutions (Wudu')",
+    "startingHadithNo": 135,
+    "endingHadithNo": 247,
+    "totalHadith": 113
+  },
+  {
+    "id": 5,
+    "name": "Bathing (Ghusl)",
+    "startingHadithNo": 248,
+    "endingHadithNo": 293,
+    "totalHadith": 46
+  },
+  {
+    "id": 6,
+    "name": "Menstrual Periods",
+    "startingHadithNo": 294,
+    "endingHadithNo": 333,
+    "totalHadith": 40
+  },
+  {
+    "id": 7,
+    "name": "Rubbing hands and feet with dust (Tayammum)",
+    "startingHadithNo": 334,
+    "endingHadithNo": 348,
+    "totalHadith": 15
+  },
+  {
+    "id": 8,
+    "name": "Prayers (Salat)",
+    "startingHadithNo": 349,
+    "endingHadithNo": 520,
+    "totalHadith": 172
+  },
+  {
+    "id": 9,
+    "name": "Times of the Prayers",
+    "startingHadithNo": 522,
+    "endingHadithNo": 602,
+    "totalHadith": 81
+  },
+  {
+    "id": 10,
+    "name": "Call to Prayers (Adhaan)",
+    "startingHadithNo": 603,
+    "endingHadithNo": 875,
+    "totalHadith": 273
+  },
+  {
+    "id": 11,
+    "name": "Friday Prayer",
+    "startingHadithNo": 876,
+    "endingHadithNo": 941,
+    "totalHadith": 66
+  },
+  {
+    "id": 12,
+    "name": "Fear Prayer",
+    "startingHadithNo": 942,
+    "endingHadithNo": 947,
+    "totalHadith": 6
+  },
+  {
+    "id": 13,
+    "name": "The Two Festivals (Eids)",
+    "startingHadithNo": 948,
+    "endingHadithNo": 989,
+    "totalHadith": 42
+  },
+  {
+    "id": 14,
+    "name": "Witr Prayer",
+    "startingHadithNo": 990,
+    "endingHadithNo": 1004,
+    "totalHadith": 15
+  },
+  {
+    "id": 15,
+    "name": "Invoking Allah for Rain (Istisqaa)",
+    "startingHadithNo": 1005,
+    "endingHadithNo": 1039,
+    "totalHadith": 35
+  },
+  {
+    "id": 16,
+    "name": "Eclipses",
+    "startingHadithNo": 1040,
+    "endingHadithNo": 1066,
+    "totalHadith": 27
+  },
+  {
+    "id": 17,
+    "name": "Prostration During Recital of Qur'an",
+    "startingHadithNo": 1067,
+    "endingHadithNo": 1079,
+    "totalHadith": 13
+  },
+  {
+    "id": 18,
+    "name": "Shortening the Prayers (At-Taqseer)",
+    "startingHadithNo": 1080,
+    "endingHadithNo": 1119,
+    "totalHadith": 40
+  },
+  {
+    "id": 19,
+    "name": "Prayer at Night (Tahajjud)",
+    "startingHadithNo": 1120,
+    "endingHadithNo": 1187,
+    "totalHadith": 68
+  },
+  {
+    "id": 20,
+    "name": "Virtues of Prayer at Masjid Makkah and Madinah",
+    "startingHadithNo": 1188,
+    "endingHadithNo": 1197,
+    "totalHadith": 10
+  },
+  {
+    "id": 21,
+    "name": "Actions while Praying",
+    "startingHadithNo": 1198,
+    "endingHadithNo": 1223,
+    "totalHadith": 26
+  },
+  {
+    "id": 22,
+    "name": "Forgetfulness in Prayer",
+    "startingHadithNo": 1224,
+    "endingHadithNo": 1236,
+    "totalHadith": 13
+  },
+  {
+    "id": 23,
+    "name": "Funerals (Al-Janaa'iz)",
+    "startingHadithNo": 1237,
+    "endingHadithNo": 1394,
+    "totalHadith": 158
+  },
+  {
+    "id": 24,
+    "name": "Obligatory Charity Tax (Zakat)",
+    "startingHadithNo": 1395,
+    "endingHadithNo": 1512,
+    "totalHadith": 118
+  },
+  {
+    "id": 25,
+    "name": "Hajj (Pilgrimage)",
+    "startingHadithNo": 1513,
+    "endingHadithNo": 1772,
+    "totalHadith": 260
+  },
+  {
+    "id": 26,
+    "name": "`Umrah (Minor pilgrimage)",
+    "startingHadithNo": 1773,
+    "endingHadithNo": 1805,
+    "totalHadith": 33
+  },
+  {
+    "id": 27,
+    "name": "Pilgrims Prevented from Completing the Pilgrimage",
+    "startingHadithNo": 1806,
+    "endingHadithNo": 1820,
+    "totalHadith": 15
+  },
+  {
+    "id": 28,
+    "name": "Penalty of Hunting while on Pilgrimage",
+    "startingHadithNo": 1821,
+    "endingHadithNo": 1866,
+    "totalHadith": 46
+  },
+  {
+    "id": 29,
+    "name": "Virtues of Madinah",
+    "startingHadithNo": 1867,
+    "endingHadithNo": 1890,
+    "totalHadith": 24
+  },
+  {
+    "id": 30,
+    "name": "Fasting",
+    "startingHadithNo": 1891,
+    "endingHadithNo": 2007,
+    "totalHadith": 117
+  },
+  {
+    "id": 31,
+    "name": "Praying at Night in Ramadaan (Taraweeh)",
+    "startingHadithNo": 2008,
+    "endingHadithNo": 2013,
+    "totalHadith": 6
+  },
+  {
+    "id": 32,
+    "name": "Virtues of the Night of Qadr",
+    "startingHadithNo": 2014,
+    "endingHadithNo": 2024,
+    "totalHadith": 11
+  },
+  {
+    "id": 33,
+    "name": "Retiring to a Mosque for Remembrance of Allah (I'tikaf)",
+    "startingHadithNo": 2025,
+    "endingHadithNo": 2046,
+    "totalHadith": 22
+  },
+  {
+    "id": 34,
+    "name": "Sales and Trade",
+    "startingHadithNo": 2047,
+    "endingHadithNo": 2238,
+    "totalHadith": 192
+  },
+  {
+    "id": 35,
+    "name": "Sales in which a Price is paid for Goods to be Delivered Later (As-Salam)",
+    "startingHadithNo": 2239,
+    "endingHadithNo": 2256,
+    "totalHadith": 18
+  },
+  {
+    "id": 36,
+    "name": "Shuf'a",
+    "startingHadithNo": 2257,
+    "endingHadithNo": 2259,
+    "totalHadith": 3
+  },
+  {
+    "id": 37,
+    "name": "Hiring",
+    "startingHadithNo": 2260,
+    "endingHadithNo": 2286,
+    "totalHadith": 27
+  },
+  {
+    "id": 38,
+    "name": "Transferance of a Debt from One Person to Another (Al-Hawaala)",
+    "startingHadithNo": 2287,
+    "endingHadithNo": 2289,
+    "totalHadith": 3
+  },
+  {
+    "id": 39,
+    "name": "Kafalah",
+    "startingHadithNo": 2290,
+    "endingHadithNo": 2298,
+    "totalHadith": 9
+  },
+  {
+    "id": 40,
+    "name": "Representation, Authorization, Business by Proxy",
+    "startingHadithNo": 2299,
+    "endingHadithNo": 2319,
+    "totalHadith": 21
+  },
+  {
+    "id": 41,
+    "name": "Agriculture",
+    "startingHadithNo": 2320,
+    "endingHadithNo": 2350,
+    "totalHadith": 31
+  },
+  {
+    "id": 42,
+    "name": "Distribution of Water",
+    "startingHadithNo": 2351,
+    "endingHadithNo": 2383,
+    "totalHadith": 33
+  },
+  {
+    "id": 43,
+    "name": "Loans, Payment of Loans, Freezing of Property, Bankruptcy",
+    "startingHadithNo": 2385,
+    "endingHadithNo": 2409,
+    "totalHadith": 25
+  },
+  {
+    "id": 44,
+    "name": "Khusoomaat",
+    "startingHadithNo": 2410,
+    "endingHadithNo": 2425,
+    "totalHadith": 16
+  },
+  {
+    "id": 45,
+    "name": "Lost Things Picked up by Someone (Luqatah)",
+    "startingHadithNo": 2426,
+    "endingHadithNo": 2439,
+    "totalHadith": 14
+  },
+  {
+    "id": 46,
+    "name": "Oppressions",
+    "startingHadithNo": 2440,
+    "endingHadithNo": 2482,
+    "totalHadith": 43
+  },
+  {
+    "id": 47,
+    "name": "Partnership",
+    "startingHadithNo": 2483,
+    "endingHadithNo": 2507,
+    "totalHadith": 25
+  },
+  {
+    "id": 48,
+    "name": "Mortgaging",
+    "startingHadithNo": 2508,
+    "endingHadithNo": 2515,
+    "totalHadith": 8
+  },
+  {
+    "id": 49,
+    "name": "Manumission of Slaves",
+    "startingHadithNo": 2517,
+    "endingHadithNo": 2559,
+    "totalHadith": 43
+  },
+  {
+    "id": 50,
+    "name": "Makaatib",
+    "startingHadithNo": 2560,
+    "endingHadithNo": 2565,
+    "totalHadith": 6
+  },
+  {
+    "id": 51,
+    "name": "Gifts",
+    "startingHadithNo": 2566,
+    "endingHadithNo": 2636,
+    "totalHadith": 71
+  },
+  {
+    "id": 52,
+    "name": "Witnesses",
+    "startingHadithNo": 2637,
+    "endingHadithNo": 2689,
+    "totalHadith": 53
+  },
+  {
+    "id": 53,
+    "name": "Peacemaking",
+    "startingHadithNo": 2690,
+    "endingHadithNo": 2710,
+    "totalHadith": 21
+  },
+  {
+    "id": 54,
+    "name": "Conditions",
+    "startingHadithNo": 2712,
+    "endingHadithNo": 2737,
+    "totalHadith": 26
+  },
+  {
+    "id": 55,
+    "name": "Wills and Testaments (Wasaayaa)",
+    "startingHadithNo": 2738,
+    "endingHadithNo": 2781,
+    "totalHadith": 44
+  },
+  {
+    "id": 56,
+    "name": "Fighting for the Cause of Allah (Jihaad)",
+    "startingHadithNo": 2782,
+    "endingHadithNo": 3090,
+    "totalHadith": 309
+  },
+  {
+    "id": 57,
+    "name": "One-fifth of Booty to the Cause of Allah (Khumus)",
+    "startingHadithNo": 3091,
+    "endingHadithNo": 3155,
+    "totalHadith": 65
+  },
+  {
+    "id": 58,
+    "name": "Jizyah and Mawaada'ah",
+    "startingHadithNo": 3157,
+    "endingHadithNo": 3189,
+    "totalHadith": 33
+  },
+  {
+    "id": 59,
+    "name": "Beginning of Creation",
+    "startingHadithNo": 3190,
+    "endingHadithNo": 3325,
+    "totalHadith": 136
+  },
+  {
+    "id": 60,
+    "name": "Prophets",
+    "startingHadithNo": 3326,
+    "endingHadithNo": 3488,
+    "totalHadith": 163
+  },
+  {
+    "id": 61,
+    "name": "Virtues and Merits of the Prophet (pbuh) and his Companions",
+    "startingHadithNo": 3489,
+    "endingHadithNo": 3648,
+    "totalHadith": 160
+  },
+  {
+    "id": 62,
+    "name": "Companions of the Prophet",
+    "startingHadithNo": 3649,
+    "endingHadithNo": 3775,
+    "totalHadith": 127
+  },
+  {
+    "id": 63,
+    "name": "Merits of the Helpers in Madinah (Ansaar)",
+    "startingHadithNo": 3776,
+    "endingHadithNo": 3948,
+    "totalHadith": 173
+  },
+  {
+    "id": 64,
+    "name": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)",
+    "startingHadithNo": 3949,
+    "endingHadithNo": 4473,
+    "totalHadith": 525
+  },
+  {
+    "id": 65,
+    "name": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))",
+    "startingHadithNo": 4474,
+    "endingHadithNo": 4977,
+    "totalHadith": 504
+  },
+  {
+    "id": 66,
+    "name": "Virtues of the Qur'an",
+    "startingHadithNo": 4979,
+    "endingHadithNo": 5062,
+    "totalHadith": 84
+  },
+  {
+    "id": 67,
+    "name": "Wedlock, Marriage (Nikaah)",
+    "startingHadithNo": 5063,
+    "endingHadithNo": 5250,
+    "totalHadith": 188
+  },
+  {
+    "id": 68,
+    "name": "Divorce",
+    "startingHadithNo": 5251,
+    "endingHadithNo": 5350,
+    "totalHadith": 100
+  },
+  {
+    "id": 69,
+    "name": "Supporting the Family",
+    "startingHadithNo": 5351,
+    "endingHadithNo": 5372,
+    "totalHadith": 22
+  },
+  {
+    "id": 70,
+    "name": "Food, Meals",
+    "startingHadithNo": 5373,
+    "endingHadithNo": 5466,
+    "totalHadith": 94
+  },
+  {
+    "id": 71,
+    "name": "Sacrifice on Occasion of Birth (`Aqiqa)",
+    "startingHadithNo": 5467,
+    "endingHadithNo": 5474,
+    "totalHadith": 8
+  },
+  {
+    "id": 72,
+    "name": "Hunting, Slaughtering",
+    "startingHadithNo": 5475,
+    "endingHadithNo": 5544,
+    "totalHadith": 70
+  },
+  {
+    "id": 73,
+    "name": "Al-Adha Festival Sacrifice (Adaahi)",
+    "startingHadithNo": 5545,
+    "endingHadithNo": 5574,
+    "totalHadith": 30
+  },
+  {
+    "id": 74,
+    "name": "Drinks",
+    "startingHadithNo": 5575,
+    "endingHadithNo": 5639,
+    "totalHadith": 65
+  },
+  {
+    "id": 75,
+    "name": "Patients",
+    "startingHadithNo": 5640,
+    "endingHadithNo": 5677,
+    "totalHadith": 38
+  },
+  {
+    "id": 76,
+    "name": "Medicine",
+    "startingHadithNo": 5678,
+    "endingHadithNo": 5782,
+    "totalHadith": 105
+  },
+  {
+    "id": 77,
+    "name": "Dress",
+    "startingHadithNo": 5783,
+    "endingHadithNo": 5969,
+    "totalHadith": 187
+  },
+  {
+    "id": 78,
+    "name": "Good Manners and Form (Al-Adab)",
+    "startingHadithNo": 5970,
+    "endingHadithNo": 6226,
+    "totalHadith": 257
+  },
+  {
+    "id": 79,
+    "name": "Asking Permission",
+    "startingHadithNo": 6227,
+    "endingHadithNo": 6303,
+    "totalHadith": 77
+  },
+  {
+    "id": 80,
+    "name": "Invocations",
+    "startingHadithNo": 6304,
+    "endingHadithNo": 6411,
+    "totalHadith": 108
+  },
+  {
+    "id": 81,
+    "name": "To make the Heart Tender (Ar-Riqaq)",
+    "startingHadithNo": 6412,
+    "endingHadithNo": 6593,
+    "totalHadith": 182
+  },
+  {
+    "id": 82,
+    "name": "Divine Will (Al-Qadar)",
+    "startingHadithNo": 6594,
+    "endingHadithNo": 6620,
+    "totalHadith": 27
+  },
+  {
+    "id": 83,
+    "name": "Oaths and Vows",
+    "startingHadithNo": 6621,
+    "endingHadithNo": 6707,
+    "totalHadith": 87
+  },
+  {
+    "id": 84,
+    "name": "Expiation for Unfulfilled Oaths",
+    "startingHadithNo": 6708,
+    "endingHadithNo": 6722,
+    "totalHadith": 15
+  },
+  {
+    "id": 85,
+    "name": "Laws of Inheritance (Al-Faraa'id)",
+    "startingHadithNo": 6723,
+    "endingHadithNo": 6771,
+    "totalHadith": 49
+  },
+  {
+    "id": 86,
+    "name": "Limits and Punishments set by Allah (Hudood)",
+    "startingHadithNo": 6772,
+    "endingHadithNo": 6860,
+    "totalHadith": 89
+  },
+  {
+    "id": 87,
+    "name": "Blood Money (Ad-Diyat)",
+    "startingHadithNo": 6861,
+    "endingHadithNo": 6917,
+    "totalHadith": 57
+  },
+  {
+    "id": 88,
+    "name": "Apostates",
+    "startingHadithNo": 6918,
+    "endingHadithNo": 6939,
+    "totalHadith": 22
+  },
+  {
+    "id": 89,
+    "name": "(Statements made under) Coercion",
+    "startingHadithNo": 6940,
+    "endingHadithNo": 6952,
+    "totalHadith": 13
+  },
+  {
+    "id": 90,
+    "name": "Tricks",
+    "startingHadithNo": 6953,
+    "endingHadithNo": 6981,
+    "totalHadith": 29
+  },
+  {
+    "id": 91,
+    "name": "Interpretation of Dreams",
+    "startingHadithNo": 6982,
+    "endingHadithNo": 7047,
+    "totalHadith": 66
+  },
+  {
+    "id": 92,
+    "name": "Afflictions and the End of the World",
+    "startingHadithNo": 7048,
+    "endingHadithNo": 7136,
+    "totalHadith": 89
+  },
+  {
+    "id": 93,
+    "name": "Judgments (Ahkaam)",
+    "startingHadithNo": 7137,
+    "endingHadithNo": 7225,
+    "totalHadith": 89
+  },
+  {
+    "id": 94,
+    "name": "Wishes",
+    "startingHadithNo": 7226,
+    "endingHadithNo": 7245,
+    "totalHadith": 20
+  },
+  {
+    "id": 95,
+    "name": "Accepting Information Given by a Truthful Person",
+    "startingHadithNo": 7246,
+    "endingHadithNo": 7267,
+    "totalHadith": 22
+  },
+  {
+    "id": 96,
+    "name": "Holding Fast to the Qur'an and Sunnah",
+    "startingHadithNo": 7268,
+    "endingHadithNo": 7370,
+    "totalHadith": 103
+  },
+  {
+    "id": 97,
+    "name": "Oneness, Uniqueness of Allah (Tawheed)",
+    "startingHadithNo": 7371,
+    "endingHadithNo": 7563,
+    "totalHadith": 193
+  }
+]

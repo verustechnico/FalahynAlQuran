@@ -1,0 +1,681 @@
+[
+  {
+    "id": 1,
+    "name": "Révélation",
+    "startingHadithNo": 1,
+    "endingHadithNo": 7,
+    "totalHadith": 7
+  },
+  {
+    "id": 2,
+    "name": "La Foi",
+    "startingHadithNo": 8,
+    "endingHadithNo": 58,
+    "totalHadith": 51
+  },
+  {
+    "id": 3,
+    "name": "La Science",
+    "startingHadithNo": 59,
+    "endingHadithNo": 134,
+    "totalHadith": 76
+  },
+  {
+    "id": 4,
+    "name": "Les Ablutions (Wudô')",
+    "startingHadithNo": 135,
+    "endingHadithNo": 247,
+    "totalHadith": 113
+  },
+  {
+    "id": 5,
+    "name": "Le Bain Rituel (Ghusl)",
+    "startingHadithNo": 248,
+    "endingHadithNo": 293,
+    "totalHadith": 46
+  },
+  {
+    "id": 6,
+    "name": "Les Menstrues",
+    "startingHadithNo": 294,
+    "endingHadithNo": 333,
+    "totalHadith": 40
+  },
+  {
+    "id": 7,
+    "name": "L'Ablution secrète ou avec de la poussière (Tayammum)",
+    "startingHadithNo": 334,
+    "endingHadithNo": 348,
+    "totalHadith": 15
+  },
+  {
+    "id": 8,
+    "name": "La Prière (Salât)",
+    "startingHadithNo": 349,
+    "endingHadithNo": 520,
+    "totalHadith": 172
+  },
+  {
+    "id": 9,
+    "name": "Les Heures des Prières",
+    "startingHadithNo": 522,
+    "endingHadithNo": 602,
+    "totalHadith": 81
+  },
+  {
+    "id": 10,
+    "name": "L'Appel à la Prière (Adhân)",
+    "startingHadithNo": 603,
+    "endingHadithNo": 875,
+    "totalHadith": 273
+  },
+  {
+    "id": 11,
+    "name": "La Prière du Vendredi",
+    "startingHadithNo": 876,
+    "endingHadithNo": 941,
+    "totalHadith": 66
+  },
+  {
+    "id": 12,
+    "name": "La Prière de la Peur",
+    "startingHadithNo": 942,
+    "endingHadithNo": 947,
+    "totalHadith": 6
+  },
+  {
+    "id": 13,
+    "name": "Les Deux Fêtes (Eids)",
+    "startingHadithNo": 948,
+    "endingHadithNo": 989,
+    "totalHadith": 42
+  },
+  {
+    "id": 14,
+    "name": "La Prière du Witr",
+    "startingHadithNo": 990,
+    "endingHadithNo": 1004,
+    "totalHadith": 15
+  },
+  {
+    "id": 15,
+    "name": "L'Appel à la Pluie (Istisqâ')",
+    "startingHadithNo": 1005,
+    "endingHadithNo": 1039,
+    "totalHadith": 35
+  },
+  {
+    "id": 16,
+    "name": "Les Éclipses",
+    "startingHadithNo": 1040,
+    "endingHadithNo": 1066,
+    "totalHadith": 27
+  },
+  {
+    "id": 17,
+    "name": "La Prosternation lors de la Récitation du Coran",
+    "startingHadithNo": 1067,
+    "endingHadithNo": 1079,
+    "totalHadith": 13
+  },
+  {
+    "id": 18,
+    "name": "Le Raccourcissement des Prières (At-Taqseyr)",
+    "startingHadithNo": 1080,
+    "endingHadithNo": 1119,
+    "totalHadith": 40
+  },
+  {
+    "id": 19,
+    "name": "La Prière Nocturne (Tahajjud)",
+    "startingHadithNo": 1120,
+    "endingHadithNo": 1187,
+    "totalHadith": 68
+  },
+  {
+    "id": 20,
+    "name": "Mérites de la Prière dans les Mosquées de La Mecque et de Médine",
+    "startingHadithNo": 1188,
+    "endingHadithNo": 1197,
+    "totalHadith": 10
+  },
+  {
+    "id": 21,
+    "name": "Les Actes durant la Prière",
+    "startingHadithNo": 1198,
+    "endingHadithNo": 1223,
+    "totalHadith": 26
+  },
+  {
+    "id": 22,
+    "name": "L'Oubli dans la Prière",
+    "startingHadithNo": 1224,
+    "endingHadithNo": 1236,
+    "totalHadith": 13
+  },
+  {
+    "id": 23,
+    "name": "Les Funérailles (Al-Janâ'iz)",
+    "startingHadithNo": 1237,
+    "endingHadithNo": 1394,
+    "totalHadith": 158
+  },
+  {
+    "id": 24,
+    "name": "L'Aumône Obligatoire (Zakât)",
+    "startingHadithNo": 1395,
+    "endingHadithNo": 1512,
+    "totalHadith": 118
+  },
+  {
+    "id": 25,
+    "name": "Le Pèlerinage (Hajj)",
+    "startingHadithNo": 1513,
+    "endingHadithNo": 1772,
+    "totalHadith": 260
+  },
+  {
+    "id": 26,
+    "name": "La `Umra (Petit Pèlerinage)",
+    "startingHadithNo": 1773,
+    "endingHadithNo": 1805,
+    "totalHadith": 33
+  },
+  {
+    "id": 27,
+    "name": "Les Pèlerins Empêchés de Compléter le Pèlerinage",
+    "startingHadithNo": 1806,
+    "endingHadithNo": 1820,
+    "totalHadith": 15
+  },
+  {
+    "id": 28,
+    "name": "La Peine pour Chasse pendant le Pèlerinage",
+    "startingHadithNo": 1821,
+    "endingHadithNo": 1866,
+    "totalHadith": 46
+  },
+  {
+    "id": 29,
+    "name": "Les Mérites de Médine",
+    "startingHadithNo": 1867,
+    "endingHadithNo": 1890,
+    "totalHadith": 24
+  },
+  {
+    "id": 30,
+    "name": "Le Jeûne",
+    "startingHadithNo": 1891,
+    "endingHadithNo": 2007,
+    "totalHadith": 117
+  },
+  {
+    "id": 31,
+    "name": "La Prière Nocturne de Ramadan (Tarawîh)",
+    "startingHadithNo": 2008,
+    "endingHadithNo": 2013,
+    "totalHadith": 6
+  },
+  {
+    "id": 32,
+    "name": "Les Mérites de la Nuit du Destin (Al-Qadr)",
+    "startingHadithNo": 2014,
+    "endingHadithNo": 2024,
+    "totalHadith": 11
+  },
+  {
+    "id": 33,
+    "name": "La Retraite Spirituelle dans la Mosquée (I'tikâf)",
+    "startingHadithNo": 2025,
+    "endingHadithNo": 2046,
+    "totalHadith": 22
+  },
+  {
+    "id": 34,
+    "name": "Ventes et Commerce",
+    "startingHadithNo": 2047,
+    "endingHadithNo": 2238,
+    "totalHadith": 192
+  },
+  {
+    "id": 35,
+    "name": "Ventes avec Paiement Anticipé pour Livraison Ultérieure (As-Salam)",
+    "startingHadithNo": 2239,
+    "endingHadithNo": 2256,
+    "totalHadith": 18
+  },
+  {
+    "id": 36,
+    "name": "Le Droit de Préemption (Shuf'a)",
+    "startingHadithNo": 2257,
+    "endingHadithNo": 2259,
+    "totalHadith": 3
+  },
+  {
+    "id": 37,
+    "name": "Le Louage et les Services",
+    "startingHadithNo": 2260,
+    "endingHadithNo": 2286,
+    "totalHadith": 27
+  },
+  {
+    "id": 38,
+    "name": "Le Transfert de Dette (Al-Hawâla)",
+    "startingHadithNo": 2287,
+    "endingHadithNo": 2289,
+    "totalHadith": 3
+  },
+  {
+    "id": 39,
+    "name": "Le Cautionnement (Kafâla)",
+    "startingHadithNo": 2290,
+    "endingHadithNo": 2298,
+    "totalHadith": 9
+  },
+  {
+    "id": 40,
+    "name": "Représentation, Mandat et Affaires par Procuration",
+    "startingHadithNo": 2299,
+    "endingHadithNo": 2319,
+    "totalHadith": 21
+  },
+  {
+    "id": 41,
+    "name": "Agriculture et Fermage",
+    "startingHadithNo": 2320,
+    "endingHadithNo": 2350,
+    "totalHadith": 31
+  },
+  {
+    "id": 42,
+    "name": "Répartition de l'Eau",
+    "startingHadithNo": 2351,
+    "endingHadithNo": 2383,
+    "totalHadith": 33
+  },
+  {
+    "id": 43,
+    "name": "Prêts, Remboursement, Gel des Biens et Faillite",
+    "startingHadithNo": 2385,
+    "endingHadithNo": 2409,
+    "totalHadith": 25
+  },
+  {
+    "id": 44,
+    "name": "Litiges (Khusûmât)",
+    "startingHadithNo": 2410,
+    "endingHadithNo": 2425,
+    "totalHadith": 16
+  },
+  {
+    "id": 45,
+    "name": "Objets Trouvés (Luqata)",
+    "startingHadithNo": 2426,
+    "endingHadithNo": 2439,
+    "totalHadith": 14
+  },
+  {
+    "id": 46,
+    "name": "Injustices et Oppressions",
+    "startingHadithNo": 2440,
+    "endingHadithNo": 2482,
+    "totalHadith": 43
+  },
+  {
+    "id": 47,
+    "name": "Association commerciale",
+    "startingHadithNo": 2483,
+    "endingHadithNo": 2507,
+    "totalHadith": 25
+  },
+  {
+    "id": 48,
+    "name": "Le Gage",
+    "startingHadithNo": 2508,
+    "endingHadithNo": 2515,
+    "totalHadith": 8
+  },
+  {
+    "id": 49,
+    "name": "Affranchissement des Esclaves",
+    "startingHadithNo": 2517,
+    "endingHadithNo": 2559,
+    "totalHadith": 43
+  },
+  {
+    "id": 50,
+    "name": "Les Contrats d'Affranchissement (Makâtib)",
+    "startingHadithNo": 2560,
+    "endingHadithNo": 2565,
+    "totalHadith": 6
+  },
+  {
+    "id": 51,
+    "name": "Les Dons",
+    "startingHadithNo": 2566,
+    "endingHadithNo": 2636,
+    "totalHadith": 71
+  },
+  {
+    "id": 52,
+    "name": "Les Témoins",
+    "startingHadithNo": 2637,
+    "endingHadithNo": 2689,
+    "totalHadith": 53
+  },
+  {
+    "id": 53,
+    "name": "La Réconciliation",
+    "startingHadithNo": 2690,
+    "endingHadithNo": 2710,
+    "totalHadith": 21
+  },
+  {
+    "id": 54,
+    "name": "Les Conditions",
+    "startingHadithNo": 2712,
+    "endingHadithNo": 2737,
+    "totalHadith": 26
+  },
+  {
+    "id": 55,
+    "name": "Testaments et Legs (Wasâyâ)",
+    "startingHadithNo": 2738,
+    "endingHadithNo": 2781,
+    "totalHadith": 44
+  },
+  {
+    "id": 56,
+    "name": "Le Combat dans le Sentier d'Allah (Jihâd)",
+    "startingHadithNo": 2782,
+    "endingHadithNo": 3090,
+    "totalHadith": 309
+  },
+  {
+    "id": 57,
+    "name": "Le Cinquième du Butin (Khumus)",
+    "startingHadithNo": 3091,
+    "endingHadithNo": 3155,
+    "totalHadith": 65
+  },
+  {
+    "id": 58,
+    "name": "La Jizya et les Accords de Paix",
+    "startingHadithNo": 3157,
+    "endingHadithNo": 3189,
+    "totalHadith": 33
+  },
+  {
+    "id": 59,
+    "name": "Le Commencement de la Création",
+    "startingHadithNo": 3190,
+    "endingHadithNo": 3325,
+    "totalHadith": 136
+  },
+  {
+    "id": 60,
+    "name": "Les Prophètes",
+    "startingHadithNo": 3326,
+    "endingHadithNo": 3488,
+    "totalHadith": 163
+  },
+  {
+    "id": 61,
+    "name": "Mérites du Prophète (que la paix soit sur lui) et de ses Compagnons",
+    "startingHadithNo": 3489,
+    "endingHadithNo": 3648,
+    "totalHadith": 160
+  },
+  {
+    "id": 62,
+    "name": "Les Compagnons du Prophète",
+    "startingHadithNo": 3649,
+    "endingHadithNo": 3775,
+    "totalHadith": 127
+  },
+  {
+    "id": 63,
+    "name": "Mérites des Auxiliaires de Médine (Ansâr)",
+    "startingHadithNo": 3776,
+    "endingHadithNo": 3948,
+    "totalHadith": 173
+  },
+  {
+    "id": 64,
+    "name": "Expéditions Militaires menées par le Prophète (Al-Maghâzî)",
+    "startingHadithNo": 3949,
+    "endingHadithNo": 4473,
+    "totalHadith": 525
+  },
+  {
+    "id": 65,
+    "name": "Commentaire Prophétique du Coran (Tafsir du Prophète)",
+    "startingHadithNo": 4474,
+    "endingHadithNo": 4977,
+    "totalHadith": 504
+  },
+  {
+    "id": 66,
+    "name": "Les Vertus du Coran",
+    "startingHadithNo": 4979,
+    "endingHadithNo": 5062,
+    "totalHadith": 84
+  },
+  {
+    "id": 67,
+    "name": "Le Mariage (Nikâh)",
+    "startingHadithNo": 5063,
+    "endingHadithNo": 5250,
+    "totalHadith": 188
+  },
+  {
+    "id": 68,
+    "name": "Le Divorce",
+    "startingHadithNo": 5251,
+    "endingHadithNo": 5350,
+    "totalHadith": 100
+  },
+  {
+    "id": 69,
+    "name": "L'Entretien de la Famille",
+    "startingHadithNo": 5351,
+    "endingHadithNo": 5372,
+    "totalHadith": 22
+  },
+  {
+    "id": 70,
+    "name": "Nourriture et Repas",
+    "startingHadithNo": 5373,
+    "endingHadithNo": 5466,
+    "totalHadith": 94
+  },
+  {
+    "id": 71,
+    "name": "Le Sacrifice pour la Naissance (`Aqiqa)",
+    "startingHadithNo": 5467,
+    "endingHadithNo": 5474,
+    "totalHadith": 8
+  },
+  {
+    "id": 72,
+    "name": "Chasse et Abattage",
+    "startingHadithNo": 5475,
+    "endingHadithNo": 5544,
+    "totalHadith": 70
+  },
+  {
+    "id": 73,
+    "name": "Le Sacrifice de la Fête du Adha (Udhiyya)",
+    "startingHadithNo": 5545,
+    "endingHadithNo": 5574,
+    "totalHadith": 30
+  },
+  {
+    "id": 74,
+    "name": "Les Boissons",
+    "startingHadithNo": 5575,
+    "endingHadithNo": 5639,
+    "totalHadith": 65
+  },
+  {
+    "id": 75,
+    "name": "Les Malades",
+    "startingHadithNo": 5640,
+    "endingHadithNo": 5677,
+    "totalHadith": 38
+  },
+  {
+    "id": 76,
+    "name": "La Médecine",
+    "startingHadithNo": 5678,
+    "endingHadithNo": 5782,
+    "totalHadith": 105
+  },
+  {
+    "id": 77,
+    "name": "Les Vêtements",
+    "startingHadithNo": 5783,
+    "endingHadithNo": 5969,
+    "totalHadith": 187
+  },
+  {
+    "id": 78,
+    "name": "Bons Manières et Bienséance (Al-Adab)",
+    "startingHadithNo": 5970,
+    "endingHadithNo": 6226,
+    "totalHadith": 257
+  },
+  {
+    "id": 79,
+    "name": "Demander la Permission",
+    "startingHadithNo": 6227,
+    "endingHadithNo": 6303,
+    "totalHadith": 77
+  },
+  {
+    "id": 80,
+    "name": "Invocations",
+    "startingHadithNo": 6304,
+    "endingHadithNo": 6411,
+    "totalHadith": 108
+  },
+  {
+    "id": 81,
+    "name": "Ce qui Adoucit les Cœurs (Ar-Riqâq)",
+    "startingHadithNo": 6412,
+    "endingHadithNo": 6593,
+    "totalHadith": 182
+  },
+  {
+    "id": 82,
+    "name": "Le Décret Divin (Al-Qadar)",
+    "startingHadithNo": 6594,
+    "endingHadithNo": 6620,
+    "totalHadith": 27
+  },
+  {
+    "id": 83,
+    "name": "Serments et Vœux",
+    "startingHadithNo": 6621,
+    "endingHadithNo": 6707,
+    "totalHadith": 87
+  },
+  {
+    "id": 84,
+    "name": "Expiation des Serments non tenus",
+    "startingHadithNo": 6708,
+    "endingHadithNo": 6722,
+    "totalHadith": 15
+  },
+  {
+    "id": 85,
+    "name": "Les Règles de l'Héritage (Al-Farâ'id)",
+    "startingHadithNo": 6723,
+    "endingHadithNo": 6771,
+    "totalHadith": 49
+  },
+  {
+    "id": 86,
+    "name": "Limites et Peines Légales fixées par Allah (Hudûd)",
+    "startingHadithNo": 6772,
+    "endingHadithNo": 6860,
+    "totalHadith": 89
+  },
+  {
+    "id": 87,
+    "name": "Le Prix du Sang (Ad-Diyât)",
+    "startingHadithNo": 6861,
+    "endingHadithNo": 6917,
+    "totalHadith": 57
+  },
+  {
+    "id": 88,
+    "name": "Les Apostats",
+    "startingHadithNo": 6918,
+    "endingHadithNo": 6939,
+    "totalHadith": 22
+  },
+  {
+    "id": 89,
+    "name": "Déclarations faites sous la Contrainte",
+    "startingHadithNo": 6940,
+    "endingHadithNo": 6952,
+    "totalHadith": 13
+  },
+  {
+    "id": 90,
+    "name": "Ruses et Stratagèmes",
+    "startingHadithNo": 6953,
+    "endingHadithNo": 6981,
+    "totalHadith": 29
+  },
+  {
+    "id": 91,
+    "name": "L'Interprétation des Rêves",
+    "startingHadithNo": 6982,
+    "endingHadithNo": 7047,
+    "totalHadith": 66
+  },
+  {
+    "id": 92,
+    "name": "Troubles et Signes de la Fin du Monde",
+    "startingHadithNo": 7048,
+    "endingHadithNo": 7136,
+    "totalHadith": 89
+  },
+  {
+    "id": 93,
+    "name": "Les Jugements (Ahkâm)",
+    "startingHadithNo": 7137,
+    "endingHadithNo": 7225,
+    "totalHadith": 89
+  },
+  {
+    "id": 94,
+    "name": "Les Souhaits",
+    "startingHadithNo": 7226,
+    "endingHadithNo": 7245,
+    "totalHadith": 20
+  },
+  {
+    "id": 95,
+    "name": "Accepter l'Information Rapportée par une Personne Véridique",
+    "startingHadithNo": 7246,
+    "endingHadithNo": 7267,
+    "totalHadith": 22
+  },
+  {
+    "id": 96,
+    "name": "S'attacher fermement au Coran et à la Sunna",
+    "startingHadithNo": 7268,
+    "endingHadithNo": 7370,
+    "totalHadith": 103
+  },
+  {
+    "id": 97,
+    "name": "L'Unicité d'Allah (Tawhîd)",
+    "startingHadithNo": 7371,
+    "endingHadithNo": 7563,
+    "totalHadith": 193
+  }
+]

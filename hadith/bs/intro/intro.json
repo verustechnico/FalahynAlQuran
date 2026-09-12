@@ -1,0 +1,53 @@
+{
+    "books": [
+        {
+            "slug": "bukhari",
+            "en_name": "Sahih al-Bukhari",
+            "ar_name": "صحيح البخاري",
+            "intro": "Sahih al-Bukhari je zbirka hadisa koju je sakupio imam Muhammad al-Bukhari (umro 256. h.g./870. n.e.) (rahimahullah). Njegova zbirka je od većine muslimanskog svijeta priznata kao najvjerodostojnija zbirka predaja o Sunnetu Poslanika Muhameda (ﷺ). Sadrži preko 7500 hadisa (sa ponavljanjima) u 97 knjiga. Ovdje navedeni prijevod je od dr. M. Muhsin Khana.",
+            "totalHadith": 7291
+        },
+        {
+            "slug": "muslim",
+            "en_name": "Sahih Muslim",
+            "ar_name": "صحيح مسلم",
+            "intro": "Sahih Muslim je zbirka hadisa koju je sakupio imam Muslim ibn al-Hajjaj al-Naysaburi (rahimahullah). Njegova zbirka se smatra jednom od najvjerodostojnijih zbirki Sunneta Poslanika (ﷺ), te zajedno sa Sahih al-Bukhari čini \"Sahihain\" ili \"Dva Sahiha\". Sadrži oko 7500 hadisa (sa ponavljanjima) u 57 knjiga. Ovdje navedeni prijevod je od Abdul Hamida Siddiqija.",
+            "totalHadith": 7470
+        },
+        {
+            "slug": "nasai",
+            "en_name": "Sunan an-Nasa'i",
+            "ar_name": "سنن النسائي",
+            "intro": "Sunan an-Nasa'i je zbirka hadisa koju je sakupio imam Ahmad an-Nasa'i (rahimahullah). Njegova zbirka se jednoglasno smatra jednom od šest kanonskih zbirki hadisa (Kutub as-Sittah) Sunneta Poslanika (ﷺ). Sadrži oko 5700 hadisa (sa ponavljanjima) u 52 knjige.",
+            "totalHadith": 5766
+        },
+        {
+            "slug": "tirmidhi",
+            "en_name": "Jami` at-Tirmidhi",
+            "ar_name": "جامع الترمذي",
+            "intro": "Jami` at-Tirmidhi je zbirka hadisa koju je sakupio imam Abu `Isa Muhammad at-Tirmidhi (rahimahullah). Njegova zbirka se jednoglasno smatra jednom od šest kanonskih zbirki hadisa (Kutub as-Sittah) Sunneta Poslanika (ﷺ). Sadrži oko 4400 hadisa (sa ponavljanjima) u 46 knjiga.",
+            "totalHadith": 3956
+        },
+        {
+            "slug": "ibnmajah",
+            "en_name": "Sunan Ibn Majah",
+            "ar_name": "سنن ابن ماجه",
+            "intro": "Sunan Ibn Majah je zbirka hadisa koju je sakupio imam Muhammad bin Yazid Ibn Majah al-Qazvini (rahimahullah). Široko se smatra šestom od šest kanonskih zbirki hadisa (Kutub as-Sittah) Sunneta Poslanika (ﷺ). Sastoji se od 4341 hadisa u 37 knjiga.",
+            "totalHadith": 4341
+        },
+        {
+            "slug": "malik",
+            "en_name": "Muwatta Malik",
+            "ar_name": "موطأ مالك",
+            "intro": "Al-Muwatta (doslovno znači \"utabani put\" ili \"ono što je olakšano\"), koju je sakupio imam Malik ibn Anas u 8. vijeku, jedna je od najranijih i najmjerodavnijih sačuvanih zbirki islamske tradicije i pravne nauke (fikha). Ona na jedinstven način kombinuje poslaničke hadise (marfu) sa pravnim presudama, praksom i izrekama ashaba (mavkuf) i tabi'ina (maktu), snažno naglašavajući pravnu tradiciju i konsenzus stanovnika Medine.",
+            "totalHadith": 1973
+        },
+        {
+            "slug": "abudawud",
+            "en_name": "Sunan Abi Dawud",
+            "ar_name": "سنن أبي داود",
+            "intro": "Sunan Abi Dawud je zbirka hadisa koju je sakupio imam Abu Dawud Sulayman ibn al-Ash'ath as-Sijistani (rahimahullah). Široko se smatra jednom od šest kanonskih zbirki hadisa (Kutub as-Sittah) Sunneta Poslanika (ﷺ). Sastoji se od 5274 hadisa u 43 knjige. Pismo imama Abu Dawuda stanovnicima Mekke u kojem objašnjava svoju knjigu, termine koje koristi i svoju metodologiju.",
+            "totalHadith": 5276
+        }
+    ]
+}

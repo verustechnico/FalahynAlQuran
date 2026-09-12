@@ -1,0 +1,53 @@
+{
+    "books": [
+        {
+            "slug": "bukhari",
+            "en_name": "Sahih al-Bukhari",
+            "ar_name": "صحيح البخاري",
+            "intro": "《布哈里圣训实录》（Sahih al-Bukhari）是由伊玛目穆罕默德·布哈里（卒于公元870年/伊历256年）(rahimahullah)辑录的圣训集。他的集子被绝大多数伊斯兰世界公认为圣人穆罕默德(ﷺ)圣训中最权威、最正确的圣训集。全书共97卷，收录了7500多段圣训（含重复内容）。此处提供的译本由 Dr. M. Muhsin Khan 翻译。",
+            "totalHadith": 7291
+        },
+        {
+            "slug": "muslim",
+            "en_name": "Sahih Muslim",
+            "ar_name": "صحيح مسلم",
+            "intro": "《穆斯林圣训实录》（Sahih Muslim）是由伊玛目穆斯林·伊本·哈加吉·奈萨布里(rahimahullah)辑录的圣训集。他的集子被认为是圣人(ﷺ)圣训中最权威的集子之一，与《布哈里圣训实录》合称为“两实录”（Sahihain）。全书共57卷，收录了约7500段圣训（含重复内容）。此处提供的译本由 Abdul Hamid Siddiqui 翻译。",
+            "totalHadith": 7470
+        },
+        {
+            "slug": "nasai",
+            "en_name": "Sunan an-Nasa'i",
+            "ar_name": "سنن النسائي",
+            "intro": "《圣训小集》（Sunan an-Nasa'i，又称《奈萨仪圣训集》）是由伊玛目艾哈迈德·奈萨仪(rahimahullah)辑录的圣训集。他的集子被公认为圣人(ﷺ)圣训六大权威圣训集（Kutub as-Sittah）之一。全书共52卷，收录了约5700段圣训（含重复内容）。",
+            "totalHadith": 5766
+        },
+        {
+            "slug": "tirmidhi",
+            "en_name": "Jami` at-Tirmidhi",
+            "ar_name": "جامع الترمذي",
+            "intro": "《提尔米济圣训集》（Jami` at-Tirmidhi）是由伊玛目阿布·伊萨·穆罕默德·提尔米济(rahimahullah)辑录的圣训集。他的集子被公认为圣人(ﷺ)圣训六大权威圣训集（Kutub as-Sittah）之一。全书共46卷，收录了约4400段圣训（含重复内容）。",
+            "totalHadith": 3956
+        },
+        {
+            "slug": "ibnmajah",
+            "en_name": "Sunan Ibn Majah",
+            "ar_name": "سنن ابن ماجه",
+            "intro": "《马加圣训集》（Sunan Ibn Majah）是由伊玛目穆罕默德·本·亚齐德·伊本·马加·卡兹维尼(rahimahullah)辑录的圣训集。它被广泛认为是圣人(ﷺ)圣训六大权威圣训集（Kutub as-Sittah）中的第六部。全书共37卷，包含4341段圣训。",
+            "totalHadith": 4341
+        },
+        {
+            "slug": "malik",
+            "en_name": "Muwatta Malik",
+            "ar_name": "موطأ مالك",
+            "intro": "《圣训麦英妥》（Al-Muwatta，字面意思为“平坦之路”或“易行之道”）由伊玛目马里克·伊本·阿纳斯于公元8世纪辑录，是现存最早、最具权威性的伊斯兰传统与律例集之一。它独特地将先知的圣训（marfu）与圣伴（mawquf）及圣妻/追随者（maqtu）的法律判决、习惯和言论相结合，高度强调麦地那居民的法律传统与共识。",
+            "totalHadith": 1973
+        },
+        {
+            "slug": "abudawud",
+            "en_name": "Sunan Abi Dawud",
+            "ar_name": "سنن أبي داود",
+            "intro": "《阿布·达乌德圣训集》（Sunan Abi Dawud）是由伊玛目阿布·达乌德·苏莱曼·伊本·阿什阿斯·西吉斯塔尼(rahimahullah)辑录的圣训集。它被广泛认为是圣人(ﷺ)圣训六大权威圣训集（Kutub as-Sittah）之一。全书共43卷，包含5274段圣训。附有伊玛目阿布·达乌德致麦加居民的信函，解释了他的著作、所用术语及其研究方法。",
+            "totalHadith": 5276
+        }
+    ]
+}

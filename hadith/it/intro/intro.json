@@ -1,0 +1,53 @@
+{
+    "books": [
+        {
+            "slug": "bukhari",
+            "en_name": "Sahih al-Bukhari",
+            "ar_name": "صحيح البخاري",
+            "intro": "Sahih al-Bukhari è una raccolta di hadith compilata dall'Imam Muhammad al-Bukhari (m. 256 AH/870 d.C.) (rahimahullah). La sua raccolta è riconosciuta dalla stragrande maggioranza del mondo islamico come la raccolta più autentica dei resoconti della Sunnah del Profeta Muhammad (ﷺ). Contiene oltre 7500 hadith (con ripetizioni) suddivisi in 97 libri. La traduzione qui fornita è del Dr. M. Muhsin Khan.",
+            "totalHadith": 7291
+        },
+        {
+            "slug": "muslim",
+            "en_name": "Sahih Muslim",
+            "ar_name": "صحيح مسلم",
+            "intro": "Sahih Muslim è una raccolta di hadith compilata dall'Imam Muslim ibn al-Hajjaj al-Naysaburi (rahimahullah). La sua raccolta è considerata una delle raccolte più autentiche della Sunnah del Profeta (ﷺ) e, insieme a Sahih al-Bukhari, forma i \"Sahihain\", ovvero i \"Due Sahih\". Contiene circa 7500 hadith (con ripetizioni) suddivisi in 57 libri. La traduzione qui fornita è di Abdul Hamid Siddiqui.",
+            "totalHadith": 7470
+        },
+        {
+            "slug": "nasai",
+            "en_name": "Sunan an-Nasa'i",
+            "ar_name": "سنن النسائي",
+            "intro": "Sunan an-Nasa'i è una raccolta di hadith compilata dall'Imam Ahmad an-Nasa'i (rahimahullah). La sua raccolta è unanimemente considerata una delle sei raccolte canoniche di hadith (Kutub as-Sittah) della Sunnah del Profeta (ﷺ). Contiene circa 5700 hadith (con ripetizioni) suddivisi in 52 libri.",
+            "totalHadith": 5766
+        },
+        {
+            "slug": "tirmidhi",
+            "en_name": "Jami` at-Tirmidhi",
+            "ar_name": "جامع الترمذي",
+            "intro": "Jami` at-Tirmidhi è una raccolta di hadith compilata dall'Imam Abu `Isa Muhammad at-Tirmidhi (rahimahullah). La sua raccolta è unanimemente considerata una delle sei raccolte canoniche di hadith (Kutub as-Sittah) della Sunnah del Profeta (ﷺ). Contiene circa 4400 hadith (con ripetizioni) suddivisi in 46 libri.",
+            "totalHadith": 3956
+        },
+        {
+            "slug": "ibnmajah",
+            "en_name": "Sunan Ibn Majah",
+            "ar_name": "سنن ابن ماجه",
+            "intro": "Sunan Ibn Majah è una raccolta di hadith compilata dall'Imam Muhammad bin Yazid Ibn Majah al-Qazvini (rahimahullah). È ampiamente considerata la sesta delle sei raccolte canoniche di hadith (Kutub as-Sittah) della Sunnah del Profeta (ﷺ). Consiste di 4341 ahadith suddivisi in 37 libri.",
+            "totalHadith": 4341
+        },
+        {
+            "slug": "malik",
+            "en_name": "Muwatta Malik",
+            "ar_name": "موطأ مالك",
+            "intro": "Al-Muwatta (che significa letteralmente \"il sentiero spianato\" o \"ciò che è reso facile\"), compilato dall'Imam Malik ibn Anas nel VIII secolo, è una delle più antiche e autorevoli raccolte esistenti di tradizioni e giurisprudenza islamica. Unisce in modo unico gli hadith profetici (marfu) con le decisioni legali, le pratiche e i detti dei Compagni (mawquf) e dei Successori (maqtu), ponendo forte enfasi sulle tradizioni legali e sul consenso della gente di Medina.",
+            "totalHadith": 1973
+        },
+        {
+            "slug": "abudawud",
+            "en_name": "Sunan Abi Dawud",
+            "ar_name": "سنن أبي داود",
+            "intro": "Sunan Abi Dawud è una raccolta di hadith compilata dall'Imam Abu Dawud Sulayman ibn al-Ash'ath as-Sijistani (rahimahullah). È ampiamente considerata tra le sei raccolte canoniche di hadith (Kutub as-Sittah) della Sunnah del Profeta (ﷺ). Consiste di 5274 ahadith suddivisi in 43 libri. Lettera dell'Imam Abu Dawud alla gente della Mecca che spiega il suo libro, i termini che utilizza e la sua metodologia.",
+            "totalHadith": 5276
+        }
+    ]
+}

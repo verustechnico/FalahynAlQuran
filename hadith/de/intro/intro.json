@@ -1,0 +1,53 @@
+{
+    "books": [
+        {
+            "slug": "bukhari",
+            "en_name": "Sahih al-Bukhari",
+            "ar_name": "صحيح البخاري",
+            "intro": "Sahih al-Bukhari ist eine Hadith-Sammlung, die von Imam Muhammad al-Bukhari (gest. 256 n. H./870 n. Chr.) (rahimahullah) zusammengestellt wurde. Seine Sammlung wird von der überwältigenden Mehrheit der muslimischen Welt als die authentischste Sammlung von Überlieferungen der Sunnah des Propheten Muhammad (ﷺ) anerkannt. Sie enthält über 7500 Hadithe (mit Wiederholungen) in 97 Büchern. Die hier bereitgestellte Übersetzung stammt von Dr. M. Muhsin Khan.",
+            "totalHadith": 7291
+        },
+        {
+            "slug": "muslim",
+            "en_name": "Sahih Muslim",
+            "ar_name": "صحيح مسلم",
+            "intro": "Sahih Muslim ist eine Hadith-Sammlung, die von Imam Muslim ibn al-Hajjaj al-Naysaburi (rahimahullah) zusammengestellt wurde. Seine Sammlung gilt als eine der authentischsten Sammlungen der Sunnah des Propheten (ﷺ) und bildet zusammen mit Sahih al-Bukhari die \"Sahihain\" oder die \"Zwei Sahihe\". Sie enthält ungefähr 7500 Hadithe (mit Wiederholungen) in 57 Büchern. Die hier bereitgestellte Übersetzung stammt von Abdul Hamid Siddiqui.",
+            "totalHadith": 7470
+        },
+        {
+            "slug": "nasai",
+            "en_name": "Sunan an-Nasa'i",
+            "ar_name": "سنن النسائي",
+            "intro": "Sunan an-Nasa'i ist eine Hadith-Sammlung, die von Imam Ahmad an-Nasa'i (rahimahullah) zusammengestellt wurde. Seine Sammlung gilt einhellig als eine der sechs kanonischen Hadith-Sammlungen (Kutub as-Sittah) der Sunnah des Propheten (ﷺ). Sie enthält ungefähr 5700 Hadithe (mit Wiederholungen) in 52 Büchern.",
+            "totalHadith": 5766
+        },
+        {
+            "slug": "tirmidhi",
+            "en_name": "Jami` at-Tirmidhi",
+            "ar_name": "جامع الترمذي",
+            "intro": "Jami` at-Tirmidhi ist eine Hadith-Sammlung, die von Imam Abu `Isa Muhammad at-Tirmidhi (rahimahullah) zusammengestellt wurde. Seine Sammlung gilt einhellig als eine der sechs kanonischen Hadith-Sammlungen (Kutub as-Sittah) der Sunnah des Propheten (ﷺ). Sie enthält ungefähr 4400 Hadithe (mit Wiederholungen) in 46 Büchern.",
+            "totalHadith": 3956
+        },
+        {
+            "slug": "ibnmajah",
+            "en_name": "Sunan Ibn Majah",
+            "ar_name": "سنن ابن ماجه",
+            "intro": "Sunan Ibn Majah ist eine Hadith-Sammlung, die von Imam Muhammad bin Yazid Ibn Majah al-Qazvini (rahimahullah) zusammengestellt wurde. Sie gilt weithin als die sechste der sechs kanonischen Hadith-Sammlungen (Kutub as-Sittah) der Sunnah des Propheten (ﷺ). Sie besteht aus 4341 Ahadith in 37 Büchern.",
+            "totalHadith": 4341
+        },
+        {
+            "slug": "malik",
+            "en_name": "Muwatta Malik",
+            "ar_name": "موطأ مالك",
+            "intro": "Al-Muwatta (wörtlich „der geebnete Pfad“ oder „das, was erleichtert wurde“), zusammengestellt von Imam Malik ibn Anas im 8. Jahrhundert, ist eine der frühesten und maßgeblichsten erhaltenen Sammlungen islamischer Traditionen und Rechtswissenschaft. Sie verbindet auf einzigartige Weise prophetische Hadithe (marfu) mit den rechtlichen Bestimmungen, Praktiken und Aussagen der Gefährten (mawquf) und Nachfolger (maqtu) und betont stark die Rechtstraditionen und den Konsens der Leute von Medina.",
+            "totalHadith": 1973
+        },
+        {
+            "slug": "abudawud",
+            "en_name": "Sunan Abi Dawud",
+            "ar_name": "سنن أبي داود",
+            "intro": "Sunan Abi Dawud ist eine Hadith-Sammlung, die von Imam Abu Dawud Sulayman ibn al-Ash'ath as-Sijistani (rahimahullah) zusammengestellt wurde. Sie gilt weithin als eine der sechs kanonischen Hadith-Sammlungen (Kutub as-Sittah) der Sunnah des Propheten (ﷺ). Sie besteht aus 5274 Ahadith in 43 Büchern. Brief von Imam Abu Dawud an die Leute von Mekka, in dem er sein Buch, die von ihm verwendeten Begriffe und seine Methodik erklärt.",
+            "totalHadith": 5276
+        }
+    ]
+}

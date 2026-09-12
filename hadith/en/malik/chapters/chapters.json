@@ -1,0 +1,430 @@
+[
+
+  {
+    "id": 1,
+    "name": "The Times of Prayer",
+    "startingHadithNo": 1,
+    "endingHadithNo": 31,
+    "totalHadith": 31
+  },
+  {
+    "id": 2,
+    "name": "Purity",
+    "startingHadithNo": 32,
+    "endingHadithNo": 145,
+    "totalHadith": 114
+  },
+  {
+    "id": 3,
+    "name": "Prayer",
+    "startingHadithNo": 146,
+    "endingHadithNo": 221,
+    "totalHadith": 76
+  },
+  {
+    "id": 4,
+    "name": "Forgetfulness in Prayer",
+    "startingHadithNo": 222,
+    "endingHadithNo": 224,
+    "totalHadith": 3
+  },
+  {
+    "id": 5,
+    "name": "Jumu'a",
+    "startingHadithNo": 225,
+    "endingHadithNo": 245,
+    "totalHadith": 21
+  },
+  {
+    "id": 6,
+    "name": "Prayer in Ramadan",
+    "startingHadithNo": 246,
+    "endingHadithNo": 253,
+    "totalHadith": 8
+  },
+  {
+    "id": 7,
+    "name": "Tahajjud",
+    "startingHadithNo": 254,
+    "endingHadithNo": 286,
+    "totalHadith": 33
+  },
+  {
+    "id": 8,
+    "name": "Prayer in Congregation",
+    "startingHadithNo": 287,
+    "endingHadithNo": 325,
+    "totalHadith": 39
+  },
+  {
+    "id": 9,
+    "name": "Shortening the Prayer",
+    "startingHadithNo": 326,
+    "endingHadithNo": 427,
+    "totalHadith": 102
+  },
+  {
+    "id": 10,
+    "name": "The Two 'Ids",
+    "startingHadithNo": 428,
+    "endingHadithNo": 440,
+    "totalHadith": 13
+  },
+  {
+    "id": 11,
+    "name": "The Fear Prayer",
+    "startingHadithNo": 441,
+    "endingHadithNo": 444,
+    "totalHadith": 4
+  },
+  {
+    "id": 12,
+    "name": "The Eclipse Prayer",
+    "startingHadithNo": 445,
+    "endingHadithNo": 448,
+    "totalHadith": 4
+  },
+  {
+    "id": 13,
+    "name": "Asking for Rain",
+    "startingHadithNo": 449,
+    "endingHadithNo": 454,
+    "totalHadith": 6
+  },
+  {
+    "id": 14,
+    "name": "The Qibla",
+    "startingHadithNo": 455,
+    "endingHadithNo": 469,
+    "totalHadith": 15
+  },
+  {
+    "id": 15,
+    "name": "The Qur'an",
+    "startingHadithNo": 470,
+    "endingHadithNo": 519,
+    "totalHadith": 50
+  },
+  {
+    "id": 16,
+    "name": "Burials",
+    "startingHadithNo": 520,
+    "endingHadithNo": 577,
+    "totalHadith": 58
+  },
+  {
+    "id": 17,
+    "name": "Zakat",
+    "startingHadithNo": 578,
+    "endingHadithNo": 629,
+    "totalHadith": 52
+  },
+  {
+    "id": 18,
+    "name": "Fasting",
+    "startingHadithNo": 630,
+    "endingHadithNo": 689,
+    "totalHadith": 60
+  },
+  {
+    "id": 19,
+    "name": "I'tikaf in Ramadan",
+    "startingHadithNo": 690,
+    "endingHadithNo": 704,
+    "totalHadith": 15
+  },
+  {
+    "id": 20,
+    "name": "Hajj",
+    "startingHadithNo": 705,
+    "endingHadithNo": 957,
+    "totalHadith": 253
+  },
+  {
+    "id": 21,
+    "name": "Jihad",
+    "startingHadithNo": 959,
+    "endingHadithNo": 1008,
+    "totalHadith": 50
+  },
+  {
+    "id": 22,
+    "name": "Vows and Oaths",
+    "startingHadithNo": 1009,
+    "endingHadithNo": 1027,
+    "totalHadith": 19
+  },
+  {
+    "id": 23,
+    "name": "Sacrificial Animals",
+    "startingHadithNo": 1028,
+    "endingHadithNo": 1041,
+    "totalHadith": 14
+  },
+  {
+    "id": 24,
+    "name": "Slaughtering Animals",
+    "startingHadithNo": 1042,
+    "endingHadithNo": 1051,
+    "totalHadith": 10
+  },
+  {
+    "id": 25,
+    "name": "Game",
+    "startingHadithNo": 1052,
+    "endingHadithNo": 1066,
+    "totalHadith": 15
+  },
+  {
+    "id": 26,
+    "name": "The 'Aqiqa",
+    "startingHadithNo": 1067,
+    "endingHadithNo": 1073,
+    "totalHadith": 7
+  },
+  {
+    "id": 27,
+    "name": "Fara'id",
+    "startingHadithNo": 1074,
+    "endingHadithNo": 1089,
+    "totalHadith": 16
+  },
+  {
+    "id": 28,
+    "name": "Marriage",
+    "startingHadithNo": 1091,
+    "endingHadithNo": 1149,
+    "totalHadith": 59
+  },
+  {
+    "id": 29,
+    "name": "Divorce",
+    "startingHadithNo": 1150,
+    "endingHadithNo": 1271,
+    "totalHadith": 122
+  },
+  {
+    "id": 30,
+    "name": "Suckling",
+    "startingHadithNo": 1272,
+    "endingHadithNo": 1289,
+    "totalHadith": 18
+  },
+  {
+    "id": 31,
+    "name": "Business Transactions",
+    "startingHadithNo": 1290,
+    "endingHadithNo": 1385,
+    "totalHadith": 96
+  },
+  {
+    "id": 32,
+    "name": "Qirad",
+    "startingHadithNo": 1386,
+    "endingHadithNo": 1387,
+    "totalHadith": 2
+  },
+  {
+    "id": 33,
+    "name": "Sharecropping",
+    "startingHadithNo": 1388,
+    "endingHadithNo": 1389,
+    "totalHadith": 2
+  },
+  {
+    "id": 34,
+    "name": "Renting Land",
+    "startingHadithNo": 1390,
+    "endingHadithNo": 1394,
+    "totalHadith": 5
+  },
+  {
+    "id": 35,
+    "name": "Pre-emption in Property",
+    "startingHadithNo": 1395,
+    "endingHadithNo": 1398,
+    "totalHadith": 4
+  },
+  {
+    "id": 36,
+    "name": "Judgements",
+    "startingHadithNo": 1399,
+    "endingHadithNo": 1454,
+    "totalHadith": 56
+  },
+  {
+    "id": 37,
+    "name": "Wills and Testaments",
+    "startingHadithNo": 1455,
+    "endingHadithNo": 1463,
+    "totalHadith": 9
+  },
+  {
+    "id": 38,
+    "name": "Setting Free and Wala'",
+    "startingHadithNo": 1464,
+    "endingHadithNo": 1488,
+    "totalHadith": 25
+  },
+  {
+    "id": 39,
+    "name": "The Mukatab",
+    "startingHadithNo": 1489,
+    "endingHadithNo": 1496,
+    "totalHadith": 8
+  },
+  {
+    "id": 40,
+    "name": "The Mudabbar",
+    "startingHadithNo": 1497,
+    "endingHadithNo": 1499,
+    "totalHadith": 3
+  },
+  {
+    "id": 41,
+    "name": "Hudud",
+    "startingHadithNo": 1500,
+    "endingHadithNo": 1536,
+    "totalHadith": 37
+  },
+  {
+    "id": 42,
+    "name": "Drinks",
+    "startingHadithNo": 1537,
+    "endingHadithNo": 1551,
+    "totalHadith": 15
+  },
+  {
+    "id": 43,
+    "name": "Blood-Money",
+    "startingHadithNo": 1552,
+    "endingHadithNo": 1595,
+    "totalHadith": 44
+  },
+  {
+    "id": 44,
+    "name": "The Oath of Qasama",
+    "startingHadithNo": 1596,
+    "endingHadithNo": 1597,
+    "totalHadith": 2
+  },
+  {
+    "id": 45,
+    "name": "Madina",
+    "startingHadithNo": 1598,
+    "endingHadithNo": 1622,
+    "totalHadith": 25
+  },
+  {
+    "id": 46,
+    "name": "The Decree",
+    "startingHadithNo": 1623,
+    "endingHadithNo": 1632,
+    "totalHadith": 10
+  },
+  {
+    "id": 47,
+    "name": "Good Character",
+    "startingHadithNo": 1633,
+    "endingHadithNo": 1650,
+    "totalHadith": 18
+  },
+  {
+    "id": 48,
+    "name": "Dress",
+    "startingHadithNo": 1651,
+    "endingHadithNo": 1670,
+    "totalHadith": 20
+  },
+  {
+    "id": 49,
+    "name": "The Description of the Prophet, may Allah Bless Him and Grant Him Peace",
+    "startingHadithNo": 1671,
+    "endingHadithNo": 1710,
+    "totalHadith": 40
+  },
+  {
+    "id": 50,
+    "name": "The Evil Eye",
+    "startingHadithNo": 1711,
+    "endingHadithNo": 1729,
+    "totalHadith": 19
+  },
+  {
+    "id": 51,
+    "name": "Hair",
+    "startingHadithNo": 1730,
+    "endingHadithNo": 1746,
+    "totalHadith": 17
+  },
+  {
+    "id": 52,
+    "name": "Visions",
+    "startingHadithNo": 1747,
+    "endingHadithNo": 1755,
+    "totalHadith": 9
+  },
+  {
+    "id": 53,
+    "name": "Greetings",
+    "startingHadithNo": 1756,
+    "endingHadithNo": 1762,
+    "totalHadith": 7
+  },
+  {
+    "id": 54,
+    "name": "General Subjects",
+    "startingHadithNo": 1763,
+    "endingHadithNo": 1807,
+    "totalHadith": 45
+  },
+  {
+    "id": 55,
+    "name": "The Oath of Allegiance",
+    "startingHadithNo": 1808,
+    "endingHadithNo": 1810,
+    "totalHadith": 3
+  },
+  {
+    "id": 56,
+    "name": "Speech",
+    "startingHadithNo": 1811,
+    "endingHadithNo": 1838,
+    "totalHadith": 28
+  },
+  {
+    "id": 57,
+    "name": "Jahannam",
+    "startingHadithNo": 1839,
+    "endingHadithNo": 1840,
+    "totalHadith": 2
+  },
+  {
+    "id": 58,
+    "name": "Sadaqa",
+    "startingHadithNo": 1841,
+    "endingHadithNo": 1855,
+    "totalHadith": 15
+  },
+  {
+    "id": 59,
+    "name": "Knowledge",
+    "startingHadithNo": 1856,
+    "endingHadithNo": 1856,
+    "totalHadith": 1
+  },
+  {
+    "id": 60,
+    "name": "The Supplication of the Unjustly Wronged",
+    "startingHadithNo": 1857,
+    "endingHadithNo": 1857,
+    "totalHadith": 1
+  },
+  {
+    "id": 61,
+    "name": "The Names of the Prophet, may Allah Bless Him and Grant Him Peace",
+    "startingHadithNo": 1858,
+    "endingHadithNo": 1858,
+    "totalHadith": 1
+  }
+]

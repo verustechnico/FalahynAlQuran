@@ -1,0 +1,304 @@
+[
+
+  {
+    "id": 1,
+    "name": "Purification (Kitab Al-Taharah)",
+    "startingHadithNo": 1,
+    "endingHadithNo": 390,
+    "totalHadith": 390
+  },
+  {
+    "id": 2,
+    "name": "Prayer (Kitab Al-Salat)",
+    "startingHadithNo": 391,
+    "endingHadithNo": 1160,
+    "totalHadith": 770
+  },
+  {
+    "id": 3,
+    "name": "The Book Of The Prayer For Rain (Kitab al-Istisqa')",
+    "startingHadithNo": 1161,
+    "endingHadithNo": 1197,
+    "totalHadith": 37
+  },
+  {
+    "id": 4,
+    "name": "Prayer (Kitab Al-Salat): Detailed Rules of Law about the Prayer during Journey",
+    "startingHadithNo": 1198,
+    "endingHadithNo": 1249,
+    "totalHadith": 52
+  },
+  {
+    "id": 5,
+    "name": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+    "startingHadithNo": 1250,
+    "endingHadithNo": 1370,
+    "totalHadith": 121
+  },
+  {
+    "id": 6,
+    "name": "Prayer (Kitab Al-Salat): Detailed Injunctions about Ramadan",
+    "startingHadithNo": 1371,
+    "endingHadithNo": 1400,
+    "totalHadith": 30
+  },
+  {
+    "id": 7,
+    "name": "Prayer (Kitab Al-Salat): Prostration while reciting the Qur'an",
+    "startingHadithNo": 1401,
+    "endingHadithNo": 1415,
+    "totalHadith": 15
+  },
+  {
+    "id": 8,
+    "name": "Prayer (Kitab Al-Salat): Detailed Injunctions about Witr",
+    "startingHadithNo": 1416,
+    "endingHadithNo": 1555,
+    "totalHadith": 140
+  },
+  {
+    "id": 9,
+    "name": "Zakat (Kitab Al-Zakat)",
+    "startingHadithNo": 1556,
+    "endingHadithNo": 1700,
+    "totalHadith": 145
+  },
+  {
+    "id": 10,
+    "name": "The Book of Lost and Found Items",
+    "startingHadithNo": 1701,
+    "endingHadithNo": 1720,
+    "totalHadith": 20
+  },
+  {
+    "id": 11,
+    "name": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)",
+    "startingHadithNo": 1721,
+    "endingHadithNo": 2045,
+    "totalHadith": 325
+  },
+  {
+    "id": 12,
+    "name": "Marriage (Kitab Al-Nikah)",
+    "startingHadithNo": 2046,
+    "endingHadithNo": 2174,
+    "totalHadith": 129
+  },
+  {
+    "id": 13,
+    "name": "Divorce (Kitab Al-Talaq)",
+    "startingHadithNo": 2175,
+    "endingHadithNo": 2312,
+    "totalHadith": 138
+  },
+  {
+    "id": 14,
+    "name": "Fasting (Kitab Al-Siyam)",
+    "startingHadithNo": 2313,
+    "endingHadithNo": 2476,
+    "totalHadith": 164
+  },
+  {
+    "id": 15,
+    "name": "Jihad (Kitab Al-Jihad)",
+    "startingHadithNo": 2477,
+    "endingHadithNo": 2787,
+    "totalHadith": 311
+  },
+  {
+    "id": 16,
+    "name": "Sacrifice (Kitab Al-Dahaya)",
+    "startingHadithNo": 2788,
+    "endingHadithNo": 2843,
+    "totalHadith": 56
+  },
+  {
+    "id": 17,
+    "name": "Game (Kitab Al-Said)",
+    "startingHadithNo": 2844,
+    "endingHadithNo": 2861,
+    "totalHadith": 18
+  },
+  {
+    "id": 18,
+    "name": "Wills (Kitab Al-Wasaya)",
+    "startingHadithNo": 2862,
+    "endingHadithNo": 2884,
+    "totalHadith": 23
+  },
+  {
+    "id": 19,
+    "name": "Shares of Inheritance (Kitab Al-Fara'id)",
+    "startingHadithNo": 2885,
+    "endingHadithNo": 2927,
+    "totalHadith": 43
+  },
+  {
+    "id": 20,
+    "name": "Tribute, Spoils, and Rulership (Kitab Al-Kharaj, Wal-Fai' Wal-Imarah)",
+    "startingHadithNo": 2928,
+    "endingHadithNo": 3088,
+    "totalHadith": 161
+  },
+  {
+    "id": 21,
+    "name": "Funerals (Kitab Al-Jana'iz)",
+    "startingHadithNo": 3089,
+    "endingHadithNo": 3241,
+    "totalHadith": 153
+  },
+  {
+    "id": 22,
+    "name": "Oaths and Vows (Kitab Al-Aiman Wa Al-Nudhur)",
+    "startingHadithNo": 3242,
+    "endingHadithNo": 3325,
+    "totalHadith": 84
+  },
+  {
+    "id": 23,
+    "name": "Commercial Transactions (Kitab Al-Buyu)",
+    "startingHadithNo": 3326,
+    "endingHadithNo": 3415,
+    "totalHadith": 90
+  },
+  {
+    "id": 24,
+    "name": "Wages (Kitab Al-Ijarah)",
+    "startingHadithNo": 3416,
+    "endingHadithNo": 3570,
+    "totalHadith": 155
+  },
+  {
+    "id": 25,
+    "name": "The Office of the Judge (Kitab Al-Aqdiyah)",
+    "startingHadithNo": 3571,
+    "endingHadithNo": 3640,
+    "totalHadith": 70
+  },
+  {
+    "id": 26,
+    "name": "Knowledge (Kitab Al-Ilm)",
+    "startingHadithNo": 3641,
+    "endingHadithNo": 3668,
+    "totalHadith": 28
+  },
+  {
+    "id": 27,
+    "name": "Drinks (Kitab Al-Ashribah)",
+    "startingHadithNo": 3669,
+    "endingHadithNo": 3735,
+    "totalHadith": 67
+  },
+  {
+    "id": 28,
+    "name": "Foods (Kitab Al-At'imah)",
+    "startingHadithNo": 3736,
+    "endingHadithNo": 3854,
+    "totalHadith": 119
+  },
+  {
+    "id": 29,
+    "name": "Medicine (Kitab Al-Tibb)",
+    "startingHadithNo": 3855,
+    "endingHadithNo": 3903,
+    "totalHadith": 49
+  },
+  {
+    "id": 30,
+    "name": "Divination and Omens (Kitab Al-Kahanah Wa Al-Tatayyur)",
+    "startingHadithNo": 3904,
+    "endingHadithNo": 3925,
+    "totalHadith": 22
+  },
+  {
+    "id": 31,
+    "name": "The Book of Manumission of Slaves",
+    "startingHadithNo": 3926,
+    "endingHadithNo": 3968,
+    "totalHadith": 43
+  },
+  {
+    "id": 32,
+    "name": "Dialects and Readings of the Qur'an (Kitab Al-Huruf Wa Al-Qira'at)",
+    "startingHadithNo": 3969,
+    "endingHadithNo": 4008,
+    "totalHadith": 40
+  },
+  {
+    "id": 33,
+    "name": "Hot Baths (Kitab Al-Hammam)",
+    "startingHadithNo": 4009,
+    "endingHadithNo": 4019,
+    "totalHadith": 11
+  },
+  {
+    "id": 34,
+    "name": "Clothing (Kitab Al-Libas)",
+    "startingHadithNo": 4020,
+    "endingHadithNo": 4158,
+    "totalHadith": 139
+  },
+  {
+    "id": 35,
+    "name": "Combing the Hair (Kitab Al-Tarajjul)",
+    "startingHadithNo": 4159,
+    "endingHadithNo": 4213,
+    "totalHadith": 55
+  },
+  {
+    "id": 36,
+    "name": "Signet-Rings (Kitab Al-Khatam)",
+    "startingHadithNo": 4214,
+    "endingHadithNo": 4239,
+    "totalHadith": 26
+  },
+  {
+    "id": 37,
+    "name": "Trials and Fierce Battles (Kitab Al-Fitan Wa Al-Malahim)",
+    "startingHadithNo": 4240,
+    "endingHadithNo": 4278,
+    "totalHadith": 39
+  },
+  {
+    "id": 38,
+    "name": "The Promised Deliverer (Kitab Al-Mahdi)",
+    "startingHadithNo": 4279,
+    "endingHadithNo": 4290,
+    "totalHadith": 12
+  },
+  {
+    "id": 39,
+    "name": "Battles (Kitab Al-Malahim)",
+    "startingHadithNo": 4291,
+    "endingHadithNo": 4350,
+    "totalHadith": 60
+  },
+  {
+    "id": 40,
+    "name": "Prescribed Punishments (Kitab Al-Hudud)",
+    "startingHadithNo": 4351,
+    "endingHadithNo": 4493,
+    "totalHadith": 143
+  },
+  {
+    "id": 41,
+    "name": "Types of Blood-Wit (Kitab Al-Diyat)",
+    "startingHadithNo": 4494,
+    "endingHadithNo": 4595,
+    "totalHadith": 102
+  },
+  {
+    "id": 42,
+    "name": "Model Behavior of the Prophet (Kitab Al-Sunnah)",
+    "startingHadithNo": 4596,
+    "endingHadithNo": 4772,
+    "totalHadith": 177
+  },
+  {
+    "id": 43,
+    "name": "General Behavior (Kitab Al-Adab)",
+    "startingHadithNo": 4773,
+    "endingHadithNo": 5274,
+    "totalHadith": 502
+  }
+]

@@ -1,0 +1,53 @@
+{
+    "books": [
+        {
+            "slug": "bukhari",
+            "en_name": "Sahih al-Bukhari",
+            "ar_name": "صحيح البخاري",
+            "intro": "Sahih al-Buxoriy — Imom Muhammad al-Buxoriy (vafoti h. 256 / m. 870) (rahimahulloh) tomonidan jamlangan hadislar to'plamidir. Uning to'plami Butun Islom dunyosining ko'pchilik qismi tomonidan Payg'ambar Muhammad (ﷺ) Sunnatlarining eng sahih manbasi deb tan olingan. U 97 ta kitobda (takrorlanishlar bilan) 7500 dan ortiq hadisni o'z ichiga oladi. Bu yerda taqdim etilgan tarjima doktor M. Muhsin Xonga tegishli.",
+            "totalHadith": 7291
+        },
+        {
+            "slug": "muslim",
+            "en_name": "Sahih Muslim",
+            "ar_name": "صحيح مسلم",
+            "intro": "Sahih Muslim — Imom Muslim ibn al-Hajjoj an-Naysaburiy (rahimahulloh) tomonidan jamlangan hadislar to'plamidir. Uning to'plami Payg'ambar (ﷺ) Sunnatlarining eng sahih to'plamlaridan biri hisoblanadi hamda Sahih al-Buxoriy bilan birgalikda \"Sahihayn\" (\"Ikki Sahih\")ni tashkil etadi. U 57 ta kitobda taxminan 7500 hadisni (takrorlanishlar bilan) o'z ichiga oladi. Bu yerda taqdim etilgan tarjima Abdul Hamid Siddiqiyga tegishli.",
+            "totalHadith": 7470
+        },
+        {
+            "slug": "nasai",
+            "en_name": "Sunan an-Nasa'i",
+            "ar_name": "سنن النسائي",
+            "intro": "Sunan an-Nasoiy — Imom Ahmad an-Nasoiy (rahimahulloh) tomonidan jamlangan hadislar to'plamidir. Uning to'plami Payg'ambar (ﷺ) Sunnatlarining oltita mo'tabar hadis to'plamidan (Kutub as-Sittah) biri deb bir ovozdan e'tirof etilgan. U 52 ta kitobda taxminan 5700 hadisni (takrorlanishlar bilan) o'z ichiga oladi.",
+            "totalHadith": 5766
+        },
+        {
+            "slug": "tirmidhi",
+            "en_name": "Jami` at-Tirmidhi",
+            "ar_name": "جامع الترمذي",
+            "intro": "Jomi' at-Termiziy — Imom Abu Iso Muhammad at-Termiziy (rahimahulloh) tomonidan jamlangan hadislar to'plamidir. Uning to'plami Payg'ambar (ﷺ) Sunnatlarining oltita mo'tabar hadis to'plamidan (Kutub as-Sittah) biri deb bir ovozdan e'tirof etilgan. U 46 ta kitobda taxminan 4400 hadisni (takrorlanishlar bilan) o'z ichiga oladi.",
+            "totalHadith": 3956
+        },
+        {
+            "slug": "ibnmajah",
+            "en_name": "Sunan Ibn Majah",
+            "ar_name": "سنن ابن ماجه",
+            "intro": "Sunan Ibn Moja — Imom Muhammad bin Yazid Ibn Moja al-Qazviniy (rahimahulloh) tomonidan jamlangan hadislar to'plamidir. U Payg'ambar (ﷺ) Sunnatlarining oltita mo'tabar hadis to'plamining (Kutub as-Sittah) oltinchisi deb keng e'tirof etilgan. U 37 ta kitobda 4341 ta hadisdan iborat.",
+            "totalHadith": 4341
+        },
+        {
+            "slug": "malik",
+            "en_name": "Muwatta Malik",
+            "ar_name": "موطأ مالك",
+            "intro": "Al-Muvatta (so'zma-so'z \"silliqlangan yo'l\" yoki \"osonlashtirilgan narsa\" ma'nosini bildiradi) 8-asrda Imom Molik ibn Anas tomonidan tuzilgan bo'lib, islomiy an'analar va fiqhning eng qadimiy hamda mo'tabar to'plamlaridan biridir. U Payg'ambar hadislarini (marfu) Sahobalarning (mavquf) va Tabiinlarning (maqtu) huquqiy hukmlari, amallari va so'zlari bilan o'ziga xos tarzda biriktirib, Madina ahlining huquqiy an'analari hamda ijmoiga alohida urg'u beradi.",
+            "totalHadith": 1973
+        },
+        {
+            "slug": "abudawud",
+            "en_name": "Sunan Abi Dawud",
+            "ar_name": "سنن أبي داود",
+            "intro": "Sunan Abi Dovud — Imom Abu Dovud Sulaymon ibn al-Ash'as as-Sijistoniy (rahimahulloh) tomonidan jamlangan hadislar to'plamidir. U Payg'ambar (ﷺ) Sunnatlarining oltita mo'tabar hadis to'plami (Kutub as-Sittah) qatoriga kirishi keng e'tirof etilgan. U 43 ta kitobda 5274 ta hadisdan iborat. Shuningdek, Imom Abu Dovudning Makka ahliga yozgan, o'z kitobi, unda qo'llanilgan atamalar va uning uslubini tushuntirgan maktubini ham o'z ichiga oladi.",
+            "totalHadith": 5276
+        }
+    ]
+}

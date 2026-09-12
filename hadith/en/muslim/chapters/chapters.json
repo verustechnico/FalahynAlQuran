@@ -1,0 +1,401 @@
+[
+  {
+    "id": 0,
+    "name": "Introduction",
+    "startingHadithNo": 1,
+    "endingHadithNo": 92,
+    "totalHadith": 92
+  },
+  {
+    "id": 1,
+    "name": "The Book of Faith",
+    "startingHadithNo": 93,
+    "endingHadithNo": 533,
+    "totalHadith": 441
+  },
+  {
+    "id": 2,
+    "name": "The Book of Purification",
+    "startingHadithNo": 534,
+    "endingHadithNo": 678,
+    "totalHadith": 145
+  },
+  {
+    "id": 3,
+    "name": "The Book of Menstruation",
+    "startingHadithNo": 679,
+    "endingHadithNo": 836,
+    "totalHadith": 158
+  },
+  {
+    "id": 4,
+    "name": "The Book of Prayers ",
+    "startingHadithNo": 837,
+    "endingHadithNo": 1160,
+    "totalHadith": 324
+  },
+  {
+    "id": 5,
+    "name": "The Book of Mosques and Places of Prayer",
+    "startingHadithNo": 1161,
+    "endingHadithNo": 1569,
+    "totalHadith": 409
+  },
+  {
+    "id": 6,
+    "name": "The Book of Prayer - Travellers",
+    "startingHadithNo": 1570,
+    "endingHadithNo": 1950,
+    "totalHadith": 381
+  },
+  {
+    "id": 7,
+    "name": "The Book of Prayer - Friday",
+    "startingHadithNo": 1951,
+    "endingHadithNo": 2043,
+    "totalHadith": 93
+  },
+  {
+    "id": 8,
+    "name": "The Book of Prayer - Two Eids",
+    "startingHadithNo": 2044,
+    "endingHadithNo": 2069,
+    "totalHadith": 26
+  },
+  {
+    "id": 9,
+    "name": "The Book of Prayer - Rain",
+    "startingHadithNo": 2070,
+    "endingHadithNo": 2088,
+    "totalHadith": 19
+  },
+  {
+    "id": 10,
+    "name": "The Book of Prayer - Eclipses",
+    "startingHadithNo": 2089,
+    "endingHadithNo": 2122,
+    "totalHadith": 34
+  },
+  {
+    "id": 11,
+    "name": "The Book of Prayer - Funerals",
+    "startingHadithNo": 2123,
+    "endingHadithNo": 2262,
+    "totalHadith": 140
+  },
+  {
+    "id": 12,
+    "name": "The Book of Zakat",
+    "startingHadithNo": 2263,
+    "endingHadithNo": 2494,
+    "totalHadith": 232
+  },
+  {
+    "id": 13,
+    "name": "The Book of Fasting ",
+    "startingHadithNo": 2495,
+    "endingHadithNo": 2779,
+    "totalHadith": 285
+  },
+  {
+    "id": 14,
+    "name": "The Book of I'tikaf",
+    "startingHadithNo": 2780,
+    "endingHadithNo": 2790,
+    "totalHadith": 11
+  },
+  {
+    "id": 15,
+    "name": "The Book of Pilgrimage",
+    "startingHadithNo": 2791,
+    "endingHadithNo": 3397,
+    "totalHadith": 607
+  },
+  {
+    "id": 16,
+    "name": "The Book of Marriage",
+    "startingHadithNo": 388,
+    "endingHadithNo": 3567,
+    "totalHadith": 3180
+  },
+  {
+    "id": 17,
+    "name": "The Book of Suckling",
+    "startingHadithNo": 3568,
+    "endingHadithNo": 3651,
+    "totalHadith": 84
+  },
+  {
+    "id": 18,
+    "name": "The Book of Divorce ",
+    "startingHadithNo": 3652,
+    "endingHadithNo": 3742,
+    "totalHadith": 91
+  },
+  {
+    "id": 19,
+    "name": "The Book of Invoking Curses",
+    "startingHadithNo": 3743,
+    "endingHadithNo": 3769,
+    "totalHadith": 27
+  },
+  {
+    "id": 20,
+    "name": "The Book of Emancipating Slaves",
+    "startingHadithNo": 3770,
+    "endingHadithNo": 3800,
+    "totalHadith": 31
+  },
+  {
+    "id": 21,
+    "name": "The Book of Transactions",
+    "startingHadithNo": 3801,
+    "endingHadithNo": 3961,
+    "totalHadith": 161
+  },
+  {
+    "id": 22,
+    "name": "The Book of Musaqah",
+    "startingHadithNo": 3962,
+    "endingHadithNo": 4139,
+    "totalHadith": 178
+  },
+  {
+    "id": 23,
+    "name": "The Book of the Rules of Inheritance",
+    "startingHadithNo": 4140,
+    "endingHadithNo": 4162,
+    "totalHadith": 23
+  },
+  {
+    "id": 24,
+    "name": "The Book of Gifts",
+    "startingHadithNo": 4163,
+    "endingHadithNo": 4203,
+    "totalHadith": 41
+  },
+  {
+    "id": 25,
+    "name": "The Book of Wills",
+    "startingHadithNo": 4204,
+    "endingHadithNo": 4234,
+    "totalHadith": 31
+  },
+  {
+    "id": 26,
+    "name": "The Book of Vows",
+    "startingHadithNo": 4235,
+    "endingHadithNo": 4253,
+    "totalHadith": 19
+  },
+  {
+    "id": 27,
+    "name": "The Book of Oaths",
+    "startingHadithNo": 4254,
+    "endingHadithNo": 4341,
+    "totalHadith": 88
+  },
+  {
+    "id": 28,
+    "name": "The Book of Oaths, Muharibin, Qasas (Retaliation), and Diyat (Blood Money)",
+    "startingHadithNo": 4342,
+    "endingHadithNo": 4397,
+    "totalHadith": 56
+  },
+  {
+    "id": 29,
+    "name": "The Book of Legal Punishments",
+    "startingHadithNo": 4398,
+    "endingHadithNo": 4469,
+    "totalHadith": 72
+  },
+  {
+    "id": 30,
+    "name": "The Book of Judicial Decisions",
+    "startingHadithNo": 4470,
+    "endingHadithNo": 4497,
+    "totalHadith": 28
+  },
+  {
+    "id": 31,
+    "name": "The Book of Lost Property",
+    "startingHadithNo": 4498,
+    "endingHadithNo": 4518,
+    "totalHadith": 21
+  },
+  {
+    "id": 32,
+    "name": "The Book of Jihad and Expeditions",
+    "startingHadithNo": 4519,
+    "endingHadithNo": 4700,
+    "totalHadith": 182
+  },
+  {
+    "id": 33,
+    "name": "The Book on Government",
+    "startingHadithNo": 4701,
+    "endingHadithNo": 4967,
+    "totalHadith": 267
+  },
+  {
+    "id": 34,
+    "name": "The Book of Hunting, Slaughter, and what may be Eaten",
+    "startingHadithNo": 4972,
+    "endingHadithNo": 5063,
+    "totalHadith": 92
+  },
+  {
+    "id": 35,
+    "name": "The Book of Sacrifices",
+    "startingHadithNo": 5064,
+    "endingHadithNo": 5126,
+    "totalHadith": 63
+  },
+  {
+    "id": 36,
+    "name": "The Book of Drinks",
+    "startingHadithNo": 5114,
+    "endingHadithNo": 5383,
+    "totalHadith": 270
+  },
+  {
+    "id": 37,
+    "name": "The Book of Clothes and Adornment",
+    "startingHadithNo": 5385,
+    "endingHadithNo": 5585,
+    "totalHadith": 201
+  },
+  {
+    "id": 38,
+    "name": "The Book of Manners and Etiquette",
+    "startingHadithNo": 5586,
+    "endingHadithNo": 5645,
+    "totalHadith": 60
+  },
+  {
+    "id": 39,
+    "name": "The Book of Greetings",
+    "startingHadithNo": 5646,
+    "endingHadithNo": 5861,
+    "totalHadith": 216
+  },
+  {
+    "id": 40,
+    "name": "The Book Concerning the Use of Correct Words",
+    "startingHadithNo": 5862,
+    "endingHadithNo": 5884,
+    "totalHadith": 23
+  },
+  {
+    "id": 41,
+    "name": "The Book of Poetry",
+    "startingHadithNo": 5887,
+    "endingHadithNo": 5896,
+    "totalHadith": 10
+  },
+  {
+    "id": 42,
+    "name": "The Book of Dreams",
+    "startingHadithNo": 5897,
+    "endingHadithNo": 5937,
+    "totalHadith": 41
+  },
+  {
+    "id": 43,
+    "name": "The Book of Virtues",
+    "startingHadithNo": 384,
+    "endingHadithNo": 6168,
+    "totalHadith": 5785
+  },
+  {
+    "id": 44,
+    "name": "The Book of the Merits of the Companions",
+    "startingHadithNo": 6169,
+    "endingHadithNo": 6499,
+    "totalHadith": 331
+  },
+  {
+    "id": 45,
+    "name": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",
+    "startingHadithNo": 6500,
+    "endingHadithNo": 6722,
+    "totalHadith": 223
+  },
+  {
+    "id": 46,
+    "name": "The Book of Destiny",
+    "startingHadithNo": 6723,
+    "endingHadithNo": 6774,
+    "totalHadith": 52
+  },
+  {
+    "id": 47,
+    "name": "The Book of Knowledge",
+    "startingHadithNo": 6775,
+    "endingHadithNo": 6804,
+    "totalHadith": 30
+  },
+  {
+    "id": 48,
+    "name": "The Book Pertaining to the Remembrance of Allah, Supplication, Repentance and Seeking Forgiveness ",
+    "startingHadithNo": 6805,
+    "endingHadithNo": 6936,
+    "totalHadith": 132
+  },
+  {
+    "id": 49,
+    "name": "The Book of Heart-Melting Traditions",
+    "startingHadithNo": 6937,
+    "endingHadithNo": 6951,
+    "totalHadith": 15
+  },
+  {
+    "id": 50,
+    "name": "The Book of Repentance",
+    "startingHadithNo": 6952,
+    "endingHadithNo": 7023,
+    "totalHadith": 72
+  },
+  {
+    "id": 51,
+    "name": "Characteristics of The Hypocrites And Rulings Concerning Them",
+    "startingHadithNo": 7024,
+    "endingHadithNo": 7044,
+    "totalHadith": 21
+  },
+  {
+    "id": 52,
+    "name": "Characteristics of the Day of Judgment, Paradise, and Hell",
+    "startingHadithNo": 7045,
+    "endingHadithNo": 7129,
+    "totalHadith": 85
+  },
+  {
+    "id": 53,
+    "name": "The Book of Paradise, its Description, its Bounties and its Inhabitants",
+    "startingHadithNo": 7130,
+    "endingHadithNo": 7234,
+    "totalHadith": 105
+  },
+  {
+    "id": 54,
+    "name": "The Book of Tribulations and Portents of the Last Hour",
+    "startingHadithNo": 7235,
+    "endingHadithNo": 7416,
+    "totalHadith": 182
+  },
+  {
+    "id": 55,
+    "name": "The Book of Zuhd and Softening of Hearts ",
+    "startingHadithNo": 7417,
+    "endingHadithNo": 7522,
+    "totalHadith": 106
+  },
+  {
+    "id": 56,
+    "name": "The Book of Commentary on the Qur'an",
+    "startingHadithNo": 7523,
+    "endingHadithNo": 7563,
+    "totalHadith": 41
+  }
+]

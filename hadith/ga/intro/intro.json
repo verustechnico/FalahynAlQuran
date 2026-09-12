@@ -1,0 +1,53 @@
+{
+    "books": [
+        {
+            "slug": "bukhari",
+            "en_name": "Sahih al-Bukhari",
+            "ar_name": "صحيح البخاري",
+            "intro": "Sahih al-Bukhari mukukunganya kwa hadithi okwakoolebwa Imam Muhammad al-Bukhari (yafa 256 AH/870 CE) (rahimahullah). Okukunganya kwe kutwalibwa obungi obw'amaanyi obw'ensi y'Ebisilamu okuba okukunganya okusinga obwesigwa okw'ebigambo n'ebikolwa obw'Omubaka Muhammad (ﷺ). Mulimu hadithi ezisukka mu 7500 (nga mulimu n'okuddamu) mu bitabo 97. Envunula eweereddwa wano ya Dr. M. Muhsin Khan.",
+            "totalHadith": 7291
+        },
+        {
+            "slug": "muslim",
+            "en_name": "Sahih Muslim",
+            "ar_name": "صحيح مسلم",
+            "intro": "Sahih Muslim mukukunganya kwa hadithi okwakoolebwa Imam Muslim ibn al-Hajjaj al-Naysaburi (rahimahullah). Okukunganya kwe kutwalibwa okuba okumu ku kukunganya okusinga obwesigwa okw'eSunnah y'Omubaka (ﷺ), era nga wamu ne Sahih al-Bukhari bifiiriza \"Sahihain,\" oba \"Sahih Zombi.\" Mulimu hadithi ezitasukka 7500 (nga mulimu n'okuddamu) mu bitabo 57. Envunula eweereddwa wano ya Abdul Hamid Siddiqui.",
+            "totalHadith": 7470
+        },
+        {
+            "slug": "nasai",
+            "en_name": "Sunan an-Nasa'i",
+            "ar_name": "سنن النسائي",
+            "intro": "Sunan an-Nasa'i mukukunganya kwa hadithi okwakoolebwa Imam Ahmad an-Nasa'i (rahimahullah). Okukunganya kwe kutwalibwa mu ngeri y'emu okuba okumu ku kukunganya omukaaka okw'omutendo (Kutub as-Sittah) okw'eSunnah y'Omubaka (ﷺ). Mulimu hadithi ezitasukka 5700 (nga mulimu n'okuddamu) mu bitabo 52.",
+            "totalHadith": 5766
+        },
+        {
+            "slug": "tirmidhi",
+            "en_name": "Jami` at-Tirmidhi",
+            "ar_name": "جامع الترمذي",
+            "intro": "Jami` at-Tirmidhi mukukunganya kwa hadithi okwakoolebwa Imam Abu `Isa Muhammad at-Tirmidhi (rahimahullah). Okukunganya kwe kutwalibwa mu ngeri y'emu okuba okumu ku kukunganya omukaaka okw'omutendo (Kutub as-Sittah) okw'eSunnah y'Omubaka (ﷺ). Mulimu hadithi ezitasukka 4400 (nga mulimu n'okuddamu) mu bitabo 46.",
+            "totalHadith": 3956
+        },
+        {
+            "slug": "ibnmajah",
+            "en_name": "Sunan Ibn Majah",
+            "ar_name": "سنن ابن ماجه",
+            "intro": "Sunan Ibn Majah mukukunganya kwa hadithi okwakoolebwa Imam Muhammad bin Yazid Ibn Majah al-Qazvini (rahimahullah). Kutwalibwa nyo okuba ekya mukaaga mu kukunganya omukaaka okw'omutendo (Kutub as-Sittah) okw'eSunnah y'Omubaka (ﷺ). Mulimu ahadith 4341 mu bitabo 37.",
+            "totalHadith": 4341
+        },
+        {
+            "slug": "malik",
+            "en_name": "Muwatta Malik",
+            "ar_name": "موطأ مالك",
+            "intro": "Al-Muwatta (mu kigambo ky'ennyini kikuluza \"ekkubo eritambulwamu nyo\" oba \"ekyo ekiyanguyiziddwa\") kyakoolebwa Imam Malik ibn Anas mu kyasa eky'omunaana, era nga kimu ku kukunganya okwasooka n'okw'omutendo okw'empisa z'Ebisilamu n'amateeka (fiqh). Kumatanya mu ngeri ey'enjawulo hadithi z'Omubaka (marfu) n'emateeka, ebikolwa n'ebigambo by'Abatume/Bannabbi (mawquf) n'Ababagoberera (maqtu), nga kiteeka essira nyo ku mpisa z'amateeka n'okukkiriziganya kw'abantu b'eMadina.",
+            "totalHadith": 1973
+        },
+        {
+            "slug": "abudawud",
+            "en_name": "Sunan Abi Dawud",
+            "ar_name": "سنن أبي داود",
+            "intro": "Sunan Abi Dawud mukukunganya kwa hadithi okwakoolebwa Imam Abu Dawud Sulayman ibn al-Ash'ath as-Sijistani (rahimahullah). Kutwalibwa nyo okuba mu kukunganya omukaaka okw'omutendo (Kutub as-Sittah) okw'eSunnah y'Omubaka (ﷺ). Mulimu ahadith 5274 mu bitabo 43. Ebbaluwa okuva ku Imam Abu Dawud gye yawandiikira abantu b'eMakkah nga nnyonnyola ekitabo kye, ebigambo by'akozesa, n'enkola ye.",
+            "totalHadith": 5276
+        }
+    ]
+}

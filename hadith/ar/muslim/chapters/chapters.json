@@ -1,0 +1,401 @@
+[
+  {
+    "id": 0,
+    "name": "المقدمة",
+    "startingHadithNo": 1,
+    "endingHadithNo": 92,
+    "totalHadith": 92
+  },
+  {
+    "id": 1,
+    "name": "كتاب الإيمان",
+    "startingHadithNo": 93,
+    "endingHadithNo": 533,
+    "totalHadith": 441
+  },
+  {
+    "id": 2,
+    "name": "كتاب الطهارة",
+    "startingHadithNo": 534,
+    "endingHadithNo": 678,
+    "totalHadith": 145
+  },
+  {
+    "id": 3,
+    "name": "كتاب الحيض",
+    "startingHadithNo": 679,
+    "endingHadithNo": 836,
+    "totalHadith": 158
+  },
+  {
+    "id": 4,
+    "name": "كتاب الصلاة",
+    "startingHadithNo": 837,
+    "endingHadithNo": 1160,
+    "totalHadith": 324
+  },
+  {
+    "id": 5,
+    "name": "كتاب المساجد ومواضع الصلاة",
+    "startingHadithNo": 1161,
+    "endingHadithNo": 1569,
+    "totalHadith": 409
+  },
+  {
+    "id": 6,
+    "name": "كتاب صلاة المسافرين وقصرها",
+    "startingHadithNo": 1570,
+    "endingHadithNo": 1950,
+    "totalHadith": 381
+  },
+  {
+    "id": 7,
+    "name": "كتاب الجمعة",
+    "startingHadithNo": 1951,
+    "endingHadithNo": 2043,
+    "totalHadith": 93
+  },
+  {
+    "id": 8,
+    "name": "كتاب صلاة العيدين",
+    "startingHadithNo": 2044,
+    "endingHadithNo": 2069,
+    "totalHadith": 26
+  },
+  {
+    "id": 9,
+    "name": "كتاب الاستسقاء",
+    "startingHadithNo": 2070,
+    "endingHadithNo": 2088,
+    "totalHadith": 19
+  },
+  {
+    "id": 10,
+    "name": "كتاب الكسوف",
+    "startingHadithNo": 2089,
+    "endingHadithNo": 2122,
+    "totalHadith": 34
+  },
+  {
+    "id": 11,
+    "name": "كتاب الجنائز",
+    "startingHadithNo": 2123,
+    "endingHadithNo": 2262,
+    "totalHadith": 140
+  },
+  {
+    "id": 12,
+    "name": "كتاب الزكاة",
+    "startingHadithNo": 2263,
+    "endingHadithNo": 2494,
+    "totalHadith": 232
+  },
+  {
+    "id": 13,
+    "name": "كتاب الصيام",
+    "startingHadithNo": 2495,
+    "endingHadithNo": 2779,
+    "totalHadith": 285
+  },
+  {
+    "id": 14,
+    "name": "كتاب الاعتكاف",
+    "startingHadithNo": 2780,
+    "endingHadithNo": 2790,
+    "totalHadith": 11
+  },
+  {
+    "id": 15,
+    "name": "كتاب الحج",
+    "startingHadithNo": 2791,
+    "endingHadithNo": 3397,
+    "totalHadith": 607
+  },
+  {
+    "id": 16,
+    "name": "كتاب النكاح",
+    "startingHadithNo": 388,
+    "endingHadithNo": 3567,
+    "totalHadith": 3180
+  },
+  {
+    "id": 17,
+    "name": "كتاب الرضاع",
+    "startingHadithNo": 3568,
+    "endingHadithNo": 3651,
+    "totalHadith": 84
+  },
+  {
+    "id": 18,
+    "name": "كتاب الطلاق",
+    "startingHadithNo": 3652,
+    "endingHadithNo": 3742,
+    "totalHadith": 91
+  },
+  {
+    "id": 19,
+    "name": "كتاب اللعان",
+    "startingHadithNo": 3743,
+    "endingHadithNo": 3769,
+    "totalHadith": 27
+  },
+  {
+    "id": 20,
+    "name": "كتاب العتق",
+    "startingHadithNo": 3770,
+    "endingHadithNo": 3800,
+    "totalHadith": 31
+  },
+  {
+    "id": 21,
+    "name": "كتاب البيوع",
+    "startingHadithNo": 3801,
+    "endingHadithNo": 3961,
+    "totalHadith": 161
+  },
+  {
+    "id": 22,
+    "name": "كتاب المساقات والمزارعة",
+    "startingHadithNo": 3962,
+    "endingHadithNo": 4139,
+    "totalHadith": 178
+  },
+  {
+    "id": 23,
+    "name": "كتاب الفرائض",
+    "startingHadithNo": 4140,
+    "endingHadithNo": 4162,
+    "totalHadith": 23
+  },
+  {
+    "id": 24,
+    "name": "كتاب الهبات",
+    "startingHadithNo": 4163,
+    "endingHadithNo": 4203,
+    "totalHadith": 41
+  },
+  {
+    "id": 25,
+    "name": "كتاب الوصية",
+    "startingHadithNo": 4204,
+    "endingHadithNo": 4234,
+    "totalHadith": 31
+  },
+  {
+    "id": 26,
+    "name": "كتاب النذر",
+    "startingHadithNo": 4235,
+    "endingHadithNo": 4253,
+    "totalHadith": 19
+  },
+  {
+    "id": 27,
+    "name": "كتاب الأيمان",
+    "startingHadithNo": 4254,
+    "endingHadithNo": 4341,
+    "totalHadith": 88
+  },
+  {
+    "id": 28,
+    "name": "كتاب القسامة والمحاربين والقصاص والديات",
+    "startingHadithNo": 4342,
+    "endingHadithNo": 4397,
+    "totalHadith": 56
+  },
+  {
+    "id": 29,
+    "name": "كتاب الحدود",
+    "startingHadithNo": 4398,
+    "endingHadithNo": 4469,
+    "totalHadith": 72
+  },
+  {
+    "id": 30,
+    "name": "كتاب الأقضية",
+    "startingHadithNo": 4470,
+    "endingHadithNo": 4497,
+    "totalHadith": 28
+  },
+  {
+    "id": 31,
+    "name": "كتاب اللقطة",
+    "startingHadithNo": 4498,
+    "endingHadithNo": 4518,
+    "totalHadith": 21
+  },
+  {
+    "id": 32,
+    "name": "كتاب الجهاد والسير",
+    "startingHadithNo": 4519,
+    "endingHadithNo": 4700,
+    "totalHadith": 182
+  },
+  {
+    "id": 33,
+    "name": "كتاب الإمارة",
+    "startingHadithNo": 4701,
+    "endingHadithNo": 4967,
+    "totalHadith": 267
+  },
+  {
+    "id": 34,
+    "name": "كتاب الصيد والذبائح وما يؤكل من الحيوان",
+    "startingHadithNo": 4972,
+    "endingHadithNo": 5063,
+    "totalHadith": 92
+  },
+  {
+    "id": 35,
+    "name": "كتاب الأضاحي",
+    "startingHadithNo": 5064,
+    "endingHadithNo": 5126,
+    "totalHadith": 63
+  },
+  {
+    "id": 36,
+    "name": "كتاب الأشربة",
+    "startingHadithNo": 5114,
+    "endingHadithNo": 5383,
+    "totalHadith": 270
+  },
+  {
+    "id": 37,
+    "name": "كتاب اللباس والزينة",
+    "startingHadithNo": 5385,
+    "endingHadithNo": 5585,
+    "totalHadith": 201
+  },
+  {
+    "id": 38,
+    "name": "كتاب الآداب",
+    "startingHadithNo": 5586,
+    "endingHadithNo": 5645,
+    "totalHadith": 60
+  },
+  {
+    "id": 39,
+    "name": "كتاب السلام",
+    "startingHadithNo": 5646,
+    "endingHadithNo": 5861,
+    "totalHadith": 216
+  },
+  {
+    "id": 40,
+    "name": "كتاب ألفاظ الأدب وغيرها",
+    "startingHadithNo": 5862,
+    "endingHadithNo": 5884,
+    "totalHadith": 23
+  },
+  {
+    "id": 41,
+    "name": "كتاب الشعر",
+    "startingHadithNo": 5887,
+    "endingHadithNo": 5896,
+    "totalHadith": 10
+  },
+  {
+    "id": 42,
+    "name": "كتاب الرؤيا",
+    "startingHadithNo": 5897,
+    "endingHadithNo": 5937,
+    "totalHadith": 41
+  },
+  {
+    "id": 43,
+    "name": "كتاب الفضائل",
+    "startingHadithNo": 384,
+    "endingHadithNo": 6168,
+    "totalHadith": 5785
+  },
+  {
+    "id": 44,
+    "name": "كتاب فضائل الصحابة",
+    "startingHadithNo": 6169,
+    "endingHadithNo": 6499,
+    "totalHadith": 331
+  },
+  {
+    "id": 45,
+    "name": "كتاب البر والصلة والآداب",
+    "startingHadithNo": 6500,
+    "endingHadithNo": 6722,
+    "totalHadith": 223
+  },
+  {
+    "id": 46,
+    "name": "كتاب القدر",
+    "startingHadithNo": 6723,
+    "endingHadithNo": 6774,
+    "totalHadith": 52
+  },
+  {
+    "id": 47,
+    "name": "كتاب العلم",
+    "startingHadithNo": 6775,
+    "endingHadithNo": 6804,
+    "totalHadith": 30
+  },
+  {
+    "id": 48,
+    "name": "كتاب الذكر والدعاء والتوبة والاستغفار",
+    "startingHadithNo": 6805,
+    "endingHadithNo": 6936,
+    "totalHadith": 132
+  },
+  {
+    "id": 49,
+    "name": "كتاب الرقاق",
+    "startingHadithNo": 6937,
+    "endingHadithNo": 6951,
+    "totalHadith": 15
+  },
+  {
+    "id": 50,
+    "name": "كتاب التوبة",
+    "startingHadithNo": 6952,
+    "endingHadithNo": 7023,
+    "totalHadith": 72
+  },
+  {
+    "id": 51,
+    "name": "كتاب صفات المنافقين وأحكامهم",
+    "startingHadithNo": 7024,
+    "endingHadithNo": 7044,
+    "totalHadith": 21
+  },
+  {
+    "id": 52,
+    "name": "كتاب صفة القيامة والجنة والنار",
+    "startingHadithNo": 7045,
+    "endingHadithNo": 7129,
+    "totalHadith": 85
+  },
+  {
+    "id": 53,
+    "name": "كتاب الجنة وصفة نعيمها وأهلها",
+    "startingHadithNo": 7130,
+    "endingHadithNo": 7234,
+    "totalHadith": 105
+  },
+  {
+    "id": 54,
+    "name": "كتاب الفتن وأشراط الساعة",
+    "startingHadithNo": 7235,
+    "endingHadithNo": 7416,
+    "totalHadith": 182
+  },
+  {
+    "id": 55,
+    "name": "كتاب الزهد والرقائق",
+    "startingHadithNo": 7417,
+    "endingHadithNo": 7522,
+    "totalHadith": 106
+  },
+  {
+    "id": 56,
+    "name": "كتاب التفسير",
+    "startingHadithNo": 7523,
+    "endingHadithNo": 7563,
+    "totalHadith": 41
+  }
+]

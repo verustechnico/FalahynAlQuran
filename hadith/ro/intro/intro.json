@@ -1,0 +1,53 @@
+{
+    "books": [
+        {
+            "slug": "bukhari",
+            "en_name": "Sahih al-Bukhari",
+            "ar_name": "صحيح البخاري",
+            "intro": "Sahih al-Bukhari este o colecție de hadith-uri compilată de Imamul Muhammad al-Bukhari (d. 256 AH/870 e.n.) (rahimahullah). Colecția sa este recunoscută de vasta majoritate a lumii musulmane ca fiind cea mai autentică colecție de relatări ale Sunnei Profetului Muhammad (ﷺ). Conține peste 7500 de hadith-uri (cu repetări) în 97 de cărți. Traducerea oferită aici aparține dr. M. Muhsin Khan.",
+            "totalHadith": 7291
+        },
+        {
+            "slug": "muslim",
+            "en_name": "Sahih Muslim",
+            "ar_name": "صحيح مسلم",
+            "intro": "Sahih Muslim este o colecție de hadith-uri compilată de Imamul Muslim ibn al-Hajjaj al-Naysaburi (rahimahullah). Colecția sa este considerată una dintre cele mai autentice colecții ale Sunnei Profetului (ﷺ) și, alături de Sahih al-Bukhari, formează „Sahihain” sau „Cei doi Sahih”. Conține aproximativ 7500 de hadith-uri (cu repetări) în 57 de cărți. Traducerea oferită aici aparține lui Abdul Hamid Siddiqui.",
+            "totalHadith": 7470
+        },
+        {
+            "slug": "nasai",
+            "en_name": "Sunan an-Nasa'i",
+            "ar_name": "سنن النسائي",
+            "intro": "Sunan an-Nasa'i este o colecție de hadith-uri compilată de Imamul Ahmad an-Nasa'i (rahimahullah). Colecția sa este considerată în mod unanim una dintre cele șase colecții canonice de hadith-uri (Kutub as-Sittah) ale Sunnei Profetului (ﷺ). Conține aproximativ 5700 de hadith-uri (cu repetări) în 52 de cărți.",
+            "totalHadith": 5766
+        },
+        {
+            "slug": "tirmidhi",
+            "en_name": "Jami` at-Tirmidhi",
+            "ar_name": "جامع الترمذي",
+            "intro": "Jami` at-Tirmidhi este o colecție de hadith-uri compilată de Imamul Abu `Isa Muhammad at-Tirmidhi (rahimahullah). Colecția sa este considerată în mod unanim una dintre cele șase colecții canonice de hadith-uri (Kutub as-Sittah) ale Sunnei Profetului (ﷺ). Conține aproximativ 4400 de hadith-uri (cu repetări) în 46 de cărți.",
+            "totalHadith": 3956
+        },
+        {
+            "slug": "ibnmajah",
+            "en_name": "Sunan Ibn Majah",
+            "ar_name": "سنن ابن ماجه",
+            "intro": "Sunan Ibn Majah este o colecție de hadith-uri compilată de Imamul Muhammad bin Yazid Ibn Majah al-Qazvini (rahimahullah). Este considerată la scară largă a șasea din cele șase colecții canonice de hadith-uri (Kutub as-Sittah) ale Sunnei Profetului (ﷺ). Constă din 4341 de hadith-uri în 37 de cărți.",
+            "totalHadith": 4341
+        },
+        {
+            "slug": "malik",
+            "en_name": "Muwatta Malik",
+            "ar_name": "موطأ مالك",
+            "intro": "Al-Muwatta (însemnând literalmente „calea bătătorită” sau „ceea ce este făcut ușor”), compilată de Imamul Malik ibn Anas în secolul al VIII-lea, este una dintre cele mai vechi și mai autoritare colecții existente de tradiții și jurisprudență islamică. Combină într-un mod unic hadith-urile profetice (marfu) cu deciziile juridice, practicile și vorbele Însoțitorilor (mawquf) și Succesorilor (maqtu), punând un accent deosebit pe tradițiile juridice și consensul oamenilor din Medina.",
+            "totalHadith": 1973
+        },
+        {
+            "slug": "abudawud",
+            "en_name": "Sunan Abi Dawud",
+            "ar_name": "سنن أبي داود",
+            "intro": "Sunan Abi Dawud este o colecție de hadith-uri compilată de Imamul Abu Dawud Sulayman ibn al-Ash'ath as-Sijistani (rahimahullah). Este considerată la scară largă printre cele șase colecții canonice de hadith-uri (Kutub as-Sittah) ale Sunnei Profetului (ﷺ). Constă din 5274 de hadith-uri în 43 de cărți. Include scrisoarea Imamului Abu Dawud către oamenii din Mecca prin care își explică cartea, termenii folosiți și metodologia sa.",
+            "totalHadith": 5276
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "books": [
+        {
+            "slug": "bukhari",
+            "en_name": "Sahih al-Bukhari",
+            "ar_name": "صحيح البخاري",
+            "intro": "Ang Sahih al-Bukhari ay isang koleksyon ng hadith na inipon ni Imam Muhammad al-Bukhari (namatay 256 AH/870 CE) (rahimahullah). Ang kanyang koleksyon ay kinikilala ng nakararami sa mundo ng Islam bilang ang pinaka-awtentikong koleksyon ng mga ulat ng Sunnah ng Propeta Muhammad (ﷺ). Naglalaman ito ng higit sa 7500 hadith (kasama ang mga pag-uulit) sa 97 libro. Ang salin na ibinigay rito ay ginawa ni Dr. M. Muhsin Khan.",
+            "totalHadith": 7291
+        },
+        {
+            "slug": "muslim",
+            "en_name": "Sahih Muslim",
+            "ar_name": "صحيح مسلم",
+            "intro": "Ang Sahih Muslim ay isang koleksyon ng hadith na inipon ni Imam Muslim ibn al-Hajjaj al-Naysaburi (rahimahullah). Ang kanyang koleksyon ay itinuturing na isa sa mga pinaka-awtentikong koleksyon ng Sunnah ng Propeta (ﷺ), at kasama ng Sahih al-Bukhari ay bumubuo sa \"Sahihain,\" o ang \"Dalawang Sahih.\" Naglalaman ito ng humigit-kumulang 7500 hadith (kasama ang mga pag-uulit) sa 57 libro. Ang salin na ibinigay rito ay ginawa ni Abdul Hamid Siddiqui.",
+            "totalHadith": 7470
+        },
+        {
+            "slug": "nasai",
+            "en_name": "Sunan an-Nasa'i",
+            "ar_name": "سنن النسائي",
+            "intro": "Ang Sunan an-Nasa'i ay isang koleksyon ng hadith na inipon ni Imam Ahmad an-Nasa'i (rahimahullah). Ang kanyang koleksyon ay unanimously na itinuturing na isa sa anim na kanonikal na koleksyon ng hadith (Kutub as-Sittah) ng Sunnah ng Propeta (ﷺ). Naglalaman ito ng humigit-kumulang 5700 hadith (kasama ang mga pag-uulit) sa 52 libro.",
+            "totalHadith": 5766
+        },
+        {
+            "slug": "tirmidhi",
+            "en_name": "Jami` at-Tirmidhi",
+            "ar_name": "جامع الترمذي",
+            "intro": "Ang Jami` at-Tirmidhi ay isang koleksyon ng hadith na inipon ni Imam Abu `Isa Muhammad at-Tirmidhi (rahimahullah). Ang kanyang koleksyon ay unanimously na itinuturing na isa sa anim na kanonikal na koleksyon ng hadith (Kutub as-Sittah) ng Sunnah ng Propeta (ﷺ). Naglalaman ito ng humigit-kumulang 4400 hadith (kasama ang mga pag-uulit) sa 46 libro.",
+            "totalHadith": 3956
+        },
+        {
+            "slug": "ibnmajah",
+            "en_name": "Sunan Ibn Majah",
+            "ar_name": "سنن ابن ماجه",
+            "intro": "Ang Sunan Ibn Majah ay isang koleksyon ng hadith na inipon ni Imam Muhammad bin Yazid Ibn Majah al-Qazvini (rahimahullah). Ito ay malawak na itinuturing na ika-anim sa anim na kanonikal na koleksyon ng hadith (Kutub as-Sittah) ng Sunnah ng Propeta (ﷺ). Binubuo ito ng 4341 ahadith sa 37 libro.",
+            "totalHadith": 4341
+        },
+        {
+            "slug": "malik",
+            "en_name": "Muwatta Malik",
+            "ar_name": "موطأ مالك",
+            "intro": "Ang Al-Muwatta (literal na nangangahulugang \"ang mayabakan na landas\" o \"ang pinaluwag\"), na inipon ni Imam Malik ibn Anas noong ika-8 siglo, ay isa sa mga pinakamaagang at pinaka-awtoritatibong umiiral na koleksyon ng mga tradisyong Islamiko at hurisprudensya. Tanging pinagsasama nito ang mga Hadith ng Propeta (marfu) sa mga legal na hatol, gawi, at kasabihan ng mga Kasama (mawquf) at Kasunod (maqtu), na nagbibigay ng malakas na diin sa mga legal na tradisyon at kasunduan ng mga tao sa Medina.",
+            "totalHadith": 1973
+        },
+        {
+            "slug": "abudawud",
+            "en_name": "Sunan Abi Dawud",
+            "ar_name": "سنن أبي داود",
+            "intro": "Ang Sunan Abi Dawud ay isang koleksyon ng hadith na inipon ni Imam Abu Dawud Sulayman ibn al-Ash'ath as-Sijistani (rahimahullah). Ito ay malawak na itinuturing na kabilang sa anim na kanonikal na koleksyon ng hadith (Kutub as-Sittah) ng Sunnah ng Propeta (ﷺ). Binubuo ito ng 5274 ahadith sa 43 libro. Kabilang din dito ang liham ni Imam Abu Dawud sa mga tao sa Makkah na nagpapaliwanag ng kanyang libro, mga terminong ginamit niya, at ang kanyang metodolohiya.",
+            "totalHadith": 5276
+        }
+    ]
+}

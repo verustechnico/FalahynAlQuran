@@ -1,0 +1,53 @@
+{
+    "books": [
+        {
+            "slug": "bukhari",
+            "en_name": "Sahih al-Bukhari",
+            "ar_name": "صحيح البخاري",
+            "intro": "Sahih al-Bukhari ialah koleksi hadis yang dihimpunkan oleh Imam Muhammad al-Bukhari (meninggal dunia 256 AH/870 M) (rahimahullah). Koleksi beliau diiktiraf oleh majoriti besar umat Islam sebagai koleksi riwayat yang paling sahih mengenai Sunnah Nabi Muhammad (ﷺ). Ia mengandungi lebih daripada 7500 hadis (dengan pengulangan) dalam 97 kitab. Terjemahan yang disediakan di sini adalah oleh Dr. M. Muhsin Khan.",
+            "totalHadith": 7291
+        },
+        {
+            "slug": "muslim",
+            "en_name": "Sahih Muslim",
+            "ar_name": "صحيح مسلم",
+            "intro": "Sahih Muslim ialah koleksi hadis yang dihimpunkan oleh Imam Muslim ibn al-Hajjaj al-Naysaburi (rahimahullah). Koleksi beliau dianggap sebagai salah satu koleksi Sunnah Nabi (ﷺ) yang paling sahih, dan bersama Sahih al-Bukhari membentuk \"Sahihain,\" atau \"Dua Kitab Sahih.\" Ia mengandungi kira-kira 7500 hadis (dengan pengulangan) dalam 57 kitab. Terjemahan yang disediakan di sini adalah oleh Abdul Hamid Siddiqui.",
+            "totalHadith": 7470
+        },
+        {
+            "slug": "nasai",
+            "en_name": "Sunan an-Nasa'i",
+            "ar_name": "سنن النسائي",
+            "intro": "Sunan an-Nasa'i ialah koleksi hadis yang dihimpunkan oleh Imam Ahmad an-Nasa'i (rahimahullah). Koleksi beliau secara sebulat suara dianggap sebagai salah satu daripada enam koleksi hadis kanonik (Kutub as-Sittah) mengenai Sunnah Nabi (ﷺ). Ia mengandungi kira-kira 5700 hadis (dengan pengulangan) dalam 52 kitab.",
+            "totalHadith": 5766
+        },
+        {
+            "slug": "tirmidhi",
+            "en_name": "Jami` at-Tirmidhi",
+            "ar_name": "جامع الترمذي",
+            "intro": "Jami` at-Tirmidhi ialah koleksi hadis yang dihimpunkan oleh Imam Abu `Isa Muhammad at-Tirmidhi (rahimahullah). Koleksi beliau secara sebulat suara dianggap sebagai salah satu daripada enam koleksi hadis kanonik (Kutub as-Sittah) mengenai Sunnah Nabi (ﷺ). Ia mengandungi kira-kira 4400 hadis (dengan pengulangan) dalam 46 kitab.",
+            "totalHadith": 3956
+        },
+        {
+            "slug": "ibnmajah",
+            "en_name": "Sunan Ibn Majah",
+            "ar_name": "سنن ابن ماجه",
+            "intro": "Sunan Ibn Majah ialah koleksi hadis yang dihimpunkan oleh Imam Muhammad bin Yazid Ibn Majah al-Qazvini (rahimahullah). Ia dianggap secara meluas sebagai kitab keenam daripada enam koleksi hadis kanonik (Kutub as-Sittah) mengenai Sunnah Nabi (ﷺ). Ia mengandungi 4341 hadis dalam 37 kitab.",
+            "totalHadith": 4341
+        },
+        {
+            "slug": "malik",
+            "en_name": "Muwatta Malik",
+            "ar_name": "موطأ مالك",
+            "intro": "Al-Muwatta (secara harfiah bermaksud \"jalan yang dirintis\" atau \"yang dipermudahkan\") yang dihimpunkan oleh Imam Malik ibn Anas pada abad ke-8, merupakan salah satu koleksi tradisi dan perundangan Islam yang paling awal dan paling berautoriti yang masih wujud. Ia secara unik menggabungkan hadis-hadis nabi (marfu) dengan hukum-hukum agama, amalan, dan perkataan para Sahabat (mawquf) serta Tabi'in (maqtu), dengan memberikan penekanan yang kuat kepada tradisi perundangan dan konsensus penduduk Madinah.",
+            "totalHadith": 1973
+        },
+        {
+            "slug": "abudawud",
+            "en_name": "Sunan Abi Dawud",
+            "ar_name": "سنن أبي داود",
+            "intro": "Sunan Abi Dawud ialah koleksi hadis yang dihimpunkan oleh Imam Abu Dawud Sulayman ibn al-Ash'ath as-Sijistani (rahimahullah). Ia dianggap secara meluas sebagai salah satu daripada enam koleksi hadis kanonik (Kutub as-Sittah) mengenai Sunnah Nabi (ﷺ). Ia mengandungi 5274 hadis dalam 43 kitab. Surat daripada Imam Abu Dawud kepada penduduk Makkah yang menerangkan kitab beliau, istilah yang digunakan, dan metodologinya turut disertakan.",
+            "totalHadith": 5276
+        }
+    ]
+}

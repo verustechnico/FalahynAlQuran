@@ -1,0 +1,53 @@
+{
+    "books": [
+        {
+            "slug": "bukhari",
+            "en_name": "Sahih al-Bukhari",
+            "ar_name": "صحيح البخاري",
+            "intro": "Sahih al-Bukhari ni mkusanyiko wa hadithi uliokusanywa na Imam Muhammad al-Bukhari (d. 256 AH/870 BK) (rahimahullah). Mkusanyiko wake unatambuliwa na idadi kubwa ya ulimwengu wa Kiislamu kuwa ndio mkusanyiko sahihi zaidi wa riwaya za Sunnah za Mtume Muhammad (ﷺ). Una zaidi ya hadithi 7500 (pamoja na marudio) katika vitabu 97. Tafsiri iliyotolewa hapa ni ya Dk. M. Muhsin Khan.",
+            "totalHadith": 7291
+        },
+        {
+            "slug": "muslim",
+            "en_name": "Sahih Muslim",
+            "ar_name": "صحيح مسلم",
+            "intro": "Sahih Muslim ni mkusanyiko wa hadithi uliokusanywa na Imam Muslim ibn al-Hajjaj al-Naysaburi (rahimahullah). Mkusanyiko wake unachukuliwa kuwa moja ya mikusanyiko sahihi zaidi ya Sunnah za Mtume (ﷺ), na pamoja na Sahih al-Bukhari inaunda \"Sahihain,\" au \"Sahih Mbili.\" Una takriban hadithi 7500 (pamoja na marudio) katika vitabu 57. Tafsiri iliyotolewa hapa ni ya Abdul Hamid Siddiqui.",
+            "totalHadith": 7470
+        },
+        {
+            "slug": "nasai",
+            "en_name": "Sunan an-Nasa'i",
+            "ar_name": "سنن النسائي",
+            "intro": "Sunan an-Nasa'i ni mkusanyiko wa hadithi uliokusanywa na Imam Ahmad an-Nasa'i (rahimahullah). Mkusanyiko wake unakubaliwa kwa kauli moja kuwa ni miongoni mwa mikusanyiko sita kuu ya hadithi (Kutub as-Sittah) ya Sunnah za Mtume (ﷺ). Una takriban hadithi 5700 (pamoja na marudio) katika vitabu 52.",
+            "totalHadith": 5766
+        },
+        {
+            "slug": "tirmidhi",
+            "en_name": "Jami` at-Tirmidhi",
+            "ar_name": "جامع الترمذي",
+            "intro": "Jami` at-Tirmidhi ni mkusanyiko wa hadithi uliokusanywa na Imam Abu `Isa Muhammad at-Tirmidhi (rahimahullah). Mkusanyiko wake unakubaliwa kwa kauli moja kuwa ni miongoni mwa mikusanyiko sita kuu ya hadithi (Kutub as-Sittah) ya Sunnah za Mtume (ﷺ). Una takriban hadithi 4400 (pamoja na marudio) katika vitabu 46.",
+            "totalHadith": 3956
+        },
+        {
+            "slug": "ibnmajah",
+            "en_name": "Sunan Ibn Majah",
+            "ar_name": "سنن ابن ماجه",
+            "intro": "Sunan Ibn Majah ni mkusanyiko wa hadithi uliokusanywa na Imam Muhammad bin Yazid Ibn Majah al-Qazvini (rahimahullah). Unachukuliwa kwa lapana kuwa ni wa sita katika mikusanyiko sita kuu ya hadithi (Kutub as-Sittah) ya Sunnah za Mtume (ﷺ). Unajumuisha hadithi 4341 katika vitabu 37.",
+            "totalHadith": 4341
+        },
+        {
+            "slug": "malik",
+            "en_name": "Muwatta Malik",
+            "ar_name": "موطأ مالك",
+            "intro": "Al-Muwatta (kwa maana halisi \"njia iliyopitwa sana\" au \"kitu kilichofanywa kuwa chepesi\") uliokusanywa na Imam Malik ibn Anas katika karne ya 8, ni miongoni mwa mikusanyiko ya mapema zaidi na yenye mamlaka kubwa ya mapokeo na sheria za Kiislamu. Unaunganisha kwa njia ya kipekee hadithi za Mtume (marfu) pamoja na hukumu za kisheria, matendo, na kauli za Maswahaba (mawquf) na Tabi'ina (maqtu), ukisisitiza sana mapokeo ya kisheria na ijmai ya watu wa Madina.",
+            "totalHadith": 1973
+        },
+        {
+            "slug": "abudawud",
+            "en_name": "Sunan Abi Dawud",
+            "ar_name": "سنن أبي داود",
+            "intro": "Sunan Abi Dawud ni mkusanyiko wa hadithi uliokusanywa na Imam Abu Dawud Sulayman ibn al-Ash'ath as-Sijistani (rahimahullah). Unachukuliwa kwa lapana kuwa ni miongoni mwa mikusanyiko sita kuu ya hadithi (Kutub as-Sittah) ya Sunnah za Mtume (ﷺ). Unajumuisha hadithi 5274 katika vitabu 43. Pia unajumuisha barua ya Imam Abu Dawud kwa watu wa Makka akieleza kitabu chake, istilahi anazotumia, na mfumo wake.",
+            "totalHadith": 5276
+        }
+    ]
+}

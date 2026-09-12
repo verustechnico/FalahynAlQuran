@@ -1,0 +1,53 @@
+{
+    "books": [
+        {
+            "slug": "bukhari",
+            "en_name": "Sahih al-Bukhari",
+            "ar_name": "صحيح البخاري",
+            "intro": "Sahíh al-Buchárí je sbírka hadísů sestavená imámem Muhammadem al-Buchárím (zř. 256 AH/870 n. l.) (rahimahullah). Jeho sbírka je převážnou většinou muslimského světa uznávána jako nejautentičtější sbírka zpráv o Sunně proroka Muhammada (ﷺ). Obsahuje přes 7500 hadísů (s opakováními) v 97 knihách. Zde poskytnutý překlad pochází od Dr. M. Muhsina Khana.",
+            "totalHadith": 7291
+        },
+        {
+            "slug": "muslim",
+            "en_name": "Sahih Muslim",
+            "ar_name": "صحيح مسلم",
+            "intro": "Sahíh Muslim je sbírka hadísů sestavená imámem Muslimem ibn al-Haddžádžem al-Naysábúrím (rahimahullah). Jeho sbírka je považována za jednu z nejautentičtějších sbírek Sunny proroka (ﷺ) a spolu s Sahíh al-Buchárí tvoří \"Sahíhajn\" neboli \"Dva Sahíhy\". Obsahuje přibližně 7500 hadísů (s opakováními) v 57 knihách. Zde poskytnutý překlad pochází od Abdula Hamida Siddiquiho.",
+            "totalHadith": 7470
+        },
+        {
+            "slug": "nasai",
+            "en_name": "Sunan an-Nasa'i",
+            "ar_name": "سنن النسائي",
+            "intro": "Sunan an-Nasá'í je sbírka hadísů sestavená imámem Ahmadom an-Nasá'ím (rahimahullah). Jeho sbírka je jednomyslně považována za jednu ze šesti kanonických sbírek hadísů (Kutub as-Sittah) Sunny proroka (ﷺ). Obsahuje přibližně 5700 hadísů (s opakováními) v 52 knihách.",
+            "totalHadith": 5766
+        },
+        {
+            "slug": "tirmidhi",
+            "en_name": "Jami` at-Tirmidhi",
+            "ar_name": "جامع الترمذي",
+            "intro": "Džámi` at-Tirmíðí je sbírka hadísů sestavená imámem Abú `Ísou Muhammadem at-Tirmíðím (rahimahullah). Jeho sbírka je jednomyslně považována za jednu ze šesti kanonických sbírek hadísů (Kutub as-Sittah) Sunny proroka (ﷺ). Obsahuje přibližně 4400 hadísů (s opakováními) v 46 knihách.",
+            "totalHadith": 3956
+        },
+        {
+            "slug": "ibnmajah",
+            "en_name": "Sunan Ibn Majah",
+            "ar_name": "سنن ابن ماجه",
+            "intro": "Sunan Ibn Mádža je sbírka hadísů sestavená imámem Muhammadem bin Jazídem Ibn Mádžou al-Kazvíním (rahimahullah). Je široce považována za šestou ze šesti kanonických sbírek hadísů (Kutub as-Sittah) Sunny proroka (ﷺ). Skládá se z 4341 hadísů v 37 knihách.",
+            "totalHadith": 4341
+        },
+        {
+            "slug": "malik",
+            "en_name": "Muwatta Malik",
+            "ar_name": "موطأ مالك",
+            "intro": "Al-Muvatta (doslova znamená \"vyšlapaná cesta\" nebo \"to, co je usnadněno\"), sestavená imámem Málikem ibn Anasem v 8. století, je jednou z nejranějších a nejuznávanějších dochovaných sbírek islámských tradic a právní vědy. Unikátním způsobem kombinuje prorocké hadísy (marfu) s právními rozhodnutími, praktikami a výroky Sahábů (mavkúf) a Tabi'ínů (maktú), přičemž klade velký důraz na právní tradice a konsensus obyvatel Medíny.",
+            "totalHadith": 1973
+        },
+        {
+            "slug": "abudawud",
+            "en_name": "Sunan Abi Dawud",
+            "ar_name": "سنن أبي داود",
+            "intro": "Sunan Abí Dávúd je sbírka hadísů sestavená imámem Abú Dávúdem Sulajmánem ibn al-Aš'athem as-Sidžistáním (rahimahullah). Je široce považována za jednu ze šesti kanonických sbírek hadísů (Kutub as-Sittah) Sunny proroka (ﷺ). Skládá se z 5274 hadísů v 43 knihách. Dopis imáma Abú Dávúda obyvatelům Mekky vysvětlující jeho knihu, pojmy, které používá, a jeho metodologii.",
+            "totalHadith": 5276
+        }
+    ]
+}

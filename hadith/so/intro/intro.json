@@ -1,0 +1,53 @@
+{
+    "books": [
+        {
+            "slug": "bukhari",
+            "en_name": "Sahih al-Bukhari",
+            "ar_name": "صحيح البخاري",
+            "intro": "Saxiix al-Bukhari waa ururin xadiis ah oo uu isku dabariday Imam Muhammad al-Bukhari (wuxuu mất 256 AH/870 CE) (rahimahullah). Ururintiisa waxaa aqlabiyadda ugu badan ee caalamka Islaamku u aqoonsan yihiin inay tahay tan ugu saxan ee laga weriyo Sunnada Nabiga Muhammad (ﷺ). Waxay ka kooban tahay ku dhawaad 7500 xadiis (kuwa soo laablaabta leh) oo ku kala jira 97 buug. Tarjumada halkan lagu diyaariyay waa tan Dr. M. Muhsin Khan.",
+            "totalHadith": 7291
+        },
+        {
+            "slug": "muslim",
+            "en_name": "Sahih Muslim",
+            "ar_name": "صحيح مسلم",
+            "intro": "Saxiix Muslim waa ururin xadiis ah oo uu isku dabariday Imam Muslim ibn al-Hajjaj al-Naysaburi (rahimahullah). Ururintiisa waxaa loo tiriyaa inay ka mid tahay kuwa ugu saxan Sunnada Nabiga (ﷺ), waxayna Saxiix al-Bukhari wada dhisayaan \"Saxiixayn\" ama \"Labada Saxiix\". Waxay ka kooban tahay ku dhawaad 7500 xadiis (kuwa soo laablaabta leh) oo ku kala jira 57 buug. Tarjumada halkan lagu diyaariyay waa tan Abdul Hamid Siddiqui.",
+            "totalHadith": 7470
+        },
+        {
+            "slug": "nasai",
+            "en_name": "Sunan an-Nasa'i",
+            "ar_name": "سنن النسائي",
+            "intro": "Sunan an-Nasa'i waa ururin xadiis ah oo uu isku dabariday Imam Ahmad an-Nasa'i (rahimahullah). Ururintiisa waxaa si loo dhan yahay u aqoonsan yahay inay ka mid tahay lixda buug ee ugu waaweyn xadiista (Kutub as-Sittah) ee Sunnada Nabiga (ﷺ). Waxay ka kooban tahay ku dhawaad 5700 xadiis (kuwa soo laablaabta leh) oo ku kala jira 52 buug.",
+            "totalHadith": 5766
+        },
+        {
+            "slug": "tirmidhi",
+            "en_name": "Jami` at-Tirmidhi",
+            "ar_name": "جامع الترمذي",
+            "intro": "Jami` at-Tirmidhi waa ururin xadiis ah oo uu isku dabariday Imam Abu `Isa Muhammad at-Tirmidhi (rahimahullah). Ururintiisa waxaa si loo dhan yahay u aqoonsan yahay inay ka mid tahay lixda buug ee ugu waaweyn xadiista (Kutub as-Sittah) ee Sunnada Nabiga (ﷺ). Waxay ka kooban tahay ku dhawaad 4400 xadiis (kuwa soo laablaabta leh) oo ku kala jira 46 buug.",
+            "totalHadith": 3956
+        },
+        {
+            "slug": "ibnmajah",
+            "en_name": "Sunan Ibn Majah",
+            "ar_name": "سنن ابن ماجه",
+            "intro": "Sunan Ibn Majah waa ururin xadiis ah oo uu isku dabariday Imam Muhammad bin Yazid Ibn Majah al-Qazvini (rahimahullah). Waxaa si ballaaran loo aaminsan yahay inay tahay buugga lixaad ee lixda buug ee ugu waaweyn xadiista (Kutub as-Sittah) ee Sunnada Nabiga (ﷺ). Waxay ka kooban tahay 4341 xadiis oo ku kala jira 37 buug.",
+            "totalHadith": 4341
+        },
+        {
+            "slug": "malik",
+            "en_name": "Muwatta Malik",
+            "ar_name": "موطأ مالك",
+            "intro": "Al-Muwatta (oo micnaheedu yahay \"dhabqadii la xaaley\" ama \"waxa la fududeeyay\") oo uu isku dabariday Imam Malik ibn Anas qarnigii 8aad, waa mid ka mid ah ururinta ugu horraysa uguna awoodda badan ee dhaxalka iyo fiqiga Islaamka. Waxay si gaar ah isugu kartaa xadiisyada Nabiga (marfu) iyo aaraada sharciga ah, dhaqamada, iyo hadallada Saxaabada (mawquf) iyo Tabiciinta (maqtu), iyadoo culays weyn saareysa dhaqanka sharciga ah iyo ijmaaca reer Madiina.",
+            "totalHadith": 1973
+        },
+        {
+            "slug": "abudawud",
+            "en_name": "Sunan Abi Dawud",
+            "ar_name": "سنن أبي داود",
+            "intro": "Sunan Abi Dawud waa ururin xadiis ah oo uu isku dabariday Imam Abu Dawud Sulayman ibn al-Ash'ath as-Sijistani (rahimahullah). Waxaa si ballaaran loo aaminsan yahay inay ka mid tahay lixda buug ee ugu waaweyn xadiista (Kutub as-Sittah) ee Sunnada Nabiga (ﷺ). Waxay ka kooban tahay 5274 xadiis oo ku kala jira 43 buug. Waxaa sidoo kale ku jira warqaddii Imam Abu Dawud u diray reer Makka oo uu ku giảiyaayo buuggiisa, erayada uu isticmaalay, iyo manhajkiisa.",
+            "totalHadith": 5276
+        }
+    ]
+}

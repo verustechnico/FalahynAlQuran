@@ -1,0 +1,53 @@
+{
+    "books": [
+        {
+            "slug": "bukhari",
+            "en_name": "Sahih al-Bukhari",
+            "ar_name": "صحيح البخاري",
+            "intro": "사히 알 부하리(Sahih al-Bukhari)는 이맘 무함마드 알 부하리(rahimahullah)(하스라트 256년/서기 870년 사망)가 수집한 하디스 집성입니다. 그의 컬렉션은 이슬람 세계의 압도적인 다수에 의해 예언자 무함마드 (ﷺ)의 순나(Sunnah)에 대한 가장 확실하고 신뢰할 수 있는 기록 집성으로 인정받고 있습니다. 97개의 서적에 7500개 이상의 하디스(중복 포함)가 포함되어 있습니다. 여기에 제공된 번역은 M. 무흐신 칸(Dr. M. Muhsin Khan) 박사의 번역입니다.",
+            "totalHadith": 7291
+        },
+        {
+            "slug": "muslim",
+            "en_name": "Sahih Muslim",
+            "ar_name": "صحيح مسلم",
+            "intro": "사히 무슬림(Sahih Muslim)은 이맘 무슬림 이븐 알 하짜지 알 나이사부리(rahimahullah)가 수집한 하디스 집성입니다. 그의 컬렉션은 예언자 (ﷺ)의 순나에 대한 가장 신뢰할 수 있는 수집서 중 하나로 여겨지며, 사히 알 부하리와 함께 \"사히하인(Two Sahihs)\"을 구성합니다. 57개의 서적에 약 7500개의 하디스(중복 포함)가 포함되어 있습니다. 여기에 제공된 번역은 압둘 하미드 시디키(Abdul Hamid Siddiqui)의 번역입니다.",
+            "totalHadith": 7470
+        },
+        {
+            "slug": "nasai",
+            "en_name": "Sunan an-Nasa'i",
+            "ar_name": "سنن النسائي",
+            "intro": "스난 안 나사이(Sunan an-Nasa'i)는 이맘 아흐마드 안 나사이(rahimahullah)가 수집한 하디스 집성입니다. 그의 컬렉션은 예언자 (ﷺ)의 순나에 관한 6대 하디스 집성(Kutub as-Sittah) 중 하나로 만장일치로 인정받고 있습니다. 52개의 서적에 약 5700개의 하디스(중복 포함)가 포함되어 있습니다.",
+            "totalHadith": 5766
+        },
+        {
+            "slug": "tirmidhi",
+            "en_name": "Jami` at-Tirmidhi",
+            "ar_name": "جامع الترمذي",
+            "intro": "자미 아티르미디(Jami` at-Tirmidhi)는 이맘 아부 이사 무함마드 아티르미디(rahimahullah)가 수집한 하디스 집성입니다. 그의 컬렉션은 예언자 (ﷺ)의 순나에 관한 6대 하디스 집성(Kutub as-Sittah) 중 하나로 만장일치로 인정받고 있습니다. 46개의 서적에 약 4400개의 하디스(중복 포함)가 포함되어 있습니다.",
+            "totalHadith": 3956
+        },
+        {
+            "slug": "ibnmajah",
+            "en_name": "Sunan Ibn Majah",
+            "ar_name": "سنن ابن ماجه",
+            "intro": "스난 이븐 마자(Sunan Ibn Majah)는 이맘 무함마드 빈 야지드 이븐 마자 알 카즈비니(rahimahullah)가 수집한 하디스 집성입니다. 예언자 (ﷺ)의 순나에 관한 6대 하디스 집성(Kutub as-Sittah) 중 여섯 번째로 널리 여겨집니다. 37개의 서적에 4341개의 하디스로 구성되어 있습니다.",
+            "totalHadith": 4341
+        },
+        {
+            "slug": "malik",
+            "en_name": "Muwatta Malik",
+            "ar_name": "موطأ مالك",
+            "intro": "알 무와따(Al-Muwatta, 문자 그대로 \"잘 다져진 길\" 또는 \"용이하게 된 것\")는 8세기에 이맘 말리크 이븐 아나스에 의해 수집된, 가장 오래되고 가장 권위 있는 이슬람 전승 및 법학 수집서 중 하나입니다. 예언자의 하디스(marfu)와 사하바(동료)의 법적 판결, 실천 및 언행(mawquf), 그리고 타비운(후계자)의 언행(maqtu)을 독특하게 결합하고 있으며, 메디나 사람들의 법적 전통과 합의를 강력히 강조합니다.",
+            "totalHadith": 1973
+        },
+        {
+            "slug": "abudawud",
+            "en_name": "Sunan Abi Dawud",
+            "ar_name": "سنن أبي داود",
+            "intro": "스난 아비 다우드(Sunan Abi Dawud)는 이맘 아부 다우드 술라이만 이븐 알 아쉬아스 알 시지스타니(rahimahullah)가 수집한 하디스 집성입니다. 예언자 (ﷺ)의 순나에 관한 6대 하디스 집성(Kutub as-Sittah) 중 하나로 널리 여겨집니다. 43개의 서적에 5274개의 하디스로 구성되어 있습니다. 이맘 아부 다우드가 메카 사람들에게 자신의 책과 사용된 용어, 방법론을 설명하며 보낸 편지도 포함되어 있습니다.",
+            "totalHadith": 5276
+        }
+    ]
+}

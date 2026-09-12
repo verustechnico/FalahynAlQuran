@@ -1,0 +1,53 @@
+{
+    "books": [
+        {
+            "slug": "bukhari",
+            "en_name": "Sahih al-Bukhari",
+            "ar_name": "صحيح البخاري",
+            "intro": "Sahih-i Buhari, İmam Muhammed al-Buhari (öl. H. 256/M. 870) (rahimahullah) tarafından derlenmiş bir hadis koleksiyonudur. Onun koleksiyonu, İslam dünyasının ezici çoğunluğu tarafından Hz. Muhammed'in (ﷺ) Sünnetinin en sahih derlemesi olarak kabul edilir. 97 kitapta (tekrarlarla birlikte) 7500'den fazla hadis içermektedir. Burada sunulan tercüme Dr. M. Muhsin Khan tarafınca yapılmıştır.",
+            "totalHadith": 7291
+        },
+        {
+            "slug": "muslim",
+            "en_name": "Sahih Muslim",
+            "ar_name": "صحيح مسلم",
+            "intro": "Sahih-i Müslim, İmam Müslim ibn al-Haccac an-Nisaburi (rahimahullah) tarafından derlenmiş bir hadis koleksiyonudur. Onun derlemesi Peygamber'in (ﷺ) Sünnetinin en sahih koleksiyonlarından biri olarak kabul edilir ve Sahih-i Buhari ile birlikte \"Sahihayn\" yani \"İki Sahih\"i oluşturur. 57 kitapta yaklaşık 7500 hadis (tekrarlarla birlikte) içermektedir. Burada sunulan tercüme Abdul Hamid Siddiqui tarafınca yapılmıştır.",
+            "totalHadith": 7470
+        },
+        {
+            "slug": "nasai",
+            "en_name": "Sunan an-Nasa'i",
+            "ar_name": "سنن النسائي",
+            "intro": "Sünen-i Nesai, İmam Ahmed an-Nesai (rahimahullah) tarafından derlenmiş bir hadis koleksiyonudur. Derlemesi, oy birliğiyle Peygamber'in (ﷺ) Sünnetinin altı temel hadis kitabından (Kütüb-i Sitte) biri kabul edilir. 52 kitapta yaklaşık 5700 hadis (tekrarlarla birlikte) içermektedir.",
+            "totalHadith": 5766
+        },
+        {
+            "slug": "tirmidhi",
+            "en_name": "Jami` at-Tirmidhi",
+            "ar_name": "جامع الترمذي",
+            "intro": "Camiu't-Tirmizi, İmam Ebu İsa Muhammed at-Tirmizi (rahimahullah) tarafından derlenmiş bir hadis koleksiyonudur. Derlemesi, oy birliğiyle Peygamber'in (ﷺ) Sünnetinin altı temel hadis kitabından (Kütüb-i Sitte) biri kabul edilir. 46 kitapta yaklaşık 4400 hadis (tekrarlarla birlikte) içermektedir.",
+            "totalHadith": 3956
+        },
+        {
+            "slug": "ibnmajah",
+            "en_name": "Sunan Ibn Majah",
+            "ar_name": "سنن ابن ماجه",
+            "intro": "Sünen-i İbn Mace, İmam Muhammed bin Yezid İbn Mace el-Kazvini (rahimahullah) tarafından derlenmiş bir hadis koleksiyonudur. Peygamber'in (ﷺ) Sünnetinin altı temel hadis kitabının (Kütüb-i Sitte) altıncısı olarak yaygın biçimde kabul edilir. 37 kitapta 4341 hadisten oluşmaktadır.",
+            "totalHadith": 4341
+        },
+        {
+            "slug": "malik",
+            "en_name": "Muwatta Malik",
+            "ar_name": "موطأ مالك",
+            "intro": "El-Muvatta (kelime anlamıyla \"çiğnenmiş/düzlenmiş yol\" veya \"kolaylaştırılmış olan\"), 8. yüzyılda İmam Malik ibn Enes tarafından derlenmiş olup, İslami gelenekler ve fıkhın günümüze ulaşan en erken ve en muteber koleksiyonlarından biridir. Peygamber hadislerini (marfu), Sahabe (mevkuf) ve Tabiun'un (maktu) hukuki hükümleri, uygulamaları ve sözleriyle özgün bir şekilde birleştirir; Medine halkının hukuki geleneklerine ve icmaına ağırlık verir.",
+            "totalHadith": 1973
+        },
+        {
+            "slug": "abudawud",
+            "en_name": "Sunan Abi Dawud",
+            "ar_name": "سنن أبي داود",
+            "intro": "Sünen-i Ebu Davud, İmam Ebu Davud Süleyman ibn al-Eş'as as-Sicistani (rahimahullah) tarafından derlenmiş bir hadis koleksiyonudur. Peygamber'in (ﷺ) Sünnetinin altı temel hadis kitabı (Kütüb-i Sitte) arasında yaygın olarak kabul edilir. 43 kitapta 5274 hadisten oluşmaktadır. Ayrıca İmam Ebu Davud'un Mekke halkına yazdığı, kitabını, kullandığı terimleri ve metodolojisini açıklayan mektubunu da içerir.",
+            "totalHadith": 5276
+        }
+    ]
+}

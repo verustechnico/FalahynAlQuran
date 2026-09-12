@@ -1,0 +1,53 @@
+{
+    "books": [
+        {
+            "slug": "bukhari",
+            "en_name": "Sahih al-Bukhari",
+            "ar_name": "صحيح البخاري",
+            "intro": "Sahih al-Bukhari është një përmbledhje hadithesh e kompiluar nga Imami Muhamed al-Bukhari (v. 256 H/870 e.s.) (rahimahullah). Përmbledhja e tij njihet nga shumica dërrmuese e botës myslimane si përmbledhja më autentike e transmetimeve të Sunetit të Profetit Muhamed (ﷺ). Ajo përmban mbi 7500 hadithe (me përsëritje) në 97 libra. Përkthimi i ofruar këtu është nga Dr. M. Muhsin Khan.",
+            "totalHadith": 7291
+        },
+        {
+            "slug": "muslim",
+            "en_name": "Sahih Muslim",
+            "ar_name": "صحيح مسلم",
+            "intro": "Sahih Muslim është një përmbledhje hadithesh e kompiluar nga Imami Muslim ibn al-Hajjaj al-Naysaburi (rahimahullah). Përmbledhja e tij konsiderohet si një nga përmbledhjet më autentike të Sunetit të Profetit (ﷺ), dhe së bashku me Sahih al-Bukhari formon \"Sahihajn\", ose \"Dy Sahihët\". Ajo përmban rreth 7500 hadithe (me përsëritje) në 57 libra. Përkthimi i ofruar këtu është nga Abdul Hamid Siddiqui.",
+            "totalHadith": 7470
+        },
+        {
+            "slug": "nasai",
+            "en_name": "Sunan an-Nasa'i",
+            "ar_name": "سنن النسائي",
+            "intro": "Sunan an-Nasa'i është një përmbledhje hadithesh e kompiluar nga Imami Ahmad an-Nasa'i (rahimahullah). Përmbledhja e tij konsiderohet njëzëri si një nga gjashtë përmbledhjet kanonike të hadithit (Kutub as-Sittah) të Sunetit të Profetit (ﷺ). Ajo përmban rreth 5700 hadithe (me përsëritje) në 52 libra.",
+            "totalHadith": 5766
+        },
+        {
+            "slug": "tirmidhi",
+            "en_name": "Jami` at-Tirmidhi",
+            "ar_name": "جامع الترمذي",
+            "intro": "Jami` at-Tirmidhi është një përmbledhje hadithesh e kompiluar nga Imami Abu `Isa Muhammad at-Tirmidhi (rahimahullah). Përmbledhja e tij konsiderohet njëzëri si një nga gjashtë përmbledhjet kanonike të hadithit (Kutub as-Sittah) të Sunetit të Profetit (ﷺ). Ajo përmban rreth 4400 hadithe (me përsëritje) në 46 libra.",
+            "totalHadith": 3956
+        },
+        {
+            "slug": "ibnmajah",
+            "en_name": "Sunan Ibn Majah",
+            "ar_name": "سنن ابن ماجه",
+            "intro": "Sunan Ibn Majah është një përmbledhje hadithesh e kompiluar nga Imami Muhammad bin Yazid Ibn Majah al-Qazvini (rahimahullah). Ajo konsiderohet gjerësisht si e gjashta nga gjashtë përmbledhjet kanonike të hadithit (Kutub as-Sittah) të Sunetit të Profetit (ﷺ). Ajo përbëhet nga 4341 hadithe në 37 libra.",
+            "totalHadith": 4341
+        },
+        {
+            "slug": "malik",
+            "en_name": "Muwatta Malik",
+            "ar_name": "موطأ مالك",
+            "intro": "Al-Muwatta (që do të thotë fjalë për fjalë \"rruga e rrahur\" ose \"ajo që është bërë e lehtë\") e kompiluar nga Imami Malik ibn Anas në shekullin e 8-të, është një nga përmbledhjet më të hershme dhe më me autoritet të traditave dhe jurisprudencës islame. Ajo ndërthur në mënyrë unike hadithet profetike (marfu) me vendimet juridike, praktikat dhe thëniet e Sahabëve (mawquf) dhe Tabi'inëve (maqtu), duke theksuar fuqishëm traditat juridike dhe konsensusin e njerëzve të Medines.",
+            "totalHadith": 1973
+        },
+        {
+            "slug": "abudawud",
+            "en_name": "Sunan Abi Dawud",
+            "ar_name": "سنن أبي داود",
+            "intro": "Sunan Abi Dawud është një përmbledhje hadithesh e kompiluar nga Imami Abu Dawud Sulayman ibn al-Ash'ath as-Sijistani (rahimahullah). Ajo konsiderohet gjerësisht midis gjashtë përmbledhjeve kanonike të hadithit (Kutub as-Sittah) të Sunetit të Profetit (ﷺ). Ajo përbëhet nga 5274 hadithe në 43 libra. Letër nga Imami Abu Dawud drejtuar banorëve të Mekës duke shpjeguar librin e tij, termat që përdor dhe metodologjinë e tij.",
+            "totalHadith": 5276
+        }
+    ]
+}

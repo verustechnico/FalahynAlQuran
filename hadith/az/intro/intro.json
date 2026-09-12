@@ -1,0 +1,53 @@
+{
+    "books": [
+        {
+            "slug": "bukhari",
+            "en_name": "Sahih al-Bukhari",
+            "ar_name": "صحيح البخاري",
+            "intro": "Səhih əl-Buxari İmam Məhəmməd əl-Buxari (v. h.ə. 256 / m. 870) (rahimahullah) tərəfindən toplanmış hədislər külliyyatıdır. Onun kolleksiyası İslam dünyasının böyük əksəriyyəti tərəfindən Məhəmməd Peyğəmbərin (ﷺ) Sünnəsinə aid olan rəvayətlərin ən səhih toplusu kimi qəbul edilir. 97 kitabda 7500-dən çox hədisi (təkrarlarla) ehtiva edir. Buradakı tərcümə Dr. M. Muhsin Xana məxsusdur.",
+            "totalHadith": 7291
+        },
+        {
+            "slug": "muslim",
+            "en_name": "Sahih Muslim",
+            "ar_name": "صحيح مسلم",
+            "intro": "Səhih Müslüm İmam Müslüm ibn əl-Həccac ən-Neyşaburi (rahimahullah) tərəfindən toplanmış hədislər külliyyatıdır. Onun kolleksiyası Peyğəmbərin (ﷺ) Sünnəsinin ən səhih məcmuələrindən biri hesab olunur və Səhih əl-Buxari ilə birlikdə \"Səhiheyn\" və ya \"İki Səhih\"i təşkil edir. 57 kitabda təxminən 7500 hədisi (təkrarlarla) ehtiva edir. Buradakı tərcümə Əbdülhəmid Siddiqiyə məxsusdur.",
+            "totalHadith": 7470
+        },
+        {
+            "slug": "nasai",
+            "en_name": "Sunan an-Nasa'i",
+            "ar_name": "سنن النسائي",
+            "intro": "Sünən ən-Nəsai İmam Əhməd ən-Nəsai (rahimahullah) tərəfindən toplanmış hədislər külliyyatıdır. Onun kolleksiyası yekdilliklə Peyğəmbərin (ﷺ) Sünnəsinin altı əsas hədis toplusundan (Kütüb əs-Sittə) biri hesab olunur. 52 kitabda təxminən 5700 hədisi (təkrarlarla) ehtiva edir.",
+            "totalHadith": 5766
+        },
+        {
+            "slug": "tirmidhi",
+            "en_name": "Jami` at-Tirmidhi",
+            "ar_name": "جامع الترمذي",
+            "intro": "Cami ət-Tirmizi İmam Əbu İsa Məhəmməd ət-Tirmizi (rahimahullah) tərəfindən toplanmış hədislər külliyyatıdır. Onun kolleksiyası yekdilliklə Peyğəmbərin (ﷺ) Sünnəsinin altı əsas hədis toplusundan (Kütüb əs-Sittə) biri hesab olunur. 46 kitabda təxminən 4400 hədisi (təkrarlarla) ehtiva edir.",
+            "totalHadith": 3956
+        },
+        {
+            "slug": "ibnmajah",
+            "en_name": "Sunan Ibn Majah",
+            "ar_name": "سنن ابن ماجه",
+            "intro": "Sünən İbn Macə İmam Məhəmməd bin Yəzid İbn Macə əl-Qəzvini (rahimahullah) tərəfindən toplanmış hədislər külliyyatıdır. Bu, Peyğəmbərin (ﷺ) Sünnəsinin altı əsas hədis toplusunun (Kütüb əs-Sittə) altıncısı kimi geniş qəbul edilir. 37 kitabda 4341 hədisdən ibarətdir.",
+            "totalHadith": 4341
+        },
+        {
+            "slug": "malik",
+            "en_name": "Muwatta Malik",
+            "ar_name": "موطأ مالك",
+            "intro": "Əl-Muvatta (hərfi mənada \"tapdalanmış yol\" və ya \"asanlaşdırılmış şey\") VIII əsrdə İmam Malik ibn Ənəs tərəfindən toplanmış, İslam ənənələri və fiqhinin ən qədim və ən mötəbər məcmuələrindən biridir. O, Peyğəmbər hədislərini (mərfu) Səhabələrin (məvquf) və Tabiinlərin (məqtü) hüquqi qərarları, təcrübələri və kəlamları ilə unikal şəkildə birləşdirir, Mədinə əhlinin hüquqi ənənələrinə və icmasına böyük üstünlük verir.",
+            "totalHadith": 1973
+        },
+        {
+            "slug": "abudawud",
+            "en_name": "Sunan Abi Dawud",
+            "ar_name": "سنن أبي داود",
+            "intro": "Sünən Əbi Davud İmam Əbu Davud Süleyman ibn əl-Əşəs əs-Sicistani (rahimahullah) tərəfindən toplanmış hədislər külliyyatıdır. Bu, Peyğəmbərin (ﷺ) Sünnəsinin altı əsas hədis toplusu (Kütüb əs-Sittə) arasında geniş qəbul edilir. 43 kitabda 5274 hədisdən ibarətdir. İmam Əbu Davudun Məkkə əhlinə öz kitabını, istifadə etdiyi terminləri və metodologiyasını izah edən məktubu.",
+            "totalHadith": 5276
+        }
+    ]
+}

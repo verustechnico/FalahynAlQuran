@@ -1,0 +1,53 @@
+{
+    "books": [
+        {
+            "slug": "bukhari",
+            "en_name": "Sahih al-Bukhari",
+            "ar_name": "صحيح البخاري",
+            "intro": "Sahih al-Bukhari is een verzameling van hadiths samengesteld door Imam Muhammad al-Bukhari (d. 256 AH/870 n.Chr.) (rahimahullah). Zijn verzameling wordt door de overgrote meerderheid van de islamitische wereld erkend als de meest authentieke verzameling van overleveringen van de Soennah van de Profeet Muhammad (ﷺ). Het bevat meer dan 7500 hadiths (met herhalingen) verdeeld over 97 boeken. De hier aangeboden vertaling is van Dr. M. Muhsin Khan.",
+            "totalHadith": 7291
+        },
+        {
+            "slug": "muslim",
+            "en_name": "Sahih Muslim",
+            "ar_name": "صحيح مسلم",
+            "intro": "Sahih Muslim is een verzameling van hadiths samengesteld door Imam Muslim ibn al-Hajjaj al-Naysaburi (rahimahullah). Zijn verzameling wordt beschouwd als een van de meest authentieke verzamelingen van de Soennah van de Profeet (ﷺ), en vormt samen met Sahih al-Bukhari de \"Sahihain\", oftewel de \"Twee Sahihs\". Het bevat ongeveer 7500 hadiths (met herhalingen) verdeeld over 57 boeken. De hier aangeboden vertaling is van Abdul Hamid Siddiqui.",
+            "totalHadith": 7470
+        },
+        {
+            "slug": "nasai",
+            "en_name": "Sunan an-Nasa'i",
+            "ar_name": "سنن النسائي",
+            "intro": "Sunan an-Nasa'i is een verzameling van hadiths samengesteld door Imam Ahmad an-Nasa'i (rahimahullah). Zijn verzameling wordt unaniem beschouwd als een van de zes canonieke hadithverzamelingen (Kutub as-Sittah) van de Soennah van de Profeet (ﷺ). Het bevat ongeveer 5700 hadiths (met herhalingen) verdeeld over 52 boeken.",
+            "totalHadith": 5766
+        },
+        {
+            "slug": "tirmidhi",
+            "en_name": "Jami` at-Tirmidhi",
+            "ar_name": "جامع الترمذي",
+            "intro": "Jami` at-Tirmidhi is een verzameling van hadiths samengesteld door Imam Abu `Isa Muhammad at-Tirmidhi (rahimahullah). Zijn verzameling wordt unaniem beschouwd als een van de zes canonieke hadithverzamelingen (Kutub as-Sittah) van de Soennah van de Profeet (ﷺ). Het bevat ongeveer 4400 hadiths (met herhalingen) verdeeld over 46 boeken.",
+            "totalHadith": 3956
+        },
+        {
+            "slug": "ibnmajah",
+            "en_name": "Sunan Ibn Majah",
+            "ar_name": "سنن ابن ماجه",
+            "intro": "Sunan Ibn Majah is een verzameling van hadiths samengesteld door Imam Muhammad bin Yazid Ibn Majah al-Qazvini (rahimahullah). Het wordt op grote schaal beschouwd als de zesde van de zes canonieke hadithverzamelingen (Kutub as-Sittah) van de Soennah van de Profeet (ﷺ). Het bestaat uit 4341 ahadith verdeeld over 37 boeken.",
+            "totalHadith": 4341
+        },
+        {
+            "slug": "malik",
+            "en_name": "Muwatta Malik",
+            "ar_name": "موطأ مالك",
+            "intro": "Al-Muwatta (letterlijk betekenend \"het veelbetreden pad\" of \"dat wat gemakkelijk is gemaakt\"), samengesteld door Imam Malik ibn Anas in de 8e eeuw, is een van de vroegste en meest gezaghebbende bewaard gebleven verzamelingen van islamitische tradities en rechtspraak. Het combineert op unieke wijze profetische hadiths (marfu) met de juridische uitspraken, praktijken en uitspraken van de Metgezellen (mawquf) en Volgers (maqtu), met een sterke nadruk op de juridische tradities en consensus van de mensen van Medina.",
+            "totalHadith": 1973
+        },
+        {
+            "slug": "abudawud",
+            "en_name": "Sunan Abi Dawud",
+            "ar_name": "سنن أبي داود",
+            "intro": "Sunan Abi Dawud is een verzameling van hadiths samengesteld door Imam Abu Dawud Sulayman ibn al-Ash'ath as-Sijistani (rahimahullah). Het wordt op grote schaal beschouwd als een van de zes canonieke hadithverzamelingen (Kutub as-Sittah) van de Soennah van de Profeet (ﷺ). Het bestaat uit 5274 ahadith verdeeld over 43 boeken. Brief van Imam Abu Dawud aan de mensen van Mekka waarin hij zijn boek, de door hem gebruikte termen en zijn methodologie uitlegt.",
+            "totalHadith": 5276
+        }
+    ]
+}

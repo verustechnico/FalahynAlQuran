@@ -1,0 +1,53 @@
+{
+    "books": [
+        {
+            "slug": "bukhari",
+            "en_name": "Sahih al-Bukhari",
+            "ar_name": "صحيح البخاري",
+            "intro": "So Sahih al-Bukhari na katimpulan sa hadith a inimpun i Imam Muhammad al-Bukhari (wafat ko 256 AH/870 CE) (rahimahullah). So katimpulan iyan na ki-iktirapan ko kalilid a kaphapantagan o kapa-ar o mga Muslim a sakatatanan a paka-asal a kaganapan o Sunnah o Nabi Muhammad (ﷺ). Kakowa-an sa kapakasadya sa labaw sa 7500 a hadith (makambalambala) ko 97 a kitab. So ma-ana a inisogo sii na inisorat i Dr. M. Muhsin Khan.",
+            "totalHadith": 7291
+        },
+        {
+            "slug": "muslim",
+            "en_name": "Sahih Muslim",
+            "ar_name": "صحيح مسلم",
+            "intro": "So Sahih Muslim na katimpulan sa hadith a inimpun i Imam Muslim ibn al-Hajjaj al-Naysaburi (rahimahullah). So katimpulan iyan na miyabilang a isa ko pinaka-benar a katimpulan o Sunnah o Nabi (ﷺ), a pd o Sahih al-Bukhari a miyabaloy a \"Sahihain,\" antaa ka \"Dowa a Sahih.\" Kakowa-an sa pira a 7500 a hadith (makambalambala) ko 57 a kitab. So ma-ana a inisogo sii na inisorat i Abdul Hamid Siddiqui.",
+            "totalHadith": 7470
+        },
+        {
+            "slug": "nasai",
+            "en_name": "Sunan an-Nasa'i",
+            "ar_name": "سنن النسائي",
+            "intro": "So Sunan an-Nasa'i na katimpulan sa hadith a inimpun i Imam Ahmad an-Nasa'i (rahimahullah). So katimpulan iyan na miyapag-oyonay a miyabilang a isa ko nem a mga kitab a panarigan sa hadith (Kutub as-Sittah) ko Sunnah o Nabi (ﷺ). Kakowa-an sa pira a 5700 a hadith (makambalambala) ko 52 a kitab.",
+            "totalHadith": 5766
+        },
+        {
+            "slug": "tirmidhi",
+            "en_name": "Jami` at-Tirmidhi",
+            "ar_name": "جامع الترمذي",
+            "intro": "So Jami` at-Tirmidhi na katimpulan sa hadith a inimpun i Imam Abu `Isa Muhammad at-Tirmidhi (rahimahullah). So katimpulan iyan na miyapag-oyonay a miyabilang a isa ko nem a mga kitab a panarigan sa hadith (Kutub as-Sittah) ko Sunnah o Nabi (ﷺ). Kakowa-an sa pira a 4400 a hadith (makambalambala) ko 46 a kitab.",
+            "totalHadith": 3956
+        },
+        {
+            "slug": "ibnmajah",
+            "en_name": "Sunan Ibn Majah",
+            "ar_name": "سنن ابن ماجه",
+            "intro": "So Sunan Ibn Majah na katimpulan sa hadith a inimpun i Imam Muhammad bin Yazid Ibn Majah al-Qazvini (rahimahullah). Miyabaloy a ki-pakaradya-an a ika-nem ko nem a mga kitab a panarigan sa hadith (Kutub as-Sittah) ko Sunnah o Nabi (ﷺ). Kakowa-an sa 4341 a ahadith ko 37 a kitab.",
+            "totalHadith": 4341
+        },
+        {
+            "slug": "malik",
+            "en_name": "Muwatta Malik",
+            "ar_name": "موطأ مالك",
+            "intro": "So Al-Muwatta (a aya ma-ana iyan na \"lalan a inilay-lay\" antaa ka \"so inilmuk\") a inimpun i Imam Malik ibn Anas ko ika-8 a lagon, na isa ko miya-una-una a mabager a katimpulan sa mga paratabiya ago fiqh sa Islam. Piyanagombalay iyan so hadith o Nabi (marfu) a pd so mga kukuman, okat ago kasaro o mga Sahabah (mawquf) ago mga Tabi'in (maqtu), a inisobra iyan so kakhapipiya o adat a kokoman ago pag-oyonay o mga taw sa Madinah.",
+            "totalHadith": 1973
+        },
+        {
+            "slug": "abudawud",
+            "en_name": "Sunan Abi Dawud",
+            "ar_name": "سنن أبي داود",
+            "intro": "So Sunan Abi Dawud na katimpulan sa hadith a inimpun i Imam Abu Dawud Sulayman ibn al-Ash'ath as-Sijistani (rahimahullah). Miyabaloy a ki-pakaradya-an a pd ko nem a mga kitab a panarigan sa hadith (Kutub as-Sittah) ko Sunnah o Nabi (ﷺ). Kakowa-an sa 5274 a ahadith ko 43 a kitab. Pd iyan so surat i Imam Abu Dawud ko mga taw sa Makkah a inipag-eseng iyan so kitab iyan, mga lalag a iningaran iyan, ago so okat iyan.",
+            "totalHadith": 5276
+        }
+    ]
+}

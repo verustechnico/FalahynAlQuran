@@ -1,0 +1,53 @@
+{
+    "books": [
+        {
+            "slug": "bukhari",
+            "en_name": "Sahih al-Bukhari",
+            "ar_name": "صحيح البخاري",
+            "intro": "Sahiih al-Bukhaarii kuusaa hadiisaa Imaam Mahaammad al-Bukhaariin (d. 256 AH/870 CE) (rahimahullah) sassaabamedha. Kuusaan isaanii bal'ina addunyaa Musliimaatiin gabaasa Sunnaa Nabiyyi Mahaammad (ﷺ) keessaa kuusaa dhugaa (sahiih) isa caalu ta'uun fudhatama argateera. Boqonnaawwan 97 keessatti hadiisa 7500 ol (irra deebi'ama waliin) qabateera. Hiikni asitti dhiyaate Dr. M. Muhsin Khanitiin.",
+            "totalHadith": 7291
+        },
+        {
+            "slug": "muslim",
+            "en_name": "Sahih Muslim",
+            "ar_name": "صحيح مسلم",
+            "intro": "Sahiih Muslim kuusaa hadiisaa Imaam Muslim ibn al-Hajjaj al-Naysaburiin (rahimahullah) sassaabamedha. Kuusaan isaanii kuusaalee Sunnaa Nabiyyii (ﷺ) keessaa isa dhugaa ta'an keessaa tokko ta'uun ilaalama, akkasumas Sahiih al-Bukhaarii waliin \"Sahiihain,\" yookiin \"Sahiihota Lama\" uuma. Boqonnaawwan 57 keessatti hadiisa 7500 tilmaamaan (irra deebi'ama waliin) qabateera. Hiikni asitti dhiyaate Abdul Hamid Siddiquiin.",
+            "totalHadith": 7470
+        },
+        {
+            "slug": "nasai",
+            "en_name": "Sunan an-Nasa'i",
+            "ar_name": "سنن النسائي",
+            "intro": "Sunan an-Nasa'i kuusaa hadiisaa Imaam Ahmad an-Nasa'iin (rahimahullah) sassaabamedha. Kuusaan isaanii waliigaltee guutuudhaan kuusaalee hadiisaa gurguddoo jaha (Kutub as-Sittah) Sunnaa Nabiyyii (ﷺ) keessaa tokko ta'uun ilaalama. Boqonnaawwan 52 keessatti hadiisa 5700 tilmaamaan (irra deebi'ama waliin) qabateera.",
+            "totalHadith": 5766
+        },
+        {
+            "slug": "tirmidhi",
+            "en_name": "Jami` at-Tirmidhi",
+            "ar_name": "جامع الترمذي",
+            "intro": "Jami` at-Tirmidhi kuusaa hadiisaa Imaam Abu `Isa Muhammad at-Tirmidhiin (rahimahullah) sassaabamedha. Kuusaan isaanii waliigaltee guutuudhaan kuusaalee hadiisaa gurguddoo jaha (Kutub as-Sittah) Sunnaa Nabiyyii (ﷺ) keessaa tokko ta'uun ilaalama. Boqonnaawwan 46 keessatti hadiisa 4400 tilmaamaan (irra deebi'ama waliin) qabateera.",
+            "totalHadith": 3956
+        },
+        {
+            "slug": "ibnmajah",
+            "en_name": "Sunan Ibn Majah",
+            "ar_name": "سنن ابن ماجه",
+            "intro": "Sunan Ibn Majah kuusaa hadiisaa Imaam Muhammad bin Yazid Ibn Majah al-Qazviniin (rahimahullah) sassaabamedha. Bal'inaan kuusaalee hadiisaa gurguddoo jaha (Kutub as-Sittah) Sunnaa Nabiyyii (ﷺ) keessaa isa jahaffaa ta'uun ilaalama. Boqonnaawwan 37 keessatti ahadiisa 4341 qabateera.",
+            "totalHadith": 4341
+        },
+        {
+            "slug": "malik",
+            "en_name": "Muwatta Malik",
+            "ar_name": "موطأ مالك",
+            "intro": "Al-Muwatta (hiikni isaa kallattiin \"daandii tottolche\" yookiin \"isa laaffifame\") karnii 8ffaa keessa Imaam Maalik ibn Anasiin sassaabame, kuusaalee seenaa fi fiqhii Islaamaa keessaa isa ganamaa fi abbaa taayitaa guddaa qabaniis keessaa tokkodha. Hadiisa nabiyyii (marfu) murtiiwwan seeraa, gochaawwan fi jechoota Sahaabotaa (mawquf) fi Tabi'iinaa (maqtu) waliin addatti walitti makuudhaan, aadaa seeraa fi waliigaltee uummata Madiinaa irratti jabeessee xiyyeeffata.",
+            "totalHadith": 1973
+        },
+        {
+            "slug": "abudawud",
+            "en_name": "Sunan Abi Dawud",
+            "ar_name": "سنن أبي داود",
+            "intro": "Sunan Abi Dawud kuusaa hadiisaa Imaam Abu Dawud Sulayman ibn al-Ash'ath as-Sijistaniin (rahimahullah) sassaabamedha. Bal'inaan kuusaalee hadiisaa gurguddoo jaha (Kutub as-Sittah) Sunnaa Nabiyyii (ﷺ) keessaa tokko ta'uun ilaalama. Boqonnaawwan 43 keessatti ahadiisa 5274 qabateera. Xalayaan Imaam Abu Dawud uummata Makkaaf barreessan kan kitaaba isaanii, jechoota fayyadaman fi meethodolojii isaanii ibsuus keessatti argama.",
+            "totalHadith": 5276
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "books": [
+        {
+            "slug": "bukhari",
+            "en_name": "Sahih al-Bukhari",
+            "ar_name": "صحيح البخاري",
+            "intro": "Sahih al-Bukhari es una colección de hadices compilada por el Imam Muhammad al-Bukhari (m. 256 AH/870 d.C.) (rahimahullah). Su colección es reconocida por la gran mayoría del mundo musulmán como la colección más auténtica de relatos de la Sunnah del Profeta Muhammad (ﷺ). Contiene más de 7500 hadices (con repeticiones) en 97 libros. La traducción proporcionada aquí es del Dr. M. Muhsin Khan.",
+            "totalHadith": 7291
+        },
+        {
+            "slug": "muslim",
+            "en_name": "Sahih Muslim",
+            "ar_name": "صحيح مسلم",
+            "intro": "Sahih Muslim es una colección de hadices compilada por el Imam Muslim ibn al-Hajjaj al-Naysaburi (rahimahullah). Su colección es considerada una de las colecciones más auténticas de la Sunnah del Profeta (ﷺ) y, junto con Sahih al-Bukhari, forma el \"Sahihain\" o los \"Dos Sahihs\". Contiene aproximadamente 7500 hadices (con repeticiones) en 57 libros. La traducción proporcionada aquí es de Abdul Hamid Siddiqui.",
+            "totalHadith": 7470
+        },
+        {
+            "slug": "nasai",
+            "en_name": "Sunan an-Nasa'i",
+            "ar_name": "سنن النسائي",
+            "intro": "Sunan an-Nasa'i es una colección de hadices compilada por el Imam Ahmad an-Nasa'i (rahimahullah). Su colección es unánimemente considerada una de las seis colecciones canónicas de hadices (Kutub as-Sittah) de la Sunnah del Profeta (ﷺ). Contiene aproximadamente 5700 hadices (con repeticiones) en 52 libros.",
+            "totalHadith": 5766
+        },
+        {
+            "slug": "tirmidhi",
+            "en_name": "Jami` at-Tirmidhi",
+            "ar_name": "جامع الترمذي",
+            "intro": "Jami` at-Tirmidhi es una colección de hadices compilada por el Imam Abu `Isa Muhammad at-Tirmidhi (rahimahullah). Su colección es unánimemente considerada una de las seis colecciones canónicas de hadices (Kutub as-Sittah) de la Sunnah del Profeta (ﷺ). Contiene aproximadamente 4400 hadices (con repeticiones) en 46 libros.",
+            "totalHadith": 3956
+        },
+        {
+            "slug": "ibnmajah",
+            "en_name": "Sunan Ibn Majah",
+            "ar_name": "سنن ابن ماجه",
+            "intro": "Sunan Ibn Majah es una colección de hadices compilada por el Imam Muhammad bin Yazid Ibn Majah al-Qazvini (rahimahullah). Es ampliamente considerada como la sexta de las seis colecciones canónicas de hadices (Kutub as-Sittah) de la Sunnah del Profeta (ﷺ). Consta de 4341 hadices en 37 libros.",
+            "totalHadith": 4341
+        },
+        {
+            "slug": "malik",
+            "en_name": "Muwatta Malik",
+            "ar_name": "موطأ مالك",
+            "intro": "Al-Muwatta (que significa literalmente \"el camino trillado\" o \"aquello que se ha facilitado\"), compilado por el Imam Malik ibn Anas en el siglo VIII, es una de las colecciones existentes más antiguas y de mayor autoridad sobre las tradiciones e jurisprudencia islámicas. Combina de manera única hadices proféticos (marfu) con los dictámenes legales, prácticas y dichos de los Compañeros (mawquf) y Sucesores (maqtu), enfatizando fuertemente las tradiciones legales y el consenso del pueblo de Medina.",
+            "totalHadith": 1973
+        },
+        {
+            "slug": "abudawud",
+            "en_name": "Sunan Abi Dawud",
+            "ar_name": "سنن أبي داود",
+            "intro": "Sunan Abi Dawud es una colección de hadices compilada por el Imam Abu Dawud Sulayman ibn al-Ash'ath as-Sijistani (rahimahullah). Es ampliamente considerada entre las seis colecciones canónicas de hadices (Kutub as-Sittah) de la Sunnah del Profeta (ﷺ). Consta de 5274 hadices en 43 libros. Incluye la carta del Imam Abu Dawud a la gente de La Meca explicando su libro, los términos que utiliza y su metodología.",
+            "totalHadith": 5276
+        }
+    ]
+}

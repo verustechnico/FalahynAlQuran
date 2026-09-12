@@ -1,0 +1,53 @@
+{
+    "books": [
+        {
+            "slug": "bukhari",
+            "en_name": "Sahih al-Bukhari",
+            "ar_name": "صحيح البخاري",
+            "intro": "Sahih al-Bukhari est une collection de hadiths compilée par l'Imam Muhammad al-Bukhari (m. 256 AH/870 ap. J.-C.) (rahimahullah). Sa collection est reconnue par l'écrasante majorité du monde musulman comme étant la collection la plus authentique des récits de la Sunnah du Prophète Muhammad (ﷺ). Elle contient plus de 7500 hadiths (avec répétitions) répartis en 97 livres. La traduction fournie ici est celle du Dr. M. Muhsin Khan.",
+            "totalHadith": 7291
+        },
+        {
+            "slug": "muslim",
+            "en_name": "Sahih Muslim",
+            "ar_name": "صحيح مسلم",
+            "intro": "Sahih Muslim est une collection de hadiths compilée par l'Imam Muslim ibn al-Hajjaj al-Naysaburi (rahimahullah). Sa collection est considérée comme l'une des collections les plus authentiques de la Sunnah du Prophète (ﷺ), et forme avec le Sahih al-Bukhari le \"Sahihain\", ou les \"Deux Sahihs\". Elle contient environ 7500 hadiths (avec répétitions) répartis en 57 livres. La traduction fournie ici est celle d'Abdul Hamid Siddiqui.",
+            "totalHadith": 7470
+        },
+        {
+            "slug": "nasai",
+            "en_name": "Sunan an-Nasa'i",
+            "ar_name": "سنن النسائي",
+            "intro": "Sunan an-Nasa'i est une collection de hadiths compilée par l'Imam Ahmad an-Nasa'i (rahimahullah). Sa collection est unanimement considérée comme l'une des six collections canoniques de hadiths (Kutub as-Sittah) de la Sunnah du Prophète (ﷺ). Elle contient environ 5700 hadiths (avec répétitions) répartis en 52 livres.",
+            "totalHadith": 5766
+        },
+        {
+            "slug": "tirmidhi",
+            "en_name": "Jami` at-Tirmidhi",
+            "ar_name": "جامع الترمذي",
+            "intro": "Jami` at-Tirmidhi est une collection de hadiths compilée par l'Imam Abu `Isa Muhammad at-Tirmidhi (rahimahullah). Sa collection est unanimement considérée comme l'une des six collections canoniques de hadiths (Kutub as-Sittah) de la Sunnah du Prophète (ﷺ). Elle contient environ 4400 hadiths (avec répétitions) répartis en 46 livres.",
+            "totalHadith": 3956
+        },
+        {
+            "slug": "ibnmajah",
+            "en_name": "Sunan Ibn Majah",
+            "ar_name": "سنن ابن ماجه",
+            "intro": "Sunan Ibn Majah est une collection de hadiths compilée par l'Imam Muhammad bin Yazid Ibn Majah al-Qazvini (rahimahullah). Il est largement considéré comme la sixième des six collections canoniques de hadiths (Kutub as-Sittah) de la Sunnah du Prophète (ﷺ). Il se compose de 4341 ahadith répartis en 37 livres.",
+            "totalHadith": 4341
+        },
+        {
+            "slug": "malik",
+            "en_name": "Muwatta Malik",
+            "ar_name": "موطأ مالك",
+            "intro": "Al-Muwatta (signifiant littéralement \"la voie bien battue\" ou \"ce qui est rendu facile\"), compilé par l'Imam Malik ibn Anas au VIIIe siècle, est l'une des collections existantes les plus anciennes et les plus autorisées de traditions et de jurisprudence islamiques. Il combine de manière unique les hadiths prophétiques (marfu) avec les jugements juridiques, les pratiques et les paroles des Compagnons (mawquf) et des Successeurs (maqtu), en mettant fortement l'accent sur les traditions juridiques et le consensus des gens de Médine.",
+            "totalHadith": 1973
+        },
+        {
+            "slug": "abudawud",
+            "en_name": "Sunan Abi Dawud",
+            "ar_name": "سنن أبي داود",
+            "intro": "Sunan Abi Dawud est une collection de hadiths compilée par l'Imam Abu Dawud Sulayman ibn al-Ash'ath as-Sijistani (rahimahullah). Il est largement considéré comme faisant partie des six collections canoniques de hadiths (Kutub as-Sittah) de la Sunnah du Prophète (ﷺ). Il se compose de 5274 ahadith répartis en 43 livres. Lettre de l'Imam Abu Dawud aux habitants de La Mecque expliquant son livre, les termes qu'il utilise et sa méthodologie.",
+            "totalHadith": 5276
+        }
+    ]
+}
