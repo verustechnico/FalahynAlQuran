@@ -1,0 +1,345 @@
+[
+  {
+    "id": 1,
+    "name": "کتاب الطہارت (پاکیزگی کا بیان)",
+    "startingHadithNo": 1,
+    "endingHadithNo": 148,
+    "totalHadith": 148
+  },
+  {
+    "id": 2,
+    "name": "کتاب الصلوۃ (نماز کا بیان)",
+    "startingHadithNo": 149,
+    "endingHadithNo": 451,
+    "totalHadith": 303
+  },
+  {
+    "id": 3,
+    "name": "کتاب الوتر (وتر کے احکام و مسائل)",
+    "startingHadithNo": 452,
+    "endingHadithNo": 487,
+    "totalHadith": 36
+  },
+  {
+    "id": 4,
+    "name": "کتاب الجمعة (نماز جمعہ کا بیان)",
+    "startingHadithNo": 488,
+    "endingHadithNo": 529,
+    "totalHadith": 42
+  },
+  {
+    "id": 5,
+    "name": "کتاب العيدين (عیدین کی نماز کا بیان)",
+    "startingHadithNo": 530,
+    "endingHadithNo": 543,
+    "totalHadith": 14
+  },
+  {
+    "id": 6,
+    "name": "کتاب السفر (سفر کے احکام و مسائل)",
+    "startingHadithNo": 544,
+    "endingHadithNo": 616,
+    "totalHadith": 73
+  },
+  {
+    "id": 7,
+    "name": "کتاب الزكاة (زکوۃ کے احکام)",
+    "startingHadithNo": 617,
+    "endingHadithNo": 681,
+    "totalHadith": 65
+  },
+  {
+    "id": 8,
+    "name": "کتاب الصوم (روزے کا بیان)",
+    "startingHadithNo": 682,
+    "endingHadithNo": 808,
+    "totalHadith": 127
+  },
+  {
+    "id": 9,
+    "name": "کتاب الحج (حج کے مناسک و احکام)",
+    "startingHadithNo": 809,
+    "endingHadithNo": 964,
+    "totalHadith": 156
+  },
+  {
+    "id": 10,
+    "name": "کتاب الجنائز (جنازے کے احکام)",
+    "startingHadithNo": 965,
+    "endingHadithNo": 1079,
+    "totalHadith": 115
+  },
+  {
+    "id": 11,
+    "name": "کتاب النكاح (نکاح کے احکام)",
+    "startingHadithNo": 1080,
+    "endingHadithNo": 1145,
+    "totalHadith": 66
+  },
+  {
+    "id": 12,
+    "name": "کتاب الرضاع (رضاعت / دودھ پلانے کے احکام)",
+    "startingHadithNo": 1146,
+    "endingHadithNo": 1174,
+    "totalHadith": 29
+  },
+  {
+    "id": 13,
+    "name": "کتاب الطلاق واللعان (طلاق اور لعان کا بیان)",
+    "startingHadithNo": 1175,
+    "endingHadithNo": 1204,
+    "totalHadith": 30
+  },
+  {
+    "id": 14,
+    "name": "کتاب البيوع (خرید و فروخت کے معاملات)",
+    "startingHadithNo": 1205,
+    "endingHadithNo": 1321,
+    "totalHadith": 117
+  },
+  {
+    "id": 15,
+    "name": "أبواب الأحكام (رسول اللہ ﷺ کے عدالتی فیصلے)",
+    "startingHadithNo": 1322,
+    "endingHadithNo": 1385,
+    "totalHadith": 64
+  },
+  {
+    "id": 16,
+    "name": "کتاب الديات (دیت کے احکام)",
+    "startingHadithNo": 1386,
+    "endingHadithNo": 1422,
+    "totalHadith": 37
+  },
+  {
+    "id": 17,
+    "name": "کتاب الحدود (شرعی حدوں کا بیان)",
+    "startingHadithNo": 1423,
+    "endingHadithNo": 1463,
+    "totalHadith": 41
+  },
+  {
+    "id": 18,
+    "name": "کتاب الصيد (شکار کے احکام)",
+    "startingHadithNo": 1464,
+    "endingHadithNo": 1492,
+    "totalHadith": 29
+  },
+  {
+    "id": 19,
+    "name": "کتاب الأضاحي (قربانی کا بیان)",
+    "startingHadithNo": 1493,
+    "endingHadithNo": 1523,
+    "totalHadith": 31
+  },
+  {
+    "id": 20,
+    "name": "کتاب النذور والأيمان (نذر اور قسموں کا بیان)",
+    "startingHadithNo": 1524,
+    "endingHadithNo": 1547,
+    "totalHadith": 24
+  },
+  {
+    "id": 21,
+    "name": "کتاب السير (غزوات اور جنگی قائدانہ احکام)",
+    "startingHadithNo": 1548,
+    "endingHadithNo": 1618,
+    "totalHadith": 71
+  },
+  {
+    "id": 22,
+    "name": "کتاب فضائل الجهاد (جہاد کی فضیلت کا بیان)",
+    "startingHadithNo": 1619,
+    "endingHadithNo": 1669,
+    "totalHadith": 51
+  },
+  {
+    "id": 23,
+    "name": "کتاب الجهاد (جہاد کے احکام و مسائل)",
+    "startingHadithNo": 1670,
+    "endingHadithNo": 1719,
+    "totalHadith": 50
+  },
+  {
+    "id": 24,
+    "name": "کتاب اللباس (لباس کے احکام)",
+    "startingHadithNo": 1720,
+    "endingHadithNo": 1787,
+    "totalHadith": 68
+  },
+  {
+    "id": 25,
+    "name": "کتاب الأطعمة (کھانے کے آداب و احکام)",
+    "startingHadithNo": 1788,
+    "endingHadithNo": 1860,
+    "totalHadith": 73
+  },
+  {
+    "id": 26,
+    "name": "کتاب الأشربة (مشروبات کے احکام)",
+    "startingHadithNo": 1861,
+    "endingHadithNo": 1896,
+    "totalHadith": 36
+  },
+  {
+    "id": 27,
+    "name": "أبواب البر والصلة (حسنِ سلوک اور صلہ رحمی)",
+    "startingHadithNo": 1897,
+    "endingHadithNo": 2035,
+    "totalHadith": 139
+  },
+  {
+    "id": 28,
+    "name": "أبواب الطب (طبی علاج و معالجے کے بیان)",
+    "startingHadithNo": 2036,
+    "endingHadithNo": 2089,
+    "totalHadith": 54
+  },
+  {
+    "id": 29,
+    "name": "أبواب الفرائض (وراثت کے احکام)",
+    "startingHadithNo": 2090,
+    "endingHadithNo": 2115,
+    "totalHadith": 26
+  },
+  {
+    "id": 30,
+    "name": "أبواب الوصايا (وصیت کے مسائل)",
+    "startingHadithNo": 2116,
+    "endingHadithNo": 2124,
+    "totalHadith": 9
+  },
+  {
+    "id": 31,
+    "name": "أبواب الولاء والهبة (ولاء اور تحفہ دینے کا بیان)",
+    "startingHadithNo": 2125,
+    "endingHadithNo": 2132,
+    "totalHadith": 8
+  },
+  {
+    "id": 32,
+    "name": "أبواب القدر (تقدیر کا بیان)",
+    "startingHadithNo": 2133,
+    "endingHadithNo": 2298,
+    "totalHadith": 166
+  },
+  {
+    "id": 33,
+    "name": "أبواب الفتن (فتنوں کا بیان)",
+    "startingHadithNo": 2158,
+    "endingHadithNo": 2269,
+    "totalHadith": 112
+  },
+  {
+    "id": 34,
+    "name": "أبواب الرؤيا (خوابوں کی تعبیر کا بیان)",
+    "startingHadithNo": 2270,
+    "endingHadithNo": 2294,
+    "totalHadith": 25
+  },
+  {
+    "id": 35,
+    "name": "أبواب الشهادات (گواہیوں کا بیان)",
+    "startingHadithNo": 2295,
+    "endingHadithNo": 2303,
+    "totalHadith": 9
+  },
+  {
+    "id": 36,
+    "name": "أبواب الزهد (زہد و تقویٰ کا بیان)",
+    "startingHadithNo": 2304,
+    "endingHadithNo": 2414,
+    "totalHadith": 111
+  },
+  {
+    "id": 37,
+    "name": "أبواب صفة القيامة والرقائق والورع (قیامت کی صفت، دل کو نرم کرنے والی باتیں اور پرہیزگاری)",
+    "startingHadithNo": 2415,
+    "endingHadithNo": 2522,
+    "totalHadith": 108
+  },
+  {
+    "id": 38,
+    "name": "أبواب صفة الجنة (جنت کی صفت کا بیان)",
+    "startingHadithNo": 2523,
+    "endingHadithNo": 2735,
+    "totalHadith": 213
+  },
+  {
+    "id": 39,
+    "name": "کتاب صفة جهنم (جہنم کی صفت کا بیان)",
+    "startingHadithNo": 2573,
+    "endingHadithNo": 2795,
+    "totalHadith": 223
+  },
+  {
+    "id": 40,
+    "name": "کتاب الإيمان (ایمان کا بیان)",
+    "startingHadithNo": 2606,
+    "endingHadithNo": 2644,
+    "totalHadith": 39
+  },
+  {
+    "id": 41,
+    "name": "أبواب العلم (علم کی فضیلت و مسائل)",
+    "startingHadithNo": 2645,
+    "endingHadithNo": 2687,
+    "totalHadith": 43
+  },
+  {
+    "id": 42,
+    "name": "أبواب الاستئذان (اجازت لینے کے آداب)",
+    "startingHadithNo": 2688,
+    "endingHadithNo": 2734,
+    "totalHadith": 47
+  },
+  {
+    "id": 43,
+    "name": "أبواب الأدب (آداب و اخلاق کا بیان)",
+    "startingHadithNo": 2736,
+    "endingHadithNo": 2858,
+    "totalHadith": 123
+  },
+  {
+    "id": 44,
+    "name": "أبواب الأمثال (مثالوں کا بیان)",
+    "startingHadithNo": 2859,
+    "endingHadithNo": 2874,
+    "totalHadith": 16
+  },
+  {
+    "id": 45,
+    "name": "أبواب فضائل القرآن (قرآن مجید کے فضائل)",
+    "startingHadithNo": 2875,
+    "endingHadithNo": 2926,
+    "totalHadith": 52
+  },
+  {
+    "id": 46,
+    "name": "أبواب القراءات (قرأتوں کا بیان)",
+    "startingHadithNo": 2927,
+    "endingHadithNo": 2949,
+    "totalHadith": 23
+  },
+  {
+    "id": 47,
+    "name": "أبواب التفسير (تفسیر قرآن کا بیان)",
+    "startingHadithNo": 2950,
+    "endingHadithNo": 3723,
+    "totalHadith": 774
+  },
+  {
+    "id": 48,
+    "name": "أبواب الدعوات (دعاؤں کا بیان)",
+    "startingHadithNo": 3370,
+    "endingHadithNo": 3604.1,
+    "totalHadith": 235
+  },
+  {
+    "id": 49,
+    "name": "أبواب المناقب (مناقب و فضائل کا بیان)",
+    "startingHadithNo": 3605,
+    "endingHadithNo": 3956,
+    "totalHadith": 352
+  }
+]
