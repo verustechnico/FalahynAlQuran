@@ -1,0 +1,303 @@
+[
+  {
+    "id": 1,
+    "name": "Temizlik (Kitabü't-Taharet)",
+    "startingHadithNo": 1,
+    "endingHadithNo": 390,
+    "totalHadith": 390
+  },
+  {
+    "id": 2,
+    "name": "Namaz (Kitabü's-Salat)",
+    "startingHadithNo": 391,
+    "endingHadithNo": 1160,
+    "totalHadith": 770
+  },
+  {
+    "id": 3,
+    "name": "Yağmur Duası Kitabı (Kitabü'l-Istiska')",
+    "startingHadithNo": 1161,
+    "endingHadithNo": 1197,
+    "totalHadith": 37
+  },
+  {
+    "id": 4,
+    "name": "Namaz (Kitabü's-Salat): Seferîlikte Namazın Ayrıntılı Hükümleri",
+    "startingHadithNo": 1198,
+    "endingHadithNo": 1249,
+    "totalHadith": 52
+  },
+  {
+    "id": 5,
+    "name": "Namaz (Kitabü's-Salat): Nafile Namazlar",
+    "startingHadithNo": 1250,
+    "endingHadithNo": 1370,
+    "totalHadith": 121
+  },
+  {
+    "id": 6,
+    "name": "Namaz (Kitabü's-Salat): Ramazan ile İlgili Ayrıntılı Hükümler",
+    "startingHadithNo": 1371,
+    "endingHadithNo": 1400,
+    "totalHadith": 30
+  },
+  {
+    "id": 7,
+    "name": "Namaz (Kitabü's-Salat): Kur'an Okurken Secde Etmek",
+    "startingHadithNo": 1401,
+    "endingHadithNo": 1415,
+    "totalHadith": 15
+  },
+  {
+    "id": 8,
+    "name": "Namaz (Kitabü's-Salat): Vitir Namazı ile İlgili Ayrıntılı Hükümler",
+    "startingHadithNo": 1416,
+    "endingHadithNo": 1555,
+    "totalHadith": 140
+  },
+  {
+    "id": 9,
+    "name": "Zekat (Kitabü'z-Zekat)",
+    "startingHadithNo": 1556,
+    "endingHadithNo": 1700,
+    "totalHadith": 145
+  },
+  {
+    "id": 10,
+    "name": "Buluntu Eşyalar Kitabı",
+    "startingHadithNo": 1701,
+    "endingHadithNo": 1720,
+    "totalHadith": 20
+  },
+  {
+    "id": 11,
+    "name": "Hac Menasiki (Kitabü'l-Menasik ve'l-Hacc)",
+    "startingHadithNo": 1721,
+    "endingHadithNo": 2045,
+    "totalHadith": 325
+  },
+  {
+    "id": 12,
+    "name": "Nikah (Kitabü'l-Nikah)",
+    "startingHadithNo": 2046,
+    "endingHadithNo": 2174,
+    "totalHadith": 129
+  },
+  {
+    "id": 13,
+    "name": "Boşanma / Talak (Kitabü'l-Talak)",
+    "startingHadithNo": 2175,
+    "endingHadithNo": 2312,
+    "totalHadith": 138
+  },
+  {
+    "id": 14,
+    "name": "Oruç (Kitabü's-Siyam)",
+    "startingHadithNo": 2313,
+    "endingHadithNo": 2476,
+    "totalHadith": 164
+  },
+  {
+    "id": 15,
+    "name": "Cihat (Kitabü'l-Cihat)",
+    "startingHadithNo": 2477,
+    "endingHadithNo": 2787,
+    "totalHadith": 311
+  },
+  {
+    "id": 16,
+    "name": "Kurban (Kitabü'l-Edahi)",
+    "startingHadithNo": 2788,
+    "endingHadithNo": 2843,
+    "totalHadith": 56
+  },
+  {
+    "id": 17,
+    "name": "Avcılık (Kitabü's-Sayd)",
+    "startingHadithNo": 2844,
+    "endingHadithNo": 2861,
+    "totalHadith": 18
+  },
+  {
+    "id": 18,
+    "name": "Vasiyetler (Kitabü'l-Vasaya)",
+    "startingHadithNo": 2862,
+    "endingHadithNo": 2884,
+    "totalHadith": 23
+  },
+  {
+    "id": 19,
+    "name": "Miras Payları (Kitabü'l-Faraid)",
+    "startingHadithNo": 2885,
+    "endingHadithNo": 2927,
+    "totalHadith": 43
+  },
+  {
+    "id": 20,
+    "name": "Haraç, Ganimetler ve Devlet Yönetimi (Kitabü'l-Harac, vel-Fey', vel-İmarat)",
+    "startingHadithNo": 2928,
+    "endingHadithNo": 3088,
+    "totalHadith": 161
+  },
+  {
+    "id": 21,
+    "name": "Cenazeler (Kitabü'l-Cenaiz)",
+    "startingHadithNo": 3089,
+    "endingHadithNo": 3241,
+    "totalHadith": 153
+  },
+  {
+    "id": 22,
+    "name": "Yeminler ve Adaklar (Kitabü'l-Eyman ve'n-Nüzur)",
+    "startingHadithNo": 3242,
+    "endingHadithNo": 3325,
+    "totalHadith": 84
+  },
+  {
+    "id": 23,
+    "name": "Ticari İşlemler (Kitabü'l-Buyu')",
+    "startingHadithNo": 3326,
+    "endingHadithNo": 3415,
+    "totalHadith": 90
+  },
+  {
+    "id": 24,
+    "name": "Ücretler ve Kiralama (Kitabü'l-İcare)",
+    "startingHadithNo": 3416,
+    "endingHadithNo": 3570,
+    "totalHadith": 155
+  },
+  {
+    "id": 25,
+    "name": "Yargı Makamı / Kadılık (Kitabü'l-Akdiye)",
+    "startingHadithNo": 3571,
+    "endingHadithNo": 3640,
+    "totalHadith": 70
+  },
+  {
+    "id": 26,
+    "name": "İlim (Kitabü'l-İlim)",
+    "startingHadithNo": 3641,
+    "endingHadithNo": 3668,
+    "totalHadith": 28
+  },
+  {
+    "id": 27,
+    "name": "İçecekler (Kitabü'l-Eşribe)",
+    "startingHadithNo": 3669,
+    "endingHadithNo": 3735,
+    "totalHadith": 67
+  },
+  {
+    "id": 28,
+    "name": "Yiyecekler (Kitabü'l-Et'ime)",
+    "startingHadithNo": 3736,
+    "endingHadithNo": 3854,
+    "totalHadith": 119
+  },
+  {
+    "id": 29,
+    "name": "Tıp ve Sağlık (Kitabü'l-Tıbb)",
+    "startingHadithNo": 3855,
+    "endingHadithNo": 3903,
+    "totalHadith": 49
+  },
+  {
+    "id": 30,
+    "name": "Kehanet ve Uğursuzluk Sayma (Kitabü'l-Kihane ve't-Tatayyür)",
+    "startingHadithNo": 3904,
+    "endingHadithNo": 3925,
+    "totalHadith": 22
+  },
+  {
+    "id": 31,
+    "name": "Köleleri Azad Etme Kitabı",
+    "startingHadithNo": 3926,
+    "endingHadithNo": 3968,
+    "totalHadith": 43
+  },
+  {
+    "id": 32,
+    "name": "Kur'an'ın Lehçeleri ve Kıraatleri (Kitabü'l-Huruf ve'l-Kira'at)",
+    "startingHadithNo": 3969,
+    "endingHadithNo": 4008,
+    "totalHadith": 40
+  },
+  {
+    "id": 33,
+    "name": "Hamamlar (Kitabü'l-Hammam)",
+    "startingHadithNo": 4009,
+    "endingHadithNo": 4019,
+    "totalHadith": 11
+  },
+  {
+    "id": 34,
+    "name": "Giyim Kuşam (Kitabü'l-Libas)",
+    "startingHadithNo": 4020,
+    "endingHadithNo": 4158,
+    "totalHadith": 139
+  },
+  {
+    "id": 35,
+    "name": "Saç Taramak ve Bakım (Kitabü't-Taraccül)",
+    "startingHadithNo": 4159,
+    "endingHadithNo": 4213,
+    "totalHadith": 55
+  },
+  {
+    "id": 36,
+    "name": "Mühür Yüzükleri (Kitabü'l-Hatem)",
+    "startingHadithNo": 4214,
+    "endingHadithNo": 4239,
+    "totalHadith": 26
+  },
+  {
+    "id": 37,
+    "name": "Fitneler ve Büyük Savaşlar (Kitabü'l-Fiten ve'l-Melahim)",
+    "startingHadithNo": 4240,
+    "endingHadithNo": 4278,
+    "totalHadith": 39
+  },
+  {
+    "id": 38,
+    "name": "Vaat Edilen Kurtarıcı / Mehdi (Kitabü'l-Mehdi)",
+    "startingHadithNo": 4279,
+    "endingHadithNo": 4290,
+    "totalHadith": 12
+  },
+  {
+    "id": 39,
+    "name": "Savaşlar (Kitabü'l-Melahim)",
+    "startingHadithNo": 4291,
+    "endingHadithNo": 4350,
+    "totalHadith": 60
+  },
+  {
+    "id": 40,
+    "name": "Had Cezaları (Kitabü'l-Hudud)",
+    "startingHadithNo": 4351,
+    "endingHadithNo": 4493,
+    "totalHadith": 143
+  },
+  {
+    "id": 41,
+    "name": "Diyet / Kan Bedeli Çeşitleri (Kitabü'l-Diyat)",
+    "startingHadithNo": 4494,
+    "endingHadithNo": 4595,
+    "totalHadith": 102
+  },
+  {
+    "id": 42,
+    "name": "Peygamber'in Sünneti ve Örnek Davranışları (Kitabü'l-Sünnah)",
+    "startingHadithNo": 4596,
+    "endingHadithNo": 4772,
+    "totalHadith": 177
+  },
+  {
+    "id": 43,
+    "name": "Genel Ahlak ve Adab (Kitabü'l-Adab)",
+    "startingHadithNo": 4773,
+    "endingHadithNo": 5274,
+    "totalHadith": 502
+  }
+]

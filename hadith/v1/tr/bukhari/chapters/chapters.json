@@ -1,0 +1,681 @@
+[
+  {
+    "id": 1,
+    "name": "Vahiy",
+    "startingHadithNo": 1,
+    "endingHadithNo": 7,
+    "totalHadith": 7
+  },
+  {
+    "id": 2,
+    "name": "İman",
+    "startingHadithNo": 8,
+    "endingHadithNo": 58,
+    "totalHadith": 51
+  },
+  {
+    "id": 3,
+    "name": "İlim",
+    "startingHadithNo": 59,
+    "endingHadithNo": 134,
+    "totalHadith": 76
+  },
+  {
+    "id": 4,
+    "name": "Abdest",
+    "startingHadithNo": 135,
+    "endingHadithNo": 247,
+    "totalHadith": 113
+  },
+  {
+    "id": 5,
+    "name": "Gusül (Boy Abdesti)",
+    "startingHadithNo": 248,
+    "endingHadithNo": 293,
+    "totalHadith": 46
+  },
+  {
+    "id": 6,
+    "name": "Hayız (Adet Halleri)",
+    "startingHadithNo": 294,
+    "endingHadithNo": 333,
+    "totalHadith": 40
+  },
+  {
+    "id": 7,
+    "name": "Teyemmüm",
+    "startingHadithNo": 334,
+    "endingHadithNo": 348,
+    "totalHadith": 15
+  },
+  {
+    "id": 8,
+    "name": "Namaz",
+    "startingHadithNo": 349,
+    "endingHadithNo": 520,
+    "totalHadith": 172
+  },
+  {
+    "id": 9,
+    "name": "Namaz Vakitleri",
+    "startingHadithNo": 522,
+    "endingHadithNo": 602,
+    "totalHadith": 81
+  },
+  {
+    "id": 10,
+    "name": "Ezan",
+    "startingHadithNo": 603,
+    "endingHadithNo": 875,
+    "totalHadith": 273
+  },
+  {
+    "id": 11,
+    "name": "Cuma Namazı",
+    "startingHadithNo": 876,
+    "endingHadithNo": 941,
+    "totalHadith": 66
+  },
+  {
+    "id": 12,
+    "name": "Korku Namazı (Salatü'l-Havf)",
+    "startingHadithNo": 942,
+    "endingHadithNo": 947,
+    "totalHadith": 6
+  },
+  {
+    "id": 13,
+    "name": "İki Bayram (Ramazan ve Kurban Bayramı)",
+    "startingHadithNo": 948,
+    "endingHadithNo": 989,
+    "totalHadith": 42
+  },
+  {
+    "id": 14,
+    "name": "Vitir Namazı",
+    "startingHadithNo": 990,
+    "endingHadithNo": 1004,
+    "totalHadith": 15
+  },
+  {
+    "id": 15,
+    "name": "Yağmur Duası (İstiska)",
+    "startingHadithNo": 1005,
+    "endingHadithNo": 1039,
+    "totalHadith": 35
+  },
+  {
+    "id": 16,
+    "name": "Güneş ve Ay Tutulması (Küsurat)",
+    "startingHadithNo": 1040,
+    "endingHadithNo": 1066,
+    "totalHadith": 27
+  },
+  {
+    "id": 17,
+    "name": "Kur'an Kıraatinde Secde (Tilavet Secdesi)",
+    "startingHadithNo": 1067,
+    "endingHadithNo": 1079,
+    "totalHadith": 13
+  },
+  {
+    "id": 18,
+    "name": "Seferde Namazı Kısaltmak (Kasr-ı Namaz)",
+    "startingHadithNo": 1080,
+    "endingHadithNo": 1119,
+    "totalHadith": 40
+  },
+  {
+    "id": 19,
+    "name": "Teheccüd (Gece Namazı)",
+    "startingHadithNo": 1120,
+    "endingHadithNo": 1187,
+    "totalHadith": 68
+  },
+  {
+    "id": 20,
+    "name": "Mescid-i Haram ve Mescid-i Nebevi'de Namaz Kılmanın Fazileti",
+    "startingHadithNo": 1188,
+    "endingHadithNo": 1197,
+    "totalHadith": 10
+  },
+  {
+    "id": 21,
+    "name": "Namazda Yapılan İşler (Amel fi's-Salah)",
+    "startingHadithNo": 1198,
+    "endingHadithNo": 1223,
+    "totalHadith": 26
+  },
+  {
+    "id": 22,
+    "name": "Namazda Yanılmak (Sehiv Secdesi)",
+    "startingHadithNo": 1224,
+    "endingHadithNo": 1236,
+    "totalHadith": 13
+  },
+  {
+    "id": 23,
+    "name": "Cenazeler",
+    "startingHadithNo": 1237,
+    "endingHadithNo": 1394,
+    "totalHadith": 158
+  },
+  {
+    "id": 24,
+    "name": "Zekat",
+    "startingHadithNo": 1395,
+    "endingHadithNo": 1512,
+    "totalHadith": 118
+  },
+  {
+    "id": 25,
+    "name": "Hac",
+    "startingHadithNo": 1513,
+    "endingHadithNo": 1772,
+    "totalHadith": 260
+  },
+  {
+    "id": 26,
+    "name": "Umre",
+    "startingHadithNo": 1773,
+    "endingHadithNo": 1805,
+    "totalHadith": 33
+  },
+  {
+    "id": 27,
+    "name": "Hac Yapmaktan Alıkonanlar (Muhsar)",
+    "startingHadithNo": 1806,
+    "endingHadithNo": 1820,
+    "totalHadith": 15
+  },
+  {
+    "id": 28,
+    "name": "İhramlı İken Avlanmanın Cezası",
+    "startingHadithNo": 1821,
+    "endingHadithNo": 1866,
+    "totalHadith": 46
+  },
+  {
+    "id": 29,
+    "name": "Medine'nin Faziletleri",
+    "startingHadithNo": 1867,
+    "endingHadithNo": 1890,
+    "totalHadith": 24
+  },
+  {
+    "id": 30,
+    "name": "Oruç",
+    "startingHadithNo": 1891,
+    "endingHadithNo": 2007,
+    "totalHadith": 117
+  },
+  {
+    "id": 31,
+    "name": "Ramazan Gecelerinde Namaz (Teravih)",
+    "startingHadithNo": 2008,
+    "endingHadithNo": 2013,
+    "totalHadith": 6
+  },
+  {
+    "id": 32,
+    "name": "Kadir Gecesi'nin Fazileti",
+    "startingHadithNo": 2014,
+    "endingHadithNo": 2024,
+    "totalHadith": 11
+  },
+  {
+    "id": 33,
+    "name": "İtikaf",
+    "startingHadithNo": 2025,
+    "endingHadithNo": 2046,
+    "totalHadith": 22
+  },
+  {
+    "id": 34,
+    "name": "Alışveriş (Büyu')",
+    "startingHadithNo": 2047,
+    "endingHadithNo": 2238,
+    "totalHadith": 192
+  },
+  {
+    "id": 35,
+    "name": "Semiz ve Peşin Bedelle Veresiye Mal Siparişi (Selem)",
+    "startingHadithNo": 2239,
+    "endingHadithNo": 2256,
+    "totalHadith": 18
+  },
+  {
+    "id": 36,
+    "name": "Şufa Hakkı (Ortaklıkta Önalım)",
+    "startingHadithNo": 2257,
+    "endingHadithNo": 2259,
+    "totalHadith": 3
+  },
+  {
+    "id": 37,
+    "name": "İcar (Kiralama ve Ücretler)",
+    "startingHadithNo": 2260,
+    "endingHadithNo": 2286,
+    "totalHadith": 27
+  },
+  {
+    "id": 38,
+    "name": "Borç Devri (Havale)",
+    "startingHadithNo": 2287,
+    "endingHadithNo": 2289,
+    "totalHadith": 3
+  },
+  {
+    "id": 39,
+    "name": "Kefalet",
+    "startingHadithNo": 2290,
+    "endingHadithNo": 2298,
+    "totalHadith": 9
+  },
+  {
+    "id": 40,
+    "name": "Vekalet",
+    "startingHadithNo": 2299,
+    "endingHadithNo": 2319,
+    "totalHadith": 21
+  },
+  {
+    "id": 41,
+    "name": "Ziraat ve Tarım",
+    "startingHadithNo": 2320,
+    "endingHadithNo": 2350,
+    "totalHadith": 31
+  },
+  {
+    "id": 42,
+    "name": "Su Dağıtımı ve Sulama",
+    "startingHadithNo": 2351,
+    "endingHadithNo": 2383,
+    "totalHandith": 33
+  },
+  {
+    "id": 43,
+    "name": "Borçlanma, Ödeme, Malın Dondurulması ve İflas",
+    "startingHadithNo": 2385,
+    "endingHadithNo": 2409,
+    "totalHadith": 25
+  },
+  {
+    "id": 44,
+    "name": "Husumetler ve Davalaşmalar",
+    "startingHadithNo": 2410,
+    "endingHadithNo": 2425,
+    "totalHadith": 16
+  },
+  {
+    "id": 45,
+    "name": "Buluntu Mallar (Lukata)",
+    "startingHadithNo": 2426,
+    "endingHadithNo": 2439,
+    "totalHadith": 14
+  },
+  {
+    "id": 46,
+    "name": "Mezalim (Haksızlıklar ve Zulümler)",
+    "startingHadithNo": 2440,
+    "endingHadithNo": 2482,
+    "totalHadith": 43
+  },
+  {
+    "id": 47,
+    "name": "Şirket (Ortaklık)",
+    "startingHadithNo": 2483,
+    "endingHadithNo": 2507,
+    "totalHadith": 25
+  },
+  {
+    "id": 48,
+    "name": "Rehin",
+    "startingHadithNo": 2508,
+    "endingHadithNo": 2515,
+    "totalHadith": 8
+  },
+  {
+    "id": 49,
+    "name": "Köleleri Azad Etme (Itk)",
+    "startingHadithNo": 2517,
+    "endingHadithNo": 2559,
+    "totalHadith": 43
+  },
+  {
+    "id": 50,
+    "name": "Mekatib (Bedelli Köle Azadı Sözleşmesi)",
+    "startingHadithNo": 2560,
+    "endingHadithNo": 2565,
+    "totalHadith": 6
+  },
+  {
+    "id": 51,
+    "name": "Hediye ve Hibeler",
+    "startingHadithNo": 2566,
+    "endingHadithNo": 2636,
+    "totalHadith": 71
+  },
+  {
+    "id": 52,
+    "name": "Şahitlikler",
+    "startingHadithNo": 2637,
+    "endingHadithNo": 2689,
+    "totalHadith": 53
+  },
+  {
+    "id": 53,
+    "name": "Sulh (Barış Yapma)",
+    "startingHadithNo": 2690,
+    "endingHadithNo": 2710,
+    "totalHadith": 21
+  },
+  {
+    "id": 54,
+    "name": "Şartlar",
+    "startingHadithNo": 2712,
+    "endingHadithNo": 2737,
+    "totalHadith": 26
+  },
+  {
+    "id": 55,
+    "name": "Vasiyetler",
+    "startingHadithNo": 2738,
+    "endingHadithNo": 2781,
+    "totalHadith": 44
+  },
+  {
+    "id": 56,
+    "name": "Cihad (Allah Yolunda Savaşmak)",
+    "startingHadithNo": 2782,
+    "endingHadithNo": 3090,
+    "totalHadith": 309
+  },
+  {
+    "id": 57,
+    "name": "Ganimetlerin Beşte Biri (Humus)",
+    "startingHadithNo": 3091,
+    "endingHadithNo": 3155,
+    "totalHadith": 65
+  },
+  {
+    "id": 58,
+    "name": "Cizye ve Muvadea (Barış Antlaşmaları)",
+    "startingHadithNo": 3157,
+    "endingHadithNo": 3189,
+    "totalHadith": 33
+  },
+  {
+    "id": 59,
+    "name": "Yaratılışın Başlangıcı",
+    "startingHadithNo": 3190,
+    "endingHadithNo": 3325,
+    "totalHadith": 136
+  },
+  {
+    "id": 60,
+    "name": "Peygamberler Kıssası",
+    "startingHadithNo": 3326,
+    "endingHadithNo": 3488,
+    "totalHadith": 163
+  },
+  {
+    "id": 61,
+    "name": "Peygamber (s.a.v.) ve Sahabelerinin Faziletleri",
+    "startingHadithNo": 3489,
+    "endingHadithNo": 3648,
+    "totalHadith": 160
+  },
+  {
+    "id": 62,
+    "name": "Peygamber'in Sahabeleri",
+    "startingHadithNo": 3649,
+    "endingHadithNo": 3775,
+    "totalHadith": 127
+  },
+  {
+    "id": 63,
+    "name": "Ensar'ın Faziletleri",
+    "startingHadithNo": 3776,
+    "endingHadithNo": 3948,
+    "totalHadith": 173
+  },
+  {
+    "id": 64,
+    "name": "Peygamber'in Gazveleri ve Seferleri (Megazi)",
+    "startingHadithNo": 3949,
+    "endingHadithNo": 4473,
+    "totalHadith": 525
+  },
+  {
+    "id": 65,
+    "name": "Kur'an Tefsiri (Peygamber'in Diliyle)",
+    "startingHadithNo": 4474,
+    "endingHadithNo": 4977,
+    "totalHadith": 504
+  },
+  {
+    "id": 66,
+    "name": "Kur'an'ın Faziletleri",
+    "startingHadithNo": 4979,
+    "endingHadithNo": 5062,
+    "totalHadith": 84
+  },
+  {
+    "id": 67,
+    "name": "Nikah (Evlilik)",
+    "startingHadithNo": 5063,
+    "endingHadithNo": 5250,
+    "totalHadith": 188
+  },
+  {
+    "id": 68,
+    "name": "Talak (Boşanma)",
+    "startingHadithNo": 5251,
+    "endingHadithNo": 5350,
+    "totalHadith": 100
+  },
+  {
+    "id": 69,
+    "name": "Ailenin Nafakası",
+    "startingHadithNo": 5351,
+    "endingHadithNo": 5372,
+    "totalHadith": 22
+  },
+  {
+    "id": 70,
+    "name": "Yiyecekler ve Yemekler",
+    "startingHadithNo": 5373,
+    "endingHadithNo": 5466,
+    "totalHadith": 94
+  },
+  {
+    "id": 71,
+    "name": "Akika Kurbanı",
+    "startingHadithNo": 5467,
+    "endingHadithNo": 5474,
+    "totalHadith": 8
+  },
+  {
+    "id": 72,
+    "name": "Avlanma ve Kesim İşleri",
+    "startingHadithNo": 5475,
+    "endingHadithNo": 5544,
+    "totalHadith": 70
+  },
+  {
+    "id": 73,
+    "name": "Kurban Bayramı Kurbanları (Edhiye)",
+    "startingHadithNo": 5545,
+    "endingHadithNo": 5574,
+    "totalHadith": 30
+  },
+  {
+    "id": 74,
+    "name": "İçecekler",
+    "startingHadithNo": 5575,
+    "endingHadithNo": 5639,
+    "totalHadith": 65
+  },
+  {
+    "id": 75,
+    "name": "Hastalar ve Ziyaretleri",
+    "startingHadithNo": 5640,
+    "endingHadithNo": 5677,
+    "totalHadith": 38
+  },
+  {
+    "id": 76,
+    "name": "Tıp ve Tedavi",
+    "startingHadithNo": 5678,
+    "endingHadithNo": 5782,
+    "totalHadith": 105
+  },
+  {
+    "id": 77,
+    "name": "Giyim Kuşam",
+    "startingHadithNo": 5783,
+    "endingHadithNo": 5969,
+    "totalHadith": 187
+  },
+  {
+    "id": 78,
+    "name": "Edepler ve Güzel Ahlak (Edeb)",
+    "startingHadithNo": 5970,
+    "endingHadithNo": 6226,
+    "totalHadith": 257
+  },
+  {
+    "id": 79,
+    "name": "İzin İsteme (İsti'zand)",
+    "startingHadithNo": 6227,
+    "endingHadithNo": 6303,
+    "totalHadith": 77
+  },
+  {
+    "id": 80,
+    "name": "Dualar (De'avat)",
+    "startingHadithNo": 6304,
+    "endingHadithNo": 6411,
+    "totalHadith": 108
+  },
+  {
+    "id": 81,
+    "name": "Kalpleri Yumuşatan Şeyler (Rikak)",
+    "startingHadithNo": 6412,
+    "endingHadithNo": 6593,
+    "totalHadith": 182
+  },
+  {
+    "id": 82,
+    "name": "Kader",
+    "startingHadithNo": 6594,
+    "endingHadithNo": 6620,
+    "totalHadith": 27
+  },
+  {
+    "id": 83,
+    "name": "Yeminler ve Adaklar",
+    "startingHadithNo": 6621,
+    "endingHadithNo": 6707,
+    "totalHadith": 87
+  },
+  {
+    "id": 84,
+    "name": "Yemin Kefaretleri",
+    "startingHadithNo": 6708,
+    "endingHadithNo": 6722,
+    "totalHadith": 15
+  },
+  {
+    "id": 85,
+    "name": "İrat ve Miras Hukuku (Faraid)",
+    "startingHadithNo": 6723,
+    "endingHadithNo": 6771,
+    "totalHadith": 49
+  },
+  {
+    "id": 86,
+    "name": "Had Cezaları (Hudud)",
+    "startingHadithNo": 6772,
+    "endingHadithNo": 6860,
+    "totalHadith": 89
+  },
+  {
+    "id": 87,
+    "name": "Diyetler (Tazminatlar ve Kan Bedelleri)",
+    "startingHadithNo": 6861,
+    "endingHadithNo": 6917,
+    "totalHadith": 57
+  },
+  {
+    "id": 88,
+    "name": "Mürtedler (İslam'dan Dönenler)",
+    "startingHadithNo": 6918,
+    "endingHadithNo": 6939,
+    "totalHadith": 22
+  },
+  {
+    "id": 89,
+    "name": "Baskı ve İkrah Altında Yapılan Beyanlar",
+    "startingHadithNo": 6940,
+    "endingHadithNo": 6952,
+    "totalHadith": 13
+  },
+  {
+    "id": 90,
+    "name": "Hileler ve Çıkış Yolları (Hiyel)",
+    "startingHadithNo": 6953,
+    "endingHadithNo": 6981,
+    "totalHadith": 29
+  },
+  {
+    "id": 91,
+    "name": "Rüya Tabirleri",
+    "startingHadithNo": 6982,
+    "endingHadithNo": 7047,
+    "totalHadith": 66
+  },
+  {
+    "id": 92,
+    "name": "Fitneler ve Kıyamet Alametleri",
+    "startingHadithNo": 7048,
+    "endingHadithNo": 7136,
+    "totalHadith": 89
+  },
+  {
+    "id": 93,
+    "name": "Hükümler (Ahkam)",
+    "startingHadithNo": 7137,
+    "endingHadithNo": 7225,
+    "totalHadith": 89
+  },
+  {
+    "id": 94,
+    "name": "Temenniler ve Arzu Edilen Şeyler (Emani)",
+    "startingHadithNo": 7226,
+    "endingHadithNo": 7245,
+    "totalHadith": 20
+  },
+  {
+    "id": 95,
+    "name": "Doğru Sözlü Bir Kimsenin Haberini Kabul Etmek",
+    "startingHadithNo": 7246,
+    "endingHadithNo": 7267,
+    "totalHadith": 22
+  },
+  {
+    "id": 96,
+    "name": "Kur'an ve Sünnete Sarılmak",
+    "startingHadithNo": 7268,
+    "endingHadithNo": 7370,
+    "totalHadith": 103
+  },
+  {
+    "id": 97,
+    "name": "Tevhid (Allah'ın Birliği)",
+    "startingHadithNo": 7371,
+    "endingHadithNo": 7563,
+    "totalHadith": 193
+  }
+]
