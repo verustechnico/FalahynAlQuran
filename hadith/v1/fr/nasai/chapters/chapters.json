@@ -1,0 +1,359 @@
+[
+  {
+    "id": 1,
+    "name": "Kitab Al-Taharah (Livre de la purification)",
+    "startingHadithNo": 1,
+    "endingHadithNo": 324,
+    "totalHadith": 324
+  },
+  {
+    "id": 2,
+    "name": "Kitab Al-Miyah (Livre de l'eau)",
+    "startingHadithNo": 325,
+    "endingHadithNo": 347,
+    "totalHadith": 23
+  },
+  {
+    "id": 3,
+    "name": "Kitab Al-Haid wa Al-Istihadah (Livre des menstrues et des métrorragies)",
+    "startingHadithNo": 348,
+    "endingHadithNo": 395,
+    "totalHadith": 48
+  },
+  {
+    "id": 4,
+    "name": "Kitab Al-Ghusl wa Al-Tayammum (Livre du bain rituel et des ablutions secrètes)",
+    "startingHadithNo": 396,
+    "endingHadithNo": 447,
+    "totalHadith": 52
+  },
+  {
+    "id": 5,
+    "name": "Kitab Al-Shalah (Livre de la prière)",
+    "startingHadithNo": 448,
+    "endingHadithNo": 493,
+    "totalHadith": 46
+  },
+  {
+    "id": 6,
+    "name": "Kitab Al-Mawaqit (Livre des heures de prière)",
+    "startingHadithNo": 494,
+    "endingHadithNo": 625,
+    "totalHadith": 132
+  },
+  {
+    "id": 7,
+    "name": "Kitab Al-Adzan (Livre de l'appel à la prière)",
+    "startingHadithNo": 626,
+    "endingHadithNo": 687,
+    "totalHadith": 62
+  },
+  {
+    "id": 8,
+    "name": "Kitab Al-Masajid (Livre des mosquées)",
+    "startingHadithNo": 688,
+    "endingHadithNo": 741,
+    "totalHadith": 54
+  },
+  {
+    "id": 9,
+    "name": "Kitab Al-Qiblah (Livre de la direction de la prière)",
+    "startingHadithNo": 742,
+    "endingHadithNo": 776,
+    "totalHadith": 35
+  },
+  {
+    "id": 10,
+    "name": "Kitab Al-Imamah (Livre de l'imamat)",
+    "startingHadithNo": 777,
+    "endingHadithNo": 875,
+    "totalHadith": 99
+  },
+  {
+    "id": 11,
+    "name": "Kitab Al-Iftitah (Livre du début de la prière)",
+    "startingHadithNo": 876,
+    "endingHadithNo": 1028,
+    "totalHadith": 153
+  },
+  {
+    "id": 12,
+    "name": "Kitab Al-Tatbiq (Livre du placement des mains dans l'inclinaison)",
+    "startingHadithNo": 1029,
+    "endingHadithNo": 1178,
+    "totalHadith": 150
+  },
+  {
+    "id": 13,
+    "name": "Kitab Al-Sahwi (Livre de l'oubli dans la prière)",
+    "startingHadithNo": 1179,
+    "endingHadithNo": 1366,
+    "totalHadith": 188
+  },
+  {
+    "id": 14,
+    "name": "Kitab Al-Jumu'ah (Livre de la prière du vendredi)",
+    "startingHadithNo": 1367,
+    "endingHadithNo": 1432,
+    "totalHadith": 66
+  },
+  {
+    "id": 15,
+    "name": "Kitab Taqshir Al-Shalah Fi Al-Safar (Livre du raccourcissement de la prière en voyage)",
+    "startingHadithNo": 1433,
+    "endingHadithNo": 1458,
+    "totalHadith": 26
+  },
+  {
+    "id": 16,
+    "name": "Kitab Al-Kusuf (Livre de la prière des éclipses)",
+    "startingHadithNo": 1459,
+    "endingHadithNo": 1503,
+    "totalHadith": 45
+  },
+  {
+    "id": 17,
+    "name": "Kitab Al-Istisqa' (Livre de la prière rogatoire pour la pluie)",
+    "startingHadithNo": 1504,
+    "endingHadithNo": 1528,
+    "totalHadith": 25
+  },
+  {
+    "id": 18,
+    "name": "Kitab Shalat Al-Khauf (Livre de la prière de la peur)",
+    "startingHadithNo": 1529,
+    "endingHadithNo": 1555,
+    "totalHadith": 27
+  },
+  {
+    "id": 19,
+    "name": "Kitab Shalat Al-'Idain (Livre de la prière des deux fêtes)",
+    "startingHadithNo": 1556,
+    "endingHadithNo": 1597,
+    "totalHadith": 42
+  },
+  {
+    "id": 20,
+    "name": "Kitab Qiyam Al-Lail wa Tathawwu' Al-Nahar (Livre de la prière nocturne et des surérogatoires de jour)",
+    "startingHadithNo": 1598,
+    "endingHadithNo": 1817,
+    "totalHadith": 220
+  },
+  {
+    "id": 21,
+    "name": "Kitab Al-Jana'iz (Livre des funérailles)",
+    "startingHadithNo": 1818,
+    "endingHadithNo": 2089,
+    "totalHadith": 272
+  },
+  {
+    "id": 22,
+    "name": "Kitab Al-Shiyam (Livre du jeûne)",
+    "startingHadithNo": 2090,
+    "endingHadithNo": 2434,
+    "totalHadith": 345
+  },
+  {
+    "id": 23,
+    "name": "Kitab Al-Zakah (Livre de la Zakat)",
+    "startingHadithNo": 2435,
+    "endingHadithNo": 2618,
+    "totalHadith": 184
+  },
+  {
+    "id": 24,
+    "name": "Kitab Al-Hajj (Livre des rites du pèlerinage)",
+    "startingHadithNo": 2619,
+    "endingHadithNo": 3084,
+    "totalHadith": 466
+  },
+  {
+    "id": 25,
+    "name": "Kitab Al-Jihad (Livre du jihad)",
+    "startingHadithNo": 3085,
+    "endingHadithNo": 3195,
+    "totalHadith": 111
+  },
+  {
+    "id": 26,
+    "name": "Kitab Al-Nikah (Livre du mariage)",
+    "startingHadithNo": 3196,
+    "endingHadithNo": 3388,
+    "totalHadith": 193
+  },
+  {
+    "id": 27,
+    "name": "Kitab Al-Thalaq (Livre du divorce)",
+    "startingHadithNo": 3389,
+    "endingHadithNo": 3560,
+    "totalHadith": 172
+  },
+  {
+    "id": 28,
+    "name": "Kitab Al-Kheil wa Al-Sabaq wa Al-Ramyi (Livre des chevaux, des courses et du tir à l'arc)",
+    "startingHadithNo": 3561,
+    "endingHadithNo": 3593,
+    "totalHadith": 33
+  },
+  {
+    "id": 29,
+    "name": "Kitab Al-Hubus (Livre des biens de mainmorte / waqf)",
+    "startingHadithNo": 3594,
+    "endingHadithNo": 3610,
+    "totalHadith": 17
+  },
+  {
+    "id": 30,
+    "name": "Kitab Al-Washaya (Livre des testaments)",
+    "startingHadithNo": 3611,
+    "endingHadithNo": 3671,
+    "totalHadith": 61
+  },
+  {
+    "id": 31,
+    "name": "Kitab Al-Nahl (Livre des dons et libéralités)",
+    "startingHadithNo": 3672,
+    "endingHadithNo": 3687,
+    "totalHadith": 16
+  },
+  {
+    "id": 32,
+    "name": "Kitab Al-Hibah (Livre des dons)",
+    "startingHadithNo": 3688,
+    "endingHadithNo": 3705,
+    "totalHadith": 18
+  },
+  {
+    "id": 33,
+    "name": "Kitab Al-Ruqba (Livre du don conditionnel)",
+    "startingHadithNo": 3706,
+    "endingHadithNo": 3719,
+    "totalHadith": 14
+  },
+  {
+    "id": 34,
+    "name": "Kitab Al-'Umra (Livre du don viager)",
+    "startingHadithNo": 3720,
+    "endingHadithNo": 3760,
+    "totalHadith": 41
+  },
+  {
+    "id": 35,
+    "name": "Kitab Al-Muzara'ah (Livre de l'agriculture et du métayage)",
+    "startingHadithNo": 3761,
+    "endingHadithNo": 3856,
+    "totalHadith": 96
+  },
+  {
+    "id": 36,
+    "name": "Kitab 'Asyrah Al-Nisa' (Livre de la bonne compagnie envers les femmes)",
+    "startingHadithNo": 3939,
+    "endingHadithNo": 3965,
+    "totalHadith": 27
+  },
+  {
+    "id": 37,
+    "name": "Kitab Tahrim Al-Dam (Livre de l'interdiction de verser le sang)",
+    "startingHadithNo": 3966,
+    "endingHadithNo": 4132,
+    "totalHadith": 167
+  },
+  {
+    "id": 38,
+    "name": "Kitab Qasm Al-Fai' (Livre du partage du butin de guerre sans combat - Fai')",
+    "startingHadithNo": 4133,
+    "endingHadithNo": 4148,
+    "totalHadith": 16
+  },
+  {
+    "id": 39,
+    "name": "Kitab Al-Bai'ah (Livre du serment d'allégeance)",
+    "startingHadithNo": 4149,
+    "endingHadithNo": 4211,
+    "totalHadith": 63
+  },
+  {
+    "id": 40,
+    "name": "Kitab Al-'Aqiqah (Livre du sacrifice de naissance - 'Aqiqah)",
+    "startingHadithNo": 4212,
+    "endingHadithNo": 4221,
+    "totalHadith": 10
+  },
+  {
+    "id": 41,
+    "name": "Kitab Al-Fara' wa Al-'Atirah (Livre des sacrifices préislamiques Al-Fara' et Al-'Atirah)",
+    "startingHadithNo": 4222,
+    "endingHadithNo": 4262,
+    "totalHadith": 41
+  },
+  {
+    "id": 42,
+    "name": "Kitab Al-Shaid wa Al-Zabaih (Livre de la chasse et des bêtes sacrifiées)",
+    "startingHadithNo": 4263,
+    "endingHadithNo": 4360,
+    "totalHadith": 98
+  },
+  {
+    "id": 43,
+    "name": "Kitab Al-Dhahaya (Livre du sacrifice rituel de l'Aïd)",
+    "startingHadithNo": 4361,
+    "endingHadithNo": 4448,
+    "totalHadith": 88
+  },
+  {
+    "id": 44,
+    "name": "Kitab Al-Buyu' (Livre des transactions commerciales)",
+    "startingHadithNo": 4449,
+    "endingHadithNo": 4705,
+    "totalHadith": 257
+  },
+  {
+    "id": 45,
+    "name": "Kitab Al-Qasamah wa Al-Qud wa Al-Diyat (Livre du serment collectif, du talion et du prix du sang)",
+    "startingHadithNo": 4706,
+    "endingHadithNo": 4869,
+    "totalHadith": 164
+  },
+  {
+    "id": 46,
+    "name": "Kitab Qath' Al-Sariq (Livre de la coupe de la main du voleur)",
+    "startingHadithNo": 4870,
+    "endingHadithNo": 4984,
+    "totalHadith": 115
+  },
+  {
+    "id": 47,
+    "name": "Kitab Al-Iman wa Syara'ihi (Livre de la foi et de ses préceptes)",
+    "startingHadithNo": 4985,
+    "endingHadithNo": 5039,
+    "totalHadith": 55
+  },
+  {
+    "id": 48,
+    "name": "Kitab Al-Zinah (Livre des parures et ornements)",
+    "startingHadithNo": 5040,
+    "endingHadithNo": 5378,
+    "totalHadith": 339
+  },
+  {
+    "id": 49,
+    "name": "Kitab Adab Al-Qudhat (Livre de l'éthique des juges et des jugements)",
+    "startingHadithNo": 5379,
+    "endingHadithNo": 5427,
+    "totalHadith": 49
+  },
+  {
+    "id": 50,
+    "name": "Kitab Al-Ist'adzah (Livre des demandes de protection divine)",
+    "startingHadithNo": 5428,
+    "endingHadithNo": 5539,
+    "totalHadith": 112
+  },
+  {
+    "id": 51,
+    "name": "Kitab Al-Asyribah (Livre des boissons)",
+    "startingHadithNo": 5540,
+    "endingHadithNo": 5758,
+    "totalHadith": 219
+  }
+]

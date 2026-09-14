@@ -1,0 +1,359 @@
+[
+  {
+    "id": 1,
+    "name": "Kitab Al-Taharah (Penjelasan tentang Bersuci/Kebersihan)",
+    "startingHadithNo": 1,
+    "endingHadithNo": 324,
+    "totalHadith": 324
+  },
+  {
+    "id": 2,
+    "name": "Kitab Al-Miyah (Hukum-Hukum tentang Air)",
+    "startingHadithNo": 325,
+    "endingHadithNo": 347,
+    "totalHadith": 23
+  },
+  {
+    "id": 3,
+    "name": "Kitab Al-Haid wa Al-Istihadah (Penjelasan tentang Haid dan Istihadah)",
+    "startingHadithNo": 348,
+    "endingHadithNo": 395,
+    "totalHadith": 48
+  },
+  {
+    "id": 4,
+    "name": "Kitab Al-Ghusl wa Al-Tayammum (Penjelasan tentang Mandi Wajib dan Tayammum)",
+    "startingHadithNo": 396,
+    "endingHadithNo": 447,
+    "totalHadith": 52
+  },
+  {
+    "id": 5,
+    "name": "Kitab Al-Shalah (Penjelasan tentang Shalat)",
+    "startingHadithNo": 448,
+    "endingHadithNo": 493,
+    "totalHadith": 46
+  },
+  {
+    "id": 6,
+    "name": "Kitab Al-Mawaqit (Penjelasan tentang Waktu-Waktu Shalat)",
+    "startingHadithNo": 494,
+    "endingHadithNo": 625,
+    "totalHadith": 132
+  },
+  {
+    "id": 7,
+    "name": "Kitab Al-Adzan (Hukum-Hukum tentang Adzan)",
+    "startingHadithNo": 626,
+    "endingHadithNo": 687,
+    "totalHadith": 62
+  },
+  {
+    "id": 8,
+    "name": "Kitab Al-Masajid (Penjelasan tentang Masjid-Masjid)",
+    "startingHadithNo": 688,
+    "endingHadithNo": 741,
+    "totalHadith": 54
+  },
+  {
+    "id": 9,
+    "name": "Kitab Al-Qiblah (Penjelasan tentang Kiblat)",
+    "startingHadithNo": 742,
+    "endingHadithNo": 776,
+    "totalHadith": 35
+  },
+  {
+    "id": 10,
+    "name": "Kitab Al-Imamah (Hukum-Hukum tentang Imamah/Kepemimpinan Shalat)",
+    "startingHadithNo": 777,
+    "endingHadithNo": 875,
+    "totalHadith": 99
+  },
+  {
+    "id": 11,
+    "name": "Kitab Al-Iftitah (Penjelasan tentang Memulai Shalat)",
+    "startingHadithNo": 876,
+    "endingHadithNo": 1028,
+    "totalHadith": 153
+  },
+  {
+    "id": 12,
+    "name": "Kitab Al-Tatbiq (Penjelasan tentang Meletakkan Tangan saat Ruku)",
+    "startingHadithNo": 1029,
+    "endingHadithNo": 1178,
+    "totalHadith": 150
+  },
+  {
+    "id": 13,
+    "name": "Kitab Al-Sahwi (Penjelasan tentang Lupa dalam Shalat)",
+    "startingHadithNo": 1179,
+    "endingHadithNo": 1366,
+    "totalHadith": 188
+  },
+  {
+    "id": 14,
+    "name": "Kitab Al-Jumu'ah (Penjelasan tentang Shalat Jumat)",
+    "startingHadithNo": 1367,
+    "endingHadithNo": 1432,
+    "totalHadith": 66
+  },
+  {
+    "id": 15,
+    "name": "Kitab Taqshir Al-Shalah Fi Al-Safar (Qashar Shalat bagi Musafir)",
+    "startingHadithNo": 1433,
+    "endingHadithNo": 1458,
+    "totalHadith": 26
+  },
+  {
+    "id": 16,
+    "name": "Kitab Al-Kusuf (Shalat Gerhana)",
+    "startingHadithNo": 1459,
+    "endingHadithNo": 1503,
+    "totalHadith": 45
+  },
+  {
+    "id": 17,
+    "name": "Kitab Al-Istisqa' (Shalat Meminta Hujan)",
+    "startingHadithNo": 1504,
+    "endingHadithNo": 1528,
+    "totalHadith": 25
+  },
+  {
+    "id": 18,
+    "name": "Kitab Shalat Al-Khauf (Penjelasan tentang Shalat Khauf/Dalam Keadaan Takut)",
+    "startingHadithNo": 1529,
+    "endingHadithNo": 1555,
+    "totalHadith": 27
+  },
+  {
+    "id": 19,
+    "name": "Kitab Shalat Al-'Idain (Shalat Dua Hari Raya)",
+    "startingHadithNo": 1556,
+    "endingHadithNo": 1597,
+    "totalHadith": 42
+  },
+  {
+    "id": 20,
+    "name": "Kitab Qiyam Al-Lail wa Tathawwu' Al-Nahar (Shalat Malam Tahajud dan Sunnah Siang Hari)",
+    "startingHadithNo": 1598,
+    "endingHadithNo": 1817,
+    "totalHadith": 220
+  },
+  {
+    "id": 21,
+    "name": "Kitab Al-Jana'iz (Hukum-Hukum Jenazah)",
+    "startingHadithNo": 1818,
+    "endingHadithNo": 2089,
+    "totalHadith": 272
+  },
+  {
+    "id": 22,
+    "name": "Kitab Al-Shiyam (Penjelasan tentang Puasa)",
+    "startingHadithNo": 2090,
+    "endingHadithNo": 2434,
+    "totalHadith": 345
+  },
+  {
+    "id": 23,
+    "name": "Kitab Al-Zakah (Hukum-Hukum tentang Zakat)",
+    "startingHadithNo": 2435,
+    "endingHadithNo": 2618,
+    "totalHadith": 184
+  },
+  {
+    "id": 24,
+    "name": "Kitab Al-Hajj (Manasik dan Hukum-Hukum Haji)",
+    "startingHadithNo": 2619,
+    "endingHadithNo": 3084,
+    "totalHadith": 466
+  },
+  {
+    "id": 25,
+    "name": "Kitab Al-Jihad (Hukum-Hukum tentang Jihad)",
+    "startingHadithNo": 3085,
+    "endingHadithNo": 3195,
+    "totalHadith": 111
+  },
+  {
+    "id": 26,
+    "name": "Kitab Al-Nikah (Hukum-Hukum tentang Pernikahan)",
+    "startingHadithNo": 3196,
+    "endingHadithNo": 3388,
+    "totalHadith": 193
+  },
+  {
+    "id": 27,
+    "name": "Kitab Al-Thalaq (Masalah-Masalah Perceraian)",
+    "startingHadithNo": 3389,
+    "endingHadithNo": 3560,
+    "totalHadith": 172
+  },
+  {
+    "id": 28,
+    "name": "Kitab Al-Kheil wa Al-Sabaq wa Al-Ramyi (Kuda, Pacuan Kuda, dan Memanah)",
+    "startingHadithNo": 3561,
+    "endingHadithNo": 3593,
+    "totalHadith": 33
+  },
+  {
+    "id": 29,
+    "name": "Kitab Al-Hubus (Hukum-Hukum Wakaf)",
+    "startingHadithNo": 3594,
+    "endingHadithNo": 3610,
+    "totalHadith": 17
+  },
+  {
+    "id": 30,
+    "name": "Kitab Al-Washaya (Masalah-Masalah Wasiat)",
+    "startingHadithNo": 3611,
+    "endingHadithNo": 3671,
+    "totalHadith": 61
+  },
+  {
+    "id": 31,
+    "name": "Kitab Al-Nahl (Penjelasan tentang Pemberian dan Hadiah)",
+    "startingHadithNo": 3672,
+    "endingHadithNo": 3687,
+    "totalHadith": 16
+  },
+  {
+    "id": 32,
+    "name": "Kitab Al-Hibah (Hukum-Hukum Memberikan Hibah/Hadiah)",
+    "startingHadithNo": 3688,
+    "endingHadithNo": 3705,
+    "totalHadith": 18
+  },
+  {
+    "id": 33,
+    "name": "Kitab Al-Ruqba (Penjelasan tentang Hibah Bersyarat/Ruqba)",
+    "startingHadithNo": 3706,
+    "endingHadithNo": 3719,
+    "totalHadith": 14
+  },
+  {
+    "id": 34,
+    "name": "Kitab Al-'Umra (Penjelasan tentang Pemberian Semasa Hidup/'Umra)",
+    "startingHadithNo": 3720,
+    "endingHadithNo": 3760,
+    "totalHadith": 41
+  },
+  {
+    "id": 35,
+    "name": "Kitab Al-Muzara'ah (Penjelasan tentang Pertanian dan Bagi Hasil)",
+    "startingHadithNo": 3761,
+    "endingHadithNo": 3856,
+    "totalHadith": 96
+  },
+  {
+    "id": 36,
+    "name": "Kitab 'Asyrah Al-Nisa' (Penjelasan tentang Pergaulan yang Baik dengan Istri)",
+    "startingHadithNo": 3939,
+    "endingHadithNo": 3965,
+    "totalHadith": 27
+  },
+  {
+    "id": 37,
+    "name": "Kitab Tahrim Al-Dam (Keharaman Menumpahkan Darah / Larangan Pemberontakan)",
+    "startingHadithNo": 3966,
+    "endingHadithNo": 4132,
+    "totalHadith": 167
+  },
+  {
+    "id": 38,
+    "name": "Kitab Qasm Al-Fai' (Pembagian Harta Fai')",
+    "startingHadithNo": 4133,
+    "endingHadithNo": 4148,
+    "totalHadith": 16
+  },
+  {
+    "id": 39,
+    "name": "Kitab Al-Bai'ah (Penjelasan tentang Bai'at)",
+    "startingHadithNo": 4149,
+    "endingHadithNo": 4211,
+    "totalHadith": 63
+  },
+  {
+    "id": 40,
+    "name": "Kitab Al-'Aqiqah (Hukum-Hukum tentang Aqiqah)",
+    "startingHadithNo": 4212,
+    "endingHadithNo": 4221,
+    "totalHadith": 10
+  },
+  {
+    "id": 41,
+    "name": "Kitab Al-Fara' wa Al-'Atirah (Penjelasan tentang Tradisi Jahiliyah Al-Fara dan Al-'Atirah)",
+    "startingHadithNo": 4222,
+    "endingHadithNo": 4262,
+    "totalHadith": 41
+  },
+  {
+    "id": 42,
+    "name": "Kitab Al-Shaid wa Al-Zabaih (Hukum-Hukum Berburu dan Sembelihan)",
+    "startingHadithNo": 4263,
+    "endingHadithNo": 4360,
+    "totalHadith": 98
+  },
+  {
+    "id": 43,
+    "name": "Kitab Al-Dhahaya (Penjelasan tentang Kurban)",
+    "startingHadithNo": 4361,
+    "endingHadithNo": 4448,
+    "totalHadith": 88
+  },
+  {
+    "id": 44,
+    "name": "Kitab Al-Buyu' (Transaksi Jual Beli)",
+    "startingHadithNo": 4449,
+    "endingHadithNo": 4705,
+    "totalHadith": 257
+  },
+  {
+    "id": 45,
+    "name": "Kitab Al-Qasamah wa Al-Qud wa Al-Diyat (Qasamah, Qisas, dan Diyat)",
+    "startingHadithNo": 4706,
+    "endingHadithNo": 4869,
+    "totalHadith": 164
+  },
+  {
+    "id": 46,
+    "name": "Kitab Qath' Al-Sariq (Penjelasan tentang Hukum Potong Tangan Pencuri)",
+    "startingHadithNo": 4870,
+    "endingHadithNo": 4984,
+    "totalHadith": 115
+  },
+  {
+    "id": 47,
+    "name": "Kitab Al-Iman wa Syara'ihi (Iman dan Syariat-Syariatnya)",
+    "startingHadithNo": 4985,
+    "endingHadithNo": 5039,
+    "totalHadith": 55
+  },
+  {
+    "id": 48,
+    "name": "Kitab Al-Zinah (Hukum-Hukum tentang Perhiasan)",
+    "startingHadithNo": 5040,
+    "endingHadithNo": 5378,
+    "totalHadith": 339
+  },
+  {
+    "id": 49,
+    "name": "Kitab Adab Al-Qudhat (Adab Hakim dan Keputusan Peradilan)",
+    "startingHadithNo": 5379,
+    "endingHadithNo": 5427,
+    "totalHadith": 49
+  },
+  {
+    "id": 50,
+    "name": "Kitab Al-Ist'adzah (Doa-Doa Memohon Perlindungan)",
+    "startingHadithNo": 5428,
+    "endingHadithNo": 5539,
+    "totalHadith": 112
+  },
+  {
+    "id": 51,
+    "name": "Kitab Al-Asyribah (Hukum-Hukum tentang Minuman)",
+    "startingHadithNo": 5540,
+    "endingHadithNo": 5758,
+    "totalHadith": 219
+  }
+]

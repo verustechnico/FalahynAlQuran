@@ -1,0 +1,401 @@
+[
+  {
+    "id": 0,
+    "name": "Introduction",
+    "startingHadithNo": 1,
+    "endingHadithNo": 92,
+    "totalHadith": 92
+  },
+  {
+    "id": 1,
+    "name": "Kitab Al-Iman (Explication de la foi)",
+    "startingHadithNo": 93,
+    "endingHadithNo": 533,
+    "totalHadith": 441
+  },
+  {
+    "id": 2,
+    "name": "Kitab Al-Thaharah (Explication de la purification)",
+    "startingHadithNo": 534,
+    "endingHadithNo": 678,
+    "totalHadith": 145
+  },
+  {
+    "id": 3,
+    "name": "Kitab Al-Haid (Règles concernant les menstrues)",
+    "startingHadithNo": 679,
+    "endingHadithNo": 836,
+    "totalHadith": 158
+  },
+  {
+    "id": 4,
+    "name": "Kitab Al-Shalah (Explication de la prière)",
+    "startingHadithNo": 837,
+    "endingHadithNo": 1160,
+    "totalHadith": 324
+  },
+  {
+    "id": 5,
+    "name": "Kitab Al-Masajid (Explication des mosquées et des lieux de prière)",
+    "startingHadithNo": 1161,
+    "endingHadithNo": 1569,
+    "totalHadith": 409
+  },
+  {
+    "id": 6,
+    "name": "Kitab Shalat Al-Musafirin (Prière du voyageur et règles du raccourcissement)",
+    "startingHadithNo": 1570,
+    "endingHadithNo": 1950,
+    "totalHadith": 381
+  },
+  {
+    "id": 7,
+    "name": "Kitab Al-Jumu'ah (Explication de la prière du vendredi)",
+    "startingHadithNo": 1951,
+    "endingHadithNo": 2043,
+    "totalHadith": 93
+  },
+  {
+    "id": 8,
+    "name": "Kitab Shalat Al-'Idain (Explication de la prière des deux fêtes)",
+    "startingHadithNo": 2044,
+    "endingHadithNo": 2069,
+    "totalHadith": 26
+  },
+  {
+    "id": 9,
+    "name": "Kitab Al-Istisqa' (Explication de la prière rogatoire pour la pluie)",
+    "startingHadithNo": 2070,
+    "endingHadithNo": 2088,
+    "totalHadith": 19
+  },
+  {
+    "id": 10,
+    "name": "Kitab Al-Kusuf (Explication de la prière lors des éclipses de soleil et de lune)",
+    "startingHadithNo": 2089,
+    "endingHadithNo": 2122,
+    "totalHadith": 34
+  },
+  {
+    "id": 11,
+    "name": "Kitab Al-Jana'iz (Règles concernant les funérailles)",
+    "startingHadithNo": 2123,
+    "endingHadithNo": 2262,
+    "totalHadith": 140
+  },
+  {
+    "id": 12,
+    "name": "Kitab Al-Zakah (Explication de la Zakat)",
+    "startingHadithNo": 2263,
+    "endingHadithNo": 2494,
+    "totalHadith": 232
+  },
+  {
+    "id": 13,
+    "name": "Kitab Al-Shiyam (Règles concernant le jeûne)",
+    "startingHadithNo": 2495,
+    "endingHadithNo": 2779,
+    "totalHadith": 285
+  },
+  {
+    "id": 14,
+    "name": "Kitab Al-I'tikaf (Règles concernant la retraite spirituelle)",
+    "startingHadithNo": 2780,
+    "endingHadithNo": 2790,
+    "totalHadith": 11
+  },
+  {
+    "id": 15,
+    "name": "Kitab Al-Hajj (Règles et rites du pèlerinage)",
+    "startingHadithNo": 2791,
+    "endingHadithNo": 3397,
+    "totalHadith": 607
+  },
+  {
+    "id": 16,
+    "name": "Kitab Al-Nikah (Explication du mariage)",
+    "startingHadithNo": 388,
+    "endingHadithNo": 3567,
+    "totalHadith": 3180
+  },
+  {
+    "id": 17,
+    "name": "Kitab Al-Radha' (Explication de l'allaitement maternel)",
+    "startingHadithNo": 3568,
+    "endingHadithNo": 3651,
+    "totalHadith": 84
+  },
+  {
+    "id": 18,
+    "name": "Kitab Al-Thalaq (Explication du divorce)",
+    "startingHadithNo": 3652,
+    "endingHadithNo": 3742,
+    "totalHadith": 91
+  },
+  {
+    "id": 19,
+    "name": "Kitab Al-Li'an (Règles du serment d'anathème réciproque)",
+    "startingHadithNo": 3743,
+    "endingHadithNo": 3769,
+    "totalHadith": 27
+  },
+  {
+    "id": 20,
+    "name": "Kitab Al-'Itq (Explication de l'affranchissement des esclaves)",
+    "startingHadithNo": 3770,
+    "endingHadithNo": 3800,
+    "totalHadith": 31
+  },
+  {
+    "id": 21,
+    "name": "Kitab Al-Buyu' (Règles du commerce et des transactions)",
+    "startingHadithNo": 3801,
+    "endingHadithNo": 3961,
+    "totalHadith": 161
+  },
+  {
+    "id": 22,
+    "name": "Kitab Al-Masaqat wa Al-Muzara'ah (Règles de l'irrigation et de l'agriculture)",
+    "startingHadithNo": 3962,
+    "endingHadithNo": 4139,
+    "totalHadith": 178
+  },
+  {
+    "id": 23,
+    "name": "Kitab Al-Fara'id (Lois de l'héritage)",
+    "startingHadithNo": 4140,
+    "endingHadithNo": 4162,
+    "totalHadith": 23
+  },
+  {
+    "id": 24,
+    "name": "Kitab Al-Hibat (Règles des cadeaux et des dons)",
+    "startingHadithNo": 4163,
+    "endingHadithNo": 4203,
+    "totalHadith": 41
+  },
+  {
+    "id": 25,
+    "name": "Kitab Al-Wasiyyah (Règles des testaments)",
+    "startingHadithNo": 4204,
+    "endingHadithNo": 4234,
+    "totalHadith": 31
+  },
+  {
+    "id": 26,
+    "name": "Kitab Al-Nadzr (Règles des vœux)",
+    "startingHadithNo": 4235,
+    "endingHadithNo": 4253,
+    "totalHadith": 19
+  },
+  {
+    "id": 27,
+    "name": "Kitab Al-Aiman (Explication des serments)",
+    "startingHadithNo": 4254,
+    "endingHadithNo": 4341,
+    "totalHadith": 88
+  },
+  {
+    "id": 28,
+    "name": "Kitab Al-Qasamah wa Al-Muharibin wa Al-Qishas wa Al-Diyat (Règles des serments, du brigandage, du talion et du prix du sang)",
+    "startingHadithNo": 4342,
+    "endingHadithNo": 4397,
+    "totalHadith": 56
+  },
+  {
+    "id": 29,
+    "name": "Kitab Al-Hudud (Explication des peines légales de la sharia)",
+    "startingHadithNo": 4398,
+    "endingHadithNo": 4469,
+    "totalHadith": 72
+  },
+  {
+    "id": 30,
+    "name": "Kitab Al- الاقضیۃ (Décisions judiciaires et règles de la justice)",
+    "startingHadithNo": 4470,
+    "endingHadithNo": 4497,
+    "totalHadith": 28
+  },
+  {
+    "id": 31,
+    "name": "Kitab Al-Luqathah (Règles des objets trouvés)",
+    "startingHadithNo": 4498,
+    "endingHadithNo": 4518,
+    "totalHadith": 21
+  },
+  {
+    "id": 32,
+    "name": "Kitab Al-Jihad wa Al-Siyar (Explication du jihad et des expéditions militaires)",
+    "startingHadithNo": 4519,
+    "endingHadithNo": 4700,
+    "totalHadith": 182
+  },
+  {
+    "id": 33,
+    "name": "Kitab Al-Amarah (Règles du gouvernement et du commandement)",
+    "startingHadithNo": 4701,
+    "endingHadithNo": 4967,
+    "totalHadith": 267
+  },
+  {
+    "id": 34,
+    "name": "Kitab Al-Shid wa Al-Dhabah wa Ma Yu'kalu min Al-Hayawan (Chasse, animaux abattus et animaux halal et haram)",
+    "startingHadithNo": 4972,
+    "endingHadithNo": 5063,
+    "totalHadith": 92
+  },
+  {
+    "id": 35,
+    "name": "Kitab Al-Adhahi (Explication du sacrifice)",
+    "startingHadithNo": 5064,
+    "endingHadithNo": 5126,
+    "totalHadith": 63
+  },
+  {
+    "id": 36,
+    "name": "Kitab Al-Asyribah (Explication des boissons)",
+    "startingHadithNo": 5114,
+    "endingHadithNo": 5383,
+    "totalHadith": 270
+  },
+  {
+    "id": 37,
+    "name": "Kitab Al-Libas wa Al-Zinah (Explication des vêtements et des parures)",
+    "startingHadithNo": 5385,
+    "endingHadithNo": 5585,
+    "totalHadith": 201
+  },
+  {
+    "id": 38,
+    "name": "Kitab Al-Adab (Explication de la morale et des bonnes manières)",
+    "startingHadithNo": 5586,
+    "endingHadithNo": 5645,
+    "totalHadith": 60
+  },
+  {
+    "id": 39,
+    "name": "Kitab Al-Salam (Règles et étiquette de la salutation)",
+    "startingHadithNo": 5646,
+    "endingHadithNo": 5861,
+    "totalHadith": 216
+  },
+  {
+    "id": 40,
+    "name": "Kitab Alfadz Al-Adab wa Ghairuha (Choix des mots et bienséance verbale)",
+    "startingHadithNo": 5862,
+    "endingHadithNo": 5884,
+    "totalHadith": 23
+  },
+  {
+    "id": 41,
+    "name": "Kitab Al-Syi'r (Explication de la poésie)",
+    "startingHadithNo": 5887,
+    "endingHadithNo": 5896,
+    "totalHadith": 10
+  },
+  {
+    "id": 42,
+    "name": "Kitab Al-Ru'ya (Explication de l'interprétation des rêves)",
+    "startingHadithNo": 5897,
+    "endingHadithNo": 5937,
+    "totalHadith": 41
+  },
+  {
+    "id": 43,
+    "name": "Kitab Al-Fadhail (Mérites et vertus du Prophète ﷺ)",
+    "startingHadithNo": 384,
+    "endingHadithNo": 6168,
+    "totalHadith": 5785
+  },
+  {
+    "id": 44,
+    "name": "Kitab Fadhail Al-Shahabah (Mérites des compagnons du Prophète)",
+    "startingHadithNo": 6169,
+    "endingHadithNo": 6499,
+    "totalHadith": 331
+  },
+  {
+    "id": 45,
+    "name": "Kitab Al-Birr wa Al-Shilah wa Al-Adab (Bon comportement, liens de parenté et bonnes manières)",
+    "startingHadithNo": 6500,
+    "endingHadithNo": 6722,
+    "totalHadith": 223
+  },
+  {
+    "id": 46,
+    "name": "Kitab Al-Qadar (Explication du décret divin et du destin)",
+    "startingHadithNo": 6723,
+    "endingHadithNo": 6774,
+    "totalHadith": 52
+  },
+  {
+    "id": 47,
+    "name": "Kitab Al-'Ilm (Explication de la science religieuse)",
+    "startingHadithNo": 6775,
+    "endingHadithNo": 6804,
+    "totalHadith": 30
+  },
+  {
+    "id": 48,
+    "name": "Kitab Al-Dzikr wa Al-Du'a wa Al-Taubah wa Al-Istighfar (Invocation, supplication, repentir et demande de pardon)",
+    "startingHadithNo": 6805,
+    "endingHadithNo": 6936,
+    "totalHadith": 132
+  },
+  {
+    "id": 49,
+    "name": "Kitab Al-Riqaq (Hadiths adoucissant les cœurs)",
+    "startingHadithNo": 6937,
+    "endingHadithNo": 6951,
+    "totalHadith": 15
+  },
+  {
+    "id": 50,
+    "name": "Kitab Al-Taubah (Explication du repentir)",
+    "startingHadithNo": 6952,
+    "endingHadithNo": 7023,
+    "totalHadith": 72
+  },
+  {
+    "id": 51,
+    "name": "Kitab Sifat Al-Munafiqin wa Ahkamuhum (Caractéristiques des hypocrites et leurs jugements)",
+    "startingHadithNo": 7024,
+    "endingHadithNo": 7044,
+    "totalHadith": 21
+  },
+  {
+    "id": 52,
+    "name": "Kitab Sifat Al-Qiyamah wa Al-Jannah wa Al-Nar (Description de la Résurrection, du Paradis et de l'Enfer)",
+    "startingHadithNo": 7045,
+    "endingHadithNo": 7129,
+    "totalHadith": 85
+  },
+  {
+    "id": 53,
+    "name": "Kitab Al-Jannah wa Sifat Na'imiha wa Ahliha (Le Paradis, la description de ses délices et de ses habitants)",
+    "startingHadithNo": 7130,
+    "endingHadithNo": 7234,
+    "totalHadith": 105
+  },
+  {
+    "id": 54,
+    "name": "Kitab Al-Fitan wa Asyraf Al-Sa'ah (Troubles et signes de l'Heure)",
+    "startingHadithNo": 7235,
+    "endingHadithNo": 7416,
+    "totalHadith": 182
+  },
+  {
+    "id": 55,
+    "name": "Kitab Al-Zuhud wa Al-Riqaq (Ascétisme, piété et attendrissement du cœur)",
+    "startingHadithNo": 7417,
+    "endingHadithNo": 7522,
+    "totalHadith": 106
+  },
+  {
+    "id": 56,
+    "name": "Kitab Al-Tafsir (Explication de l'exégèse du Coran)",
+    "startingHadithNo": 7523,
+    "endingHadithNo": 7563,
+    "totalHadith": 41
+  }
+]

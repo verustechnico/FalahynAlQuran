@@ -1,0 +1,944 @@
+[
+    {
+        "hadithnumber": 3120,
+        "arabic": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ الْجَهْضَمِيُّ، حَدَّثَنِي أَبِي ح، وَحَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، قَالاَ حَدَّثَنَا شُعْبَةُ، سَمِعْتُ قَتَادَةَ، يُحَدِّثُ عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ كَانَ يُضَحِّي بِكَبْشَيْنِ أَمْلَحَيْنِ أَقْرَنَيْنِ وَيُسَمِّي وَيُكَبِّرُ وَلَقَدْ رَأَيْتُهُ يَذْبَحُ بِيَدِهِ وَاضِعًا قَدَمَهُ عَلَى صِفَاحِهِمَا ‏.‏",
+        "translation": "Enes bin Mâlik (r.a.)'den rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem) Kurban bayramında iki boynuzlu, alaca iki aded koç kurban ederdi ve (kurbanları keseceği zaman): \"Bismillah vallahu ekber\" derdi. And olsun ki ben O'nu, ayağını kurbanların (sağ) yanlarına basarak kendi eliyle keserken gördüm",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Shuaib Al Arnaut",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Sahih - Agreed Upon"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3121,
+        "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَيَّاشٍ، حَدَّثَنَا مُحَمَّدُ بْنُ إِسْحَاقَ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ أَبِي عَيَّاشٍ الزُّرَقِيِّ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ ضَحَّى رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ يَوْمَ عِيدٍ بِكَبْشَيْنِ فَقَالَ حِينَ وَجَّهَهُمَا ‏ \"‏ إِنِّي وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمَوَاتِ وَالأَرْضَ حَنِيفًا وَمَا أَنَا مِنَ الْمُشْرِكِينَ إِنَّ صَلاَتِي وَنُسُكِي وَمَحْيَاىَ وَمَمَاتِي لِلَّهِ رَبِّ الْعَالَمِينَ لاَ شَرِيكَ لَهُ وَبِذَلِكَ أُمِرْتُ وَأَنَا أَوَّلُ الْمُسْلِمِينَ اللَّهُمَّ مِنْكَ وَلَكَ عَنْ مُحَمَّدٍ وَأُمَّتِهِ ‏\"‏ ‏.‏",
+        "translation": "Câbir bin AbdilUh (r.a.}'dan; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) bir Kurban bayramı günün iki aded koç kurban etti ve onları kıbleye yönelttiği zaman şöyle dedi: «Ben bütün dinlerden yüz çevirip İbrâhîm'in dîni (yâni İslâmiyet) üzerinde olup müşriklerden olmadığım halde, gökleri ve yeri yaratan (Allah)'a şüphesiz tüm kalbimle yöneldim. Şüphesiz namazım, diğer bütün ibâdetlerim, hayatım ve ölümüm âlemlerin Rabbi olan Allah içindir. Hiçbir ortağı yoktur. Ben ancak bununla (yâni tevhîd ve ihlâsla) emrolundum ve ben müslumanların ilkiyim. Allahım (bu kurban) senden (bana bir nimet)dir ve Muhammed ile ümmeti (tarafın) dan sırf senin (rızan) içindir.»",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Daif"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Daif"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Hasan"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3122,
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَنْبَأَنَا سُفْيَانُ الثَّوْرِيُّ، عَنْ عَبْدِ اللَّهِ بْنِ مُحَمَّدِ بْنِ عَقِيلٍ، عَنْ أَبِي سَلَمَةَ، عَنْ عَائِشَةَ، وَعَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ كَانَ إِذَا أَرَادَ أَنْ يُضَحِّيَ اشْتَرَى كَبْشَيْنِ عَظِيمَيْنِ سَمِينَيْنِ أَقْرَنَيْنِ أَمْلَحَيْنِ مَوْجُوءَيْنِ فَذَبَحَ أَحَدَهُمَا عَنْ أُمَّتِهِ لِمَنْ شَهِدَ لِلَّهِ بِالتَّوْحِيدِ وَشَهِدَ لَهُ بِالْبَلاَغِ وَذَبَحَ الآخَرَ عَنْ مُحَمَّدٍ وَعَنْ آلِ مُحَمَّدٍ ـ صلى الله عليه وسلم ـ ‏.‏",
+        "translation": "Aişe ve Ebû Hureyre (r.a.)'dan; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) Kurban bayramında kurban kesmek istediği zaman iri, semiz, çift boynuzlu, alaca ve taşakları burkulmuş iki aded koç alırdı. Bunlardan birisini Allah'ın birliğine şehâdetle, O'nun (yâni Nebi (Sallallahu Aleyhi ve Sellem)'in) elçiliğine şehâdet eden ümmeti yerine, diğerini de Hz, Muhammed ve Muhammed (Sallallahu Aleyhi ve Sellem)'in âl'ı (yani ailesi) yerine boğazlardı Not: Zevaid'de şöyle denilmiştir: Bunun senedinde Abdullah bin Muhammed bulunur. Bu ravi'nin güvenilirliği ihtilaflıdır",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Shuaib Al Arnaut",
+                "grade": "Sahih Lighairihi"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Daif"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3123,
+        "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا زَيْدُ بْنُ الْحُبَابِ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَيَّاشٍ، عَنْ عَبْدِ الرَّحْمَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ ‏ \"‏ مَنْ كَانَ لَهُ سَعَةٌ وَلَمْ يُضَحِّ فَلاَ يَقْرَبَنَّ مُصَلاَّنَا ‏\"‏ ‏.‏",
+        "translation": "Ebû Hureyre (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «Varlıklı (mâlî durumu kurban kesmeye müsâid) olup da Kurban bayramında kurban kesmeyen kimse bizim musalla'mıza yaklaşmasın.» Not: Zevaid'de şöyle denilmiştir: Bunun senedinde Abdullah bin Ayyaş bulunur. Müslim bunun rivayetlerini almış ise de ancak mütaba' ve şevühid kısmında (yani başka ravilerle teyid edilmiş kısımda) ki rivayetlerini almış, diğerlerini almamıştır. Ebu Davud ve Nesai bu ravinin zayıf olduğunu söylemişlerdir. Ebu Hatim ise bunun çok doğru olduğunu söylemiştir. İbn-i Yunus ise bunun hadislerinin münker olduğunu söylemiştir. İbn-i Hibban ise bunu sıka, yani güvenilir raviler arasında anmıştır",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Hasan"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Hasan"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Isnaad Hasan"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3124,
+        "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَيَّاشٍ، حَدَّثَنَا ابْنُ عَوْنٍ، عَنْ مُحَمَّدِ بْنِ سِيرِينَ، قَالَ سَأَلْتُ ابْنَ عُمَرَ عَنِ الضَّحَايَا، أَوَاجِبَةٌ هِيَ قَالَ ضَحَّى رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ وَالْمُسْلِمُونَ مِنْ بَعْدِهِ وَجَرَتْ بِهِ السُّنَّةُ ‏.‏ حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَيَّاشٍ، حَدَّثَنَا الْحَجَّاجُ بْنُ أَرْطَاةَ، حَدَّثَنَا جَبَلَةُ بْنُ سُحَيْمٍ، قَالَ سَأَلْتُ ابْنَ عُمَرَ ‏.‏ فَذَكَرَ مِثْلَهُ سَوَاءً ‏.‏",
+        "translation": "Muhammed bin Sirin (r.a.)'den şöyle demiştir: Ben kurban bayramında kesilen kurbanlar vacipmidir? diye İbn-i Ömer (r.a.)'e soru sordum. İbn-i Ömer (r.a.) Resulullah (Sallallahu Aleyhi ve Sellem) Kurban bayramında kurban kesti. Ondan sonra da Müslümanlar kestiler ve sünnet kurban kesmekle cereyan etti, dedi. Cebele bin Suhaym (r.a.)'den rivayet edildiğine göre: Kendisi İbn-i Ömer (r.a.)'e (aynı şeyi) sormuş ve Muhammed bin Sirin'in rivayet ettiğinin aynısını rivayet etmiştir",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Daif"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Daif"
+            },
+            {
+                "name": "Shuaib Al Arnaut",
+                "grade": "Daif"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Daif"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3125,
+        "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا مُعَاذُ بْنُ مُعَاذٍ، عَنِ ابْنِ عَوْنٍ، قَالَ أَنْبَأَنَا أَبُو رَمْلَةَ، عَنْ مِخْنَفِ بْنِ سُلَيْمٍ، قَالَ كُنَّا وُقُوفًا عِنْدَ النَّبِيِّ ـ صلى الله عليه وسلم ـ بِعَرَفَةَ فَقَالَ ‏ \"‏ يَا أَيُّهَا النَّاسُ إِنَّ عَلَى كُلِّ أَهْلِ بَيْتٍ فِي كُلِّ عَامٍ أُضْحِيَّةً وَعَتِيرَةً ‏\"‏ ‏.‏ أَتَدْرُونَ مَا الْعَتِيرَةُ هِيَ الَّتِي يُسَمِّيهَا النَّاسُ الرَّجَبِيَّةَ ‏.‏",
+        "translation": "Mihnef bin Süleym (r.a.)'den; Şöyle demiştir: Biz (Veda haccında) Arafat'ta Nebi (Sallallahu Aleyhi ve Sellem)'in yanında duruyorduk. Şöyle buyurdu: «Ey insanlar! Şüphesiz, her yıl her ev halkı üzerinde bir udhiyye (Kurban bayramı günü kesilen kurban) ve bir atîre vardır. Atîre'nin ne olduğunu bilir misiniz? Atîre, halkın Recebiyye ismini verdikleri (kurban) dır.»",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Hasan"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Hasan"
+            },
+            {
+                "name": "Shuaib Al Arnaut",
+                "grade": "Daif"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Daif"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3126,
+        "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ الدِّمَشْقِيُّ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نَافِعٍ، حَدَّثَنِي أَبُو الْمُثَنَّى، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ قَالَ ‏ \"‏ مَا عَمِلَ ابْنُ آدَمَ يَوْمَ النَّحْرِ عَمَلاً أَحَبَّ إِلَى اللَّهِ عَزَّ وَجَلَّ مِنْ هِرَاقَةِ دَمٍ وَإِنَّهُ لَيَأْتِي يَوْمَ الْقِيَامَةِ بِقُرُونِهَا وَأَظْلاَفِهَا وَأَشْعَارِهَا وَإِنَّ الدَّمَ لَيَقَعُ مِنَ اللَّهِ عَزَّ وَجَلَّ بِمَكَانٍ قَبْلَ أَنْ يَقَعَ عَلَى الأَرْضِ فَطِيبُوا بِهَا نَفْسًا ‏\"‏ ‏.‏",
+        "translation": "Âişe (r.anha)'dan rivayet edildiğine göre; Nebi (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «Âdem oğlu Kurban bayramı günü kan akıtmaktan fazla Allah (Azze ve Celle) katında sevimli hiç bir amel işlememiştir. Şüphesiz o (yani kesilen kurban), kıyamet günü boynuzları, tırnakları ve kıllarıyla gelir. Şüphesiz kurbanın kanı da yere düşmeden önce, Allah (Azze ve Celle) katında kabul olunur. Artık (sevabı böyle olunca), gönülleriniz kurban (kesmek sebebi) ile (sıkıntılı değil) hoş olsun.»",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Daif"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Daif"
+            },
+            {
+                "name": "Shuaib Al Arnaut",
+                "grade": "Daif"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Daif"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3127,
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ خَلَفٍ الْعَسْقَلاَنِيُّ، حَدَّثَنَا آدَمُ بْنُ أَبِي إِيَاسٍ، حَدَّثَنَا سَلاَّمُ بْنُ مِسْكِينٍ، حَدَّثَنَا عَائِذُ اللَّهِ، عَنْ أَبِي دَاوُدَ، عَنْ زَيْدِ بْنِ أَرْقَمَ، قَالَ قَالَ أَصْحَابُ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ يَا رَسُولَ اللَّهِ مَا هَذِهِ الأَضَاحِيُّ قَالَ ‏\"‏ سُنَّةُ أَبِيكُمْ إِبْرَاهِيمَ ‏\"‏ ‏.‏ قَالُوا فَمَا لَنَا فِيهَا يَا رَسُولَ اللَّهِ قَالَ ‏\"‏ بِكُلِّ شَعَرَةٍ حَسَنَةٌ ‏\"‏ ‏.‏ قَالُوا فَالصُّوفُ يَا رَسُولَ اللَّهِ قَالَ ‏\"‏ بِكُلِّ شَعَرَةٍ مِنَ الصُّوفِ حَسَنَةٌ ‏\"‏ ‏.‏",
+        "translation": "Zeyd bin Erkam (r.a.)'den; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem)'in ashâb'i; Yâ Resûlallah! Şu udhiyyeler (yâni bayramda kesilen kurbanlar) nedir? dediler. Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem): «Babanız İbrahim'in sünnetidir» diye cevab verdi. Sahâbîler: Peki. Kurbanlarda bizim için ne (sevab) var? Yâ Resûlallah, dediler. Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem): «Her kıl'a karşılık bir hasene var» buyurdu. Sahâbîler: Ya yün (Yâni kesilen kurban koyun - kuzu olunca sevab nasıl) ? dediler. Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem): «Yünden her taneye karşılık bir hasene (var) dır» buyurdu. Not: Zevaid'de şöyle denilmiştir: Bunun senedinde Ebu Davud bulunur. Bunun adı NÜley' bin el-Haris'dir. rivayetleri terkediImiştir ve hadis uydurmakla ith am edilmiştir",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Very Daif"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Very Daif"
+            },
+            {
+                "name": "Shuaib Al Arnaut",
+                "grade": "Very Daif"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Daif"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3128,
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ، حَدَّثَنَا حَفْصُ بْنُ غِيَاثٍ، عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ، عَنْ أَبِيهِ، عَنْ أَبِي سَعِيدٍ، قَالَ ضَحَّى رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ بِكَبْشٍ أَقْرَنَ فَحِيلٍ يَأْكُلُ فِي سَوَادٍ وَيَمْشِي فِي سَوَادٍ وَيَنْظُرُ فِي سَوَادٍ ‏.‏",
+        "translation": "Ebû Saîd(-i Hudrî) (r.a.)'den rivayet edildiğine göre: Nebi (Sallallahu Aleyhi ve Sellem), karnında, ayaklarında ve gözlerinde siyahlık bulunan, çift boynuzlu ve döl bir koç'u (kurban bayramında) kurban etti",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Shuaib Al Arnaut",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Daif"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3129,
+        "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا مُحَمَّدُ بْنُ شُعَيْبٍ، أَخْبَرَنِي سَعِيدُ بْنُ عَبْدِ الْعَزِيزِ، حَدَّثَنَا يُونُسُ بْنُ مَيْسَرَةَ بْنِ حَلْبَسٍ، قَالَ خَرَجْنَا مَعَ أَبِي سَعِيدٍ الزُّرَقِيِّ - صَاحِبِ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ - إِلَى شِرَاءِ الضَّحَايَا ‏.‏ قَالَ يُونُسُ فَأَشَارَ أَبُو سَعِيدٍ إِلَى كَبْشٍ أَدْغَمَ لَيْسَ بِالْمُرْتَفِعِ وَلاَ الْمُتَّضِعِ فِي جِسْمِهِ فَقَالَ لِي اشْتَرِ لِي هَذَا ‏.‏ كَأَنَّهُ شَبَّهَهُ بِكَبْشِ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ ‏.‏",
+        "translation": "Yunus bin Meysere bin Halbes (r.a.)'den; Şöyle demiştir: Ben Resulullah (Sallallahu Aleyhi ve Sellem)'in sahâbîlerinden Ebû Said-i Zurakî (r.a.)'ın beraberinde kurbanları almaya çıktım. Yûnus demiştir ki: Ebû Said, vücûtça ne iri ne de alçak olan siyah nişanlı bir koç'a işaret ederek bana dedi ki: Şu koç'u benim için satın al. (Yûnus elemiştir ki:) Bana öyle geliyor ki, Ebû Said o koç'u Resulullah (Sallallahu Aleyhi ve Sellem)'in (kurban ettiği) koç'a benzetti. Not: Zevaid'de, bunun senedinin sahih olduğu belirtilmiştir",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Shuaib Al Arnaut",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Isnaad Hasan"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3130,
+        "arabic": "حَدَّثَنَا الْعَبَّاسُ بْنُ عُثْمَانَ الدِّمَشْقِيُّ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، حَدَّثَنَا أَبُو عَائِذٍ، أَنَّهُ سَمِعَ سُلَيْمَ بْنَ عَامِرٍ، يُحَدِّثُ عَنْ أَبِي أُمَامَةَ الْبَاهِلِيِّ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ ‏ \"‏ خَيْرُ الْكَفَنِ الْحُلَّةُ وَخَيْرُ الضَّحَايَا الْكَبْشُ الأَقْرَنُ ‏\"‏ ‏.‏",
+        "translation": "Ebû Ümâme el-Bâhili (r.a.)'den rivayet edildiğine yöre; Resulullah (Sallallahu Aleyhi ve Sellem) sjiiyle buyurmuştur: «Kefenin en hayırlısı hülle (yâni iki parçadan ibaret takım elbise) dir. Bayramda kesilen kurbanların en hayırlısı da iki boynuzlu koçtur.»",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Daif"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Daif"
+            },
+            {
+                "name": "Shuaib Al Arnaut",
+                "grade": "Sanad Daif"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Daif"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3131,
+        "arabic": "حَدَّثَنَا هَدِيَّةُ بْنُ عَبْدِ الْوَهَّابِ، أَنْبَأَنَا الْفَضْلُ بْنُ مُوسَى، أَنْبَأَنَا الْحُسَيْنُ بْنُ وَاقِدٍ، عَنْ عِلْبَاءَ بْنِ أَحْمَرَ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ كُنَّا مَعَ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ فِي سَفَرٍ فَحَضَرَ الأَضْحَى فَاشْتَرَكْنَا فِي الْجَزُورِ عَنْ عَشَرَةٍ وَالَبَقَرَةِ عَنْ سَبْعَةٍ ‏.‏",
+        "translation": "İbn-i Abbâs (r.a.)'dan; Şöyle demiştir: Biz bir yolculukta Resulullah (Sallallahu Aleyhi ve Sellem)'in beraberinde idik. Kurban bayramı günü geldi. Devede on kişi ve sığırda yedi kişi olarak ortaklaştık (yâni kurbanları böylece kestik)",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Shuaib Al Arnaut",
+                "grade": "Hasan"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Isnaad Hasan"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3132,
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، عَنْ مَالِكِ بْنِ أَنَسٍ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ نَحَرْنَا بِالْحُدَيْبِيَةِ مَعَ النَّبِيِّ ـ صلى الله عليه وسلم ـ الْبَدَنَةَ عَنْ سَبْعَةٍ وَالْبَقَرَةَ عَنْ سَبْعَةٍ ‏.‏",
+        "translation": "Câbir (bin Abdillah) (r.a.)'dan; Şöyle demiştir: Biz Hudeybiye (umresin) de Resulullah (Sallallahu Aleyhi ve Sellem)'in beraberinde iken, deveyi yedi kişi adına ve sığırı yedi kişi adına (kurban olarak) kestik",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Shuaib Al Arnaut",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Sahih Muslim"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3133,
+        "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، حَدَّثَنَا الأَوْزَاعِيُّ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ ذَبَحَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ عَمَّنِ اعْتَمَرَ مِنْ نِسَائِهِ فِي حَجَّةِ الْوَدَاعِ بَقَرَةً بَيْنَهُنَّ ‏.‏",
+        "translation": "Ebû Hureyre (r.a.)'den rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem) Veda haccında temettu eden zevceleri yerine aralarında (bölüşülmek üzere) bir sığır boğazladı",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Shuaib Al Arnaut",
+                "grade": "Daif"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Daif"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3134,
+        "arabic": "حَدَّثَنَا هَنَّادُ بْنُ السَّرِيِّ، حَدَّثَنَا أَبُو بَكْرِ بْنُ عَيَّاشٍ، عَنْ عَمْرِو بْنِ مَيْمُونٍ، عَنْ أَبِي حَاضِرٍ الأَزْدِيِّ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَلَّتِ الإِبِلُ عَلَى عَهْدِ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ فَأَمَرَهُمْ أَنْ يَنْحَرُوا الْبَقَرَ ‏.‏",
+        "translation": "İbn-i Abbâs (r.a.)'dan, Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) hayatta iken develer azaldı. Bunun üzerine sahâbîlere sığır kesmelerini emretti. Not: Zevaid'de şöyle denilmiştir: Bunun senedi sahih ve ravileri sıka. (güvenilir) zatlardır. Ravi Ebü Hadır'ın adı, Osman bin Hadır'dır",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Daif"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Shuaib Al Arnaut",
+                "grade": "Hasan"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Isnaad Hasan"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3135,
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ الْمِصْرِيُّ أَبُو طَاهِرٍ، أَنْبَأَنَا ابْنُ وَهْبٍ، أَنْبَأَنَا يُونُسُ، عَنِ ابْنِ شِهَابٍ، عَنْ عَمْرَةَ، عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ نَحَرَ عَنْ آلِ مُحَمَّدٍ ـ صلى الله عليه وسلم ـ فِي حَجَّةِ الْوَدَاعِ بَقَرَةً وَاحِدَةً ‏.‏",
+        "translation": "Aişe (r.anha)'dan rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem), Veda haccında Muhammed (Sallallahu Aleyhi ve Sellem)'in Âl'ı (yâni eşleri) yerine tek bir sığır kurban etti",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Sahih"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3136,
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ مَعْمَرٍ، حَدَّثَنَا مُحَمَّدُ بْنُ بَكْرٍ الْبُرْسَانِيُّ، حَدَّثَنَا ابْنُ جُرَيْجٍ، قَالَ قَالَ عَطَاءٌ الْخُرَاسَانِيُّ عَنِ ابْنِ عَبَّاسٍ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ أَتَاهُ رَجُلٌ فَقَالَ إِنَّ عَلَىَّ بَدَنَةً وَأَنَا مُوسِرٌ بِهَا وَلاَ أَجِدُهَا فَأَشْتَرِيَهَا ‏.‏ فَأَمَرَهُ النَّبِيُّ ـ صلى الله عليه وسلم ـ أَنْ يَبْتَاعَ سَبْعَ شِيَاهٍ فَيَذْبَحَهُنَّ ‏.‏",
+        "translation": "İbn-i Abbâs (r.a.)'dan rivayet edildiğine göre bir adam Nebi (Salîallahu Aleyhi ve Sellem)'e gelerek: Benim boynumda bir deve (boğazlama borcu) var ve ben deve almak varlığına sahibim. Fakat deve bulamıyorum ki satın alayım, dedi. Bunun üzerine Nebi (Salîallahu Aleyhi ve Sellem) ona yedi davar satın alıp boğazlamasını emretti. Not: Zevaid'de şöyle denilmiştir: Bunun ravileri sahih hadis ri'ı.vileridir. Fakat Ata el-Hurasani, İbn-i Abbas (r.a.)'den hadis işitmemiştir. Bunu imam Ahmed, söylemiştir. Lakin şeyhimiz Ebu Zur'a: Bu ravinin İbn-i Abbas'tan rivayeli, Buhiri'nin Sahih'inde mevcuttur, demiştir. Yani bu durum, Ata'nın İbn-l Abbis'tan hadis işitmesine delalet eder. Zevaid yazarı: Rüvi İbn-i Cüreyc, tedlisçidir ve bu hadisi ari'ane ile rivayet etmiştir. Yahya bin Said el-Kattan da demiş kı: Ata. el-Hun\\sanl'den İbn-I Cüreyc'in rivayeti zayıftır. Çünkü bu, sadece İbn-l Cüreyc'jn yazıp Ata'ya isnad ettiği bir kitabtan ibarettir, diye bilgi verir",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Daif"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Daif"
+            },
+            {
+                "name": "Shuaib Al Arnaut",
+                "grade": "Daif"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Daif"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3137,
+        "arabic": "حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا الْمُحَارِبِيُّ، وَعَبْدُ الرَّحِيمِ، عَنْ سُفْيَانَ الثَّوْرِيِّ، عَنْ سَعِيدِ بْنِ مَسْرُوقٍ، وَحَدَّثَنَا الْحُسَيْنُ بْنُ عَلِيٍّ، عَنْ زَائِدَةَ، عَنْ سَعِيدِ بْنِ مَسْرُوقٍ، عَنْ عَبَايَةَ بْنِ رِفَاعَةَ، عَنْ رَافِعِ بْنِ خَدِيجٍ، قَالَ كُنَّا مَعَ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ وَنَحْنُ بِذِي الْحُلَيْفَةِ مِنْ تِهَامَةَ فَأَصَبْنَا إِبِلاً وَغَنَمًا فَعَجِلَ الْقَوْمُ فَأَغْلَيْنَا الْقُدُورَ قَبْلَ أَنْ تُقْسَمَ فَأَتَانَا رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ فَأَمَرَ بِهَا فَأُكْفِئَتْ ثُمَّ عَدَلَ الْجَزُورَ بِعَشَرَةٍ مِنَ الْغَنَمِ ‏.‏",
+        "translation": "Râfi' bin Hadîc (r.a.)'den; Şöyle demidir: Biz Resulullah (Sallallahu Aleyhi ve Sellem)'in beraberinde (Yemen'deki) Tihâme'nin Zu'l-Huleyfe de idik. O esnada (düşmana âit) bir sürü deve ve davarı ele geçirdik. Arkadaşlarımız (ın bir kısmı) acele etti ve (ganimet malı olan) bu hayvanlar henüz taksim edilmeden önce (hayvanlardan boğazlayıp etini) çömleklerde pişirmeye başladık. Sonra Resulullah (Sallallahu Aleyhi ve Sellem), yanımıza geldi de çömlekler O'nun emriyle ters çevrildi . Sonra (hayvanlar taksim edilirken) Resûl-i Ekrem deveyi on davara denk kıldı",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Shuaib Al Arnaut",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Sahih - Agreed Upon"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3138,
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، أَنْبَأَنَا اللَّيْثُ بْنُ سَعْدٍ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ أَبِي الْخَيْرِ، عَنْ عُقْبَةَ بْنِ عَامِرٍ الْجُهَنِيِّ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ أَعْطَاهُ غَنَمًا فَقَسَمَهَا عَلَى أَصْحَابِهِ ضَحَايَا فَبَقِيَ عَتُودٌ فَذَكَرَهُ لِرَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ فَقَالَ ‏ \"‏ ضَحِّ بِهِ أَنْتَ ‏\"‏ ‏.‏",
+        "translation": "Ukbe bin Amir el-Cühenî (r.a.)'den rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem), (sahâbîler arasında vekâleten taksim etmek üzere) kendisine bir mikdar (kurbanlık) davar vermiş. Kendisi de bunları kurbanlık olarak sahâbîlere taksim etmiş ve bir tane atûd (yâni ikinci yaşına basmış, kuvvetli keçi oğlağı) geri kalmıştı. Ukbe bunu Resulullah (Sallallahu Aleyhi ve Sellem)'e arz etmiş. Resulullah (Sallallahu Aleyhi ve Sellem) da: «Onu da sen kendine kurban et», buyurmuştur",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Shuaib Al Arnaut",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Sahih - Agreed Upon"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3139,
+        "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ الدِّمَشْقِيُّ، حَدَّثَنَا أَنَسُ بْنُ عِيَاضٍ، حَدَّثَنِي مُحَمَّدُ بْنُ أَبِي يَحْيَى، - مَوْلَى الأَسْلَمِيِّينَ - عَنْ أُمِّهِ، قَالَتْ حَدَّثَتْنِي أُمُّ بِلاَلٍ بِنْتُ هِلاَلٍ، عَنْ أَبِيهَا، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ ‏ \"‏ يَجُوزُ الْجَذَعُ مِنَ الضَّأْنِ أُضْحِيَّةً ‏\"‏ ‏.‏",
+        "translation": "Ümmü Bilâl bint-i Hilâl'in babası (r.a.)'dan rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «Koyun nevinden ceza' (yâni altı ayını doldurmuş ve bir yılını doldurandan farksız, kuvvetli kuzun) un bayram kurbanı olması caizdir.» Not: Sindi şöyle demiştir: Bu hadis Zevaid nevindendir. Zevaid kitabında bunun senedinin durumuna değinilmemiştir. Ed-Dümeyri: İbn-i Hazm demiş ki: Bu hadis sakıttır. Çünkü Muhammed bin Ebi Yahya'nın anası mechuldür. Bilal'ın anası da mechüldür., şahabi olup olmadığı bilinmiyor, der. Sindi daha sonra şöyle der: İbn-i Hazm böyle demiştir. İlk sözünde isabet etmiş ise de ikinci sözünde hata etmiştir. Çünkü ibrd Müneddeh, Ebu Nuaym ve İbn-i Abdilber, Bilal'ın anasını sahabiler arasında anmışlardır. Sonra Zehebi, el-Mizan'da, Bilal'ıri anasının tanınmadığını, fakat el-İcli onu sıka saydığını söylemiştir. Zevaid yazarı, bu hadisin aslının Ebu Davud ile Tirmizi'nin sünenlerinde mevcut olduğunu ve senedinin sahih olduğunu ifade etmiştir",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Daif"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Daif"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Daif"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3140,
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَنْبَأَنَا الثَّوْرِيُّ، عَنْ عَاصِمِ بْنِ كُلَيْبٍ، عَنْ أَبِيهِ، قَالَ كُنَّا مَعَ رَجُلٍ مِنْ أَصْحَابِ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ يُقَالُ لَهُ مُجَاشِعٌ مِنْ بَنِي سُلَيْمٍ فَعَزَّتِ الْغَنَمُ فَأَمَرَ مُنَادِيًا فَنَادَى أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ كَانَ يَقُولُ ‏ \"‏ إِنَّ الْجَذَعَ يُوفِي مِمَّا تُوفِي مِنْهُ الثَّنِيَّةُ ‏\"‏ ‏.‏",
+        "translation": "Âsim bin Kuleyb'in babası (Kuleyb bin Şihâb) (r.a.)'dan: Şöyle demiştir: Biz, Resulullah (Sallallahu Aleyhi ve Sellem)'in sahâbüerinden, Süleym oğullarından Müşâcf isimli bir zât ile beraber idik. (O esnada) davarlar az idi. Bunun üzerine Müşâci' bir adama emretti. Adam (da halka) şu duyuruyu yaptı: Resulullah (Sallallahu Aleyhi ve Sellem): Seniyye'nin (yâni iki yaşına basmış koyunun) yettiği şeye, ceza'ın (yâni altı ayını doldurup bir yaşını tamamlayandan farksız görülen kuvvetli kuzunun) yettiğini buyuruyordu",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Daif"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Sahih"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3141,
+        "arabic": "حَدَّثَنَا هَارُونُ بْنُ حَيَّانَ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ عَبْدِ اللَّهِ، أَنْبَأَنَا زُهَيْرٌ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏ \"‏ لاَ تَذْبَحُوا إِلاَّ مُسِنَّةً إِلاَّ أَنْ يَعْسُرَ عَلَيْكُمْ فَتَذْبَحُوا جَذَعَةً مِنَ الضَّأْنِ ‏\"‏ ‏.‏",
+        "translation": "Câbir (bin Abdillah) (r.a.)'dân rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir; «Siz (kurban olarak) yalnız müsinne (yâni yaşça büyük hayvanı) kesiniz. Meğer ki, (bulamamaktan dolayı) bunu kesmek size güç ola. O takdirde koyun nevinden cezaa (yâni altı ayını doldurup bir yılını doldurandan farksız ve kuvvetli görülen kuzu) kesebilirsiniz.»",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Daif"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Daif"
+            },
+            {
+                "name": "Shuaib Al Arnaut",
+                "grade": "Daif"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Sahih Muslim"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3142,
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ، حَدَّثَنَا أَبُو بَكْرِ بْنُ عَيَّاشٍ، عَنْ أَبِي إِسْحَاقَ، عَنْ شُرَيْحِ بْنِ النُّعْمَانِ، عَنْ عَلِيٍّ، قَالَ نَهَى رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ أَنْ يُضَحَّى بِمُقَابَلَةٍ أَوْ مُدَابَرَةٍ أَوْ شَرْقَاءَ أَوْ خَرْقَاءَ أَوْ جَدْعَاءَ ‏.‏",
+        "translation": "Ali (r.a.)'den rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem), kulağının ön kısmı kesilen veya kulağının arka kısmı kesilen veya kulağı uzunlamasına yarılıp ikiye bölünen, ya da kulağı delinen veya burnu kesilen hayvanı bayramda kurban etmeyi yasaklamıştır",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Daif"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Daif"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Daif"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3143,
+        "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا سُفْيَانُ، عَنْ سَلَمَةَ بْنِ كُهَيْلٍ، عَنْ حُجَيَّةَ بْنِ عَدِيٍّ، عَنْ عَلِيٍّ، قَالَ أَمَرَنَا رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ أَنْ نَسْتَشْرِفَ الْعَيْنَ وَالأُذُنَ ‏.‏",
+        "translation": "Ali (r.a.)'den; Şöyle demiştir; Resulullah (Sallallahu Aleyhi ve Sellem), bize (kurban edeceğimiz) hayvanın gözüne ve kulağına iyice bakıp incelememizi emretti",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Hasan Sahih"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Hasan Sahih"
+            },
+            {
+                "name": "Shuaib Al Arnaut",
+                "grade": "Hasan Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Hasan"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3144,
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، وَمُحَمَّدُ بْنُ جَعْفَرٍ، وَعَبْدُ الرَّحْمَنِ، وَأَبُو دَاوُدَ وَابْنُ أَبِي عَدِيٍّ وَأَبُو الْوَلِيدِ قَالُوا حَدَّثَنَا شُعْبَةُ، سَمِعْتُ سُلَيْمَانَ بْنَ عَبْدِ الرَّحْمَنِ، قَالَ سَمِعْتُ عُبَيْدَ بْنَ فَيْرُوزَ، قَالَ قُلْتُ لِلْبَرَاءِ بْنِ عَازِبٍ حَدِّثْنِي بِمَا، كَرِهَ أَوْ نَهَى عَنْهُ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ مِنَ الأَضَاحِيِّ ‏.‏ فَقَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ هَكَذَا بِيَدِهِ وَيَدِي أَقْصَرُ مِنْ يَدِهِ ‏ \"‏ أَرْبَعٌ لاَ تُجْزِئُ فِي الأَضَاحِيِّ الْعَوْرَاءُ الْبَيِّنُ عَوَرُهَا وَالْمَرِيضَةُ الْبَيِّنُ مَرَضُهَا وَالْعَرْجَاءُ الْبَيِّنُ ظَلْعُهَا وَالْكَسِيرَةُ الَّتِي لاَ تُنْقِي ‏\"‏ ‏.‏ قَالَ فَإِنِّي أَكْرَهُ أَنْ يَكُونَ نَقْصٌ فِي الأُذُنِ ‏.‏ قَالَ فَمَا كَرِهْتَ مِنْهُ فَدَعْهُ وَلاَ تُحَرِّمْهُ عَلَى أَحَدٍ ‏.‏",
+        "translation": "Ubeyd bin Feyruz (r.a.)'den; Şöyle demiştir: Ben, Berâ bin Âzib (r.a.)'a: Resulullah (Sallallahu Aleyhi ve Sellem)'in hoş görmediği veya yasakladığı kurbanlıkları bana anlat, dedim. Bunun üzerine Berâ, şöyle dedi: Resulullah (Sallallahu Aleyhi ve Sellem) eliyle (dört sayısını) şöyle işaret etti. Benim elim O'nun elinden kısadır ve şöyle buyurdu: «Dört hayvan vardır ki kurban olamaz: Bir gözünün görmediği apaçık belli tek gözlü hayvan, hastalığı besbelli hasta hayvan, topallığı açıkça görülen topal hayvan ve kemiklerinde ilik kalmamış derecede zayıf olan hayvan.» Ubeyd bin Feyrûz (Berâ'a): Ben kurbanlık hayvan'ın kulağında bir eksiklik olmasından hoşlanmam, demiş. Berâ (da buna cevaben): Sen (kurbanlık olmasından) hoşlanmadığın (hayvan)ı bırak. Fakat onu hiç kimseye yasaklama, demiştir",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Shuaib Al Arnaut",
+                "grade": "Hasan Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Isnaad Sahih"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3145,
+        "arabic": "حَدَّثَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، حَدَّثَنَا خَالِدُ بْنُ الْحَارِثِ، حَدَّثَنَا سَعِيدٌ، عَنْ قَتَادَةَ، أَنَّهُ ذَكَرَ أَنَّهُ سَمِعَ جُرَىَّ بْنَ كُلَيْبٍ، يُحَدِّثُ أَنَّهُ سَمِعَ عَلِيًّا، يُحَدِّثُ أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ نَهَى أَنْ يُضَحَّى بِأَعْضَبِ الْقَرْنِ وَالأُذُنِ ‏.‏",
+        "translation": "Alî (r.a.)'den rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem), boynuzunun veya kulağının yarısından fazlası kesilmiş olan hayvanı kurban etmeyi yasaklamıştır",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Daif"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Daif"
+            },
+            {
+                "name": "Shuaib Al Arnaut",
+                "grade": "Hasan Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Hasan"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3146,
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، وَمُحَمَّدُ بْنُ عَبْدِ الْمَلِكِ أَبُو بَكْرٍ، قَالاَ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، عَنِ الثَّوْرِيِّ، عَنْ جَابِرِ بْنِ يَزِيدَ، عَنْ مُحَمَّدِ بْنِ قَرَظَةَ الأَنْصَارِيِّ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ ابْتَعْنَا كَبْشًا نُضَحِّي بِهِ فَأَصَابَ الذِّئْبُ مِنْ أَلْيَتِهِ أَوْ أُذُنِهِ فَسَأَلْنَا النَّبِيَّ ـ صلى الله عليه وسلم ـ فَأَمَرَنَا أَنْ نُضَحِّيَ بِهِ ‏.‏",
+        "translation": "Ebû Saîd-i Hudrî (r.a.)'den; Şöyle demiştir: Biz kurban etmek üzere bir koç satın aldık. Sonra kurt onun kuyruğundan (veya butundan) ya da kulağından bir parça kaptı. Biz durumu Nebi (Sallallahu Aleyhi ve Sellem)'e sorduk. Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem), onu kurban etmemizi emretti. Not: Zevaid'de şöyle denilmiştir: Bunun senedinde Cabir el-Ca'fi bulunur. Bu ravi, zayıftır, hadis uydurmakla itham edilmiştir. Ed-Dümeyri'nin dediğine göre İbn-i Hazm demiş ki: Bu, bir eserdir, senedinde Cabir el-Ca'n vardır. Bu ravi, kezzab'tır (yani çok yalancıdır)",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Very Daif Isnaad"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Very Daif Isnaad"
+            },
+            {
+                "name": "Shuaib Al Arnaut",
+                "grade": "Daif"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Daif"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3147,
+        "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا ابْنُ أَبِي فُدَيْكٍ، حَدَّثَنِي الضَّحَّاكُ بْنُ عُثْمَانَ، عَنْ عُمَارَةَ بْنِ عَبْدِ اللَّهِ بْنِ صَيَّادٍ، عَنْ عَطَاءِ بْنِ يَسَارٍ، قَالَ سَأَلْتُ أَبَا أَيُّوبَ الأَنْصَارِيَّ كَيْفَ كَانَتِ الضَّحَايَا فِيكُمْ عَلَى عَهْدِ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ كَانَ الرَّجُلُ فِي عَهْدِ النَّبِيِّ ـ صلى الله عليه وسلم ـ يُضَحِّي بِالشَّاةِ عَنْهُ وَعَنْ أَهْلِ بَيْتِهِ فَيَأْكُلُونَ وَيُطْعِمُونَ ثُمَّ تَبَاهَى النَّاسُ فَصَارَ كَمَا تَرَى ‏.‏",
+        "translation": "Ata bin Yesâr (r.a.)'den; Şöyle demiştir: Ben Ebû Eyyûb el-Ensâri (r.a.)'a: Resulullah (Sallallahu Aleyhi ve Sellem), hayatta iken sizde (sayı bakımından) bayram kurbanları nasıl idi? diye sordum. Ebû Eyyûb (r.a.): Nebi (Sallallahu Aleyhi ve Sellemî, hayatta iken adam kendisi ve ev halkı için bir aded davan bayramda kurban ederdi, (ve ondan) yiyerlerdi, yedirirlerdi. (O devirden) sonra halk (çok sayıda kurban kesmekle) iftihar etmeye başladı ve durum gördüğün hale dönüştü, dedi",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Shuaib Al Arnaut",
+                "grade": "Hasan Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Sahih"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3148,
+        "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ مَنْصُورٍ، أَنْبَأَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، وَمُحَمَّدُ بْنُ يُوسُفَ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، جَمِيعًا عَنْ سُفْيَانَ الثَّوْرِيِّ، عَنْ بَيَانٍ، عَنِ الشَّعْبِيِّ، عَنْ أَبِي سَرِيحَةَ، قَالَ حَمَلَنِي أَهْلِي عَلَى الْجَفَاءِ بَعْدَمَا عَلِمْتُ مِنَ السُّنَّةِ كَانَ أَهْلُ الْبَيْتِ يُضَحُّونَ بِالشَّاةِ وَالشَّاتَيْنِ وَالآنَ يُبَخِّلُنَا جِيرَانُنَا ‏.‏",
+        "translation": "Ebû Serîha (Huzeyfe bin Esîd (r.a.)'den; Şöyle demiştir: Ben sünneti bildikten sonra ev halkım beni (çok sayıda kurban kesmeye) zorladılar. Ev halkı bir davarı veya iki davarı bayramda kurban ederlerdi. Şimdi (bir veya iki davarı kurban etmekle yetinirsek) komşularımız bizi cimrilikle itham ederler. Not: Zevaid'de şöyle denilmiştir: Bunun senedi sahih ve ravileri sıka (güvenilir) zatlardır",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih Isnaad"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Sahih Isnaad"
+            },
+            {
+                "name": "Shuaib Al Arnaut",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Sahih"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3149,
+        "arabic": "حَدَّثَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ الْحَمَّالُ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أُمِّ سَلَمَةَ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ قَالَ ‏ \"‏ إِذَا دَخَلَ الْعَشْرُ وَأَرَادَ أَحَدُكُمْ أَنْ يُضَحِّيَ فَلاَ يَمَسَّ مِنْ شَعَرِهِ وَلاَ بَشَرِهِ شَيْئًا ‏\"‏ ‏.‏",
+        "translation": "Ümmü Seleme (r.anha)'dan rivayet edildiğine göre; Nebi (Sallallahu Aleyhi ve Seliem) şöyle buyurmuştur: «Zilhicce ayının ilk on günü girip de biriniz bayramda kurban kesmek istediği zaman artık (kurbanını kesinceye kadar) kendi vücûdunun kıllarından ve derisinden hiç bir şeye dokunmasın.»",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Shuaib Al Arnaut",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Sahih Muslim"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3150,
+        "arabic": "حَدَّثَنَا حَاتِمُ بْنُ بَكْرٍ الضَّبِّيُّ أَبُو عَمْرٍو، حَدَّثَنَا مُحَمَّدُ بْنُ بَكْرٍ الْبُرْسَانِيُّ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ سَعِيدِ بْنِ يَزِيدَ بْنِ إِبْرَاهِيمَ، حَدَّثَنَا أَبُو قُتَيْبَةَ، وَيَحْيَى بْنُ كَثِيرٍ، قَالُوا حَدَّثَنَا شُعْبَةُ، عَنْ مَالِكِ بْنِ أَنَسٍ، عَنْ عَمْرِو بْنِ مُسْلِمٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أُمِّ سَلَمَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏ \"‏ مَنْ رَأَى مِنْكُمْ هِلاَلَ ذِي الْحِجَّةِ فَأَرَادَ أَنْ يُضَحِّيَ فَلاَ يَقْرَبَنَّ لَهُ شَعَرًا وَلاَ ظُفْرًا ‏\"‏ ‏.‏",
+        "translation": "Ümmü Seleme (r.anha)'dan rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Sizden kim Zilhicce ayının hilâlini görüp de bayramda kurban kesmek isterse artık (kurbanını kesinceye kadar) vücudundaki kıllara ve tırnaklara yaklaşmasın.»",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Shuaib Al Arnaut",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Sahih Muslim"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3151,
+        "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا إِسْمَاعِيلُ ابْنُ عُلَيَّةَ، عَنْ أَيُّوبَ، عَنْ مُحَمَّدِ بْنِ سِيرِينَ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ رَجُلاً، ذَبَحَ يَوْمَ النَّحْرِ قَبْلَ الصَّلاَةِ فَأَمَرَهُ النَّبِيُّ ـ صلى الله عليه وسلم ـ أَنْ يُعِيدَ ‏.‏",
+        "translation": "Enes bin Mâlik (r.a.)'den rivayet edildiğine göre: Bir adam kurban bayramının ilk günü, yâni bayram namazından önce kurban kesti. Sonra Nebi (Sallallahu Aleyhi ve Sellem), ona (kurban kesmeyi) iade etmesini (yâni yeniden kurban kesmesini) emretti",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Shuaib Al Arnaut",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Sahih - Agreed Upon"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3152,
+        "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الأَسْوَدِ بْنِ قَيْسٍ، عَنْ جُنْدَبٍ الْبَجَلِيِّ، أَنَّهُ سَمِعَهُ يَقُولُ شَهِدْتُ الأَضْحَى مَعَ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ فَذَبَحَ أُنَاسٌ قَبْلَ الصَّلاَةِ فَقَالَ النَّبِيُّ ـ صلى الله عليه وسلم ـ ‏ \"‏ مَنْ كَانَ ذَبَحَ مِنْكُمْ قَبْلَ الصَّلاَةِ فَلْيُعِدْ أُضْحِيَّتَهُ وَمَنْ لاَ فَلْيَذْبَحْ عَلَى اسْمِ اللَّهِ ‏\"‏ ‏.‏",
+        "translation": "Cündeb (bin Abdillah bin Süfyân) el-Becelî (r.a.)'den; Şöyle demiştir: Ben Kurban bayramının ilk günü Resulullah (Sallallahu Aleyhi ve Sellem)'in beraberinde idim. Bâzı kimseler kurbanlarını bayram namazından önce kestiler. Bunun üzerine Nebi (Sallallahu Aleyhi ve Sellem) şöyle buyurdu: «Sizden kim kurbanını bayram namazından önce kestiyse kurbanını iade etsin (yani yeniden kurban kessin). Kim de henüz kesmemiş ise Bismillah diyerek kessin.»",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Shuaib Al Arnaut",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Sahih - Agreed Upon"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3153,
+        "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو خَالِدٍ الأَحْمَرُ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ عَبَّادِ بْنِ تَمِيمٍ، عَنْ عُوَيْمِرِ بْنِ أَشْقَرَ، أَنَّهُ ذَبَحَ قَبْلَ الصَّلاَةِ فَذَكَرَهُ لِلنَّبِيِّ ـ صلى الله عليه وسلم ـ فَقَالَ ‏ \"‏ أَعِدْ أُضْحِيَّتَكَ ‏\"‏ ‏.‏",
+        "translation": "Uveymir bin Eşkar (r.a.)'dea rivayet edildiğine göre kendisi kurbanını bayram namazından önce kesmiş, sonra durumu Nebi (Sallallahu Aleyhi ve Sellem)'e arzetmiş. Bunun üzerine Nebi (Sallallahu Aleyhi ve Sellem): «Tekrar kurban kes» buyurmuştur. Not: Zevaid'de şöyle denilmiştir: Bunun ravlleri sıka. (güvenilir) kimselerdir. Fakat sened munkati (kesik)dir. Çünkü el-Harız bin Hacer, Abbad bin Temim'in Uveymir bin Eşkar'den hadIs işitmediğini söylemiştir",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Sahih Lighairihi"
+            },
+            {
+                "name": "Shuaib Al Arnaut",
+                "grade": "Sahih Lighairihi"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Sahih"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3154,
+        "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ الأَعْلَى، عَنْ خَالِدٍ الْحَذَّاءِ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَبِي زَيْدٍ، - قَالَ أَبُو بَكْرٍ وَقَالَ غَيْرُ عَبْدِ الأَعْلَى عَنْ عَمْرِو بْنِ بُجْدَانَ، عَنْ أَبِي زَيْدٍ، - ح وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى أَبُو مُوسَى، حَدَّثَنَا عَبْدُ الصَّمَدِ بْنُ عَبْدِ الْوَارِثِ، حَدَّثَنَا أَبِي، عَنْ خَالِدٍ الْحَذَّاءِ، عَنْ أَبِي قِلاَبَةَ، عَنْ عَمْرِو بْنِ بُجْدَانَ، عَنْ أَبِي زَيْدٍ الأَنْصَارِيِّ، قَالَ مَرَّ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ بِدَارٍ مِنْ دُورِ الأَنْصَارِ فَوَجَدَ رِيحَ قُتَارٍ فَقَالَ ‏\"‏ مَنْ هَذَا الَّذِي ذَبَحَ ‏\"‏ ‏.‏ فَخَرَجَ إِلَيْهِ رَجُلٌ مِنَّا فَقَالَ أَنَا يَا رَسُولَ اللَّهِ ذَبَحْتُ قَبْلَ أَنْ أُصَلِّيَ لأُطْعِمَ أَهْلِي وَجِيرَانِي ‏.‏ فَأَمَرَهُ أَنْ يُعِيدَ ‏.‏ فَقَالَ لاَ وَاللَّهِ الَّذِي لاَ إِلَهَ إِلاَّ هُوَ مَا عِنْدِي إِلاَّ جَذَعٌ أَوْ حَمَلٌ مِنَ الضَّأْنِ ‏.‏ قَالَ ‏\"‏ اذْبَحْهَا وَلَنْ تُجْزِئَ جَذَعَةٌ عَنْ أَحَدٍ بَعْدَكَ ‏\"‏ ‏.‏",
+        "translation": "Ebû Zeyd el-Ensârî (r.a.)'den; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) Ensâr'ın evlerinden birinin yanından geçti de pişirilmekte olan et kokusunu duydu da bunun üzerine: «Şu boğazlayan adam kimdir?» diye sordu. Bizden bir adam Onun huzuruna çıkarak: Benim, Yâ Resûlallah. Çoluk çocuğuma ve komşularıma (et) yedireyim diye ben bayram namazını kılmadan önce kurbanımı boğazladım, dedi. Resul i Ekrem (Sallallahu Aleyhi ve Sellem) de adam'a yeniden kurban kesmesini emretti. Adam da: Kendisinden başka ilâh olmayan Allah'a yemin ederim ki (kurban edeceğim başka hayvan) yoktur. Benim yanımda ceza' (yâni yaşça küçük hayvan) veya kuzudan başkası yoktur, dedi. Resul i Ekrem (Sallallahu Aleyhi ve Sellem): Cezaa'yı boğazla, fakat cezaa, senden sonra hiç kimse için kifayet etmez (yâni kurban olamaz), buyurdu",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Shuaib Al Arnaut",
+                "grade": "Sahih Lighairihi"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Isnaad Hasan"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3155,
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، سَمِعْتُ قَتَادَةَ، يُحَدِّثُ عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ لَقَدْ رَأَيْتُ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ يَذْبَحُ أُضْحِيَّتَهُ بِيَدِهِ وَاضِعًا قَدَمَهُ عَلَى صِفَاحِهَا ‏.‏",
+        "translation": "Enes bin Mâlik (r.a.)'den; Şöyle demiştir: And olsun ki ben Resulullah (Sallallahu Aleyhi ve Sellem)'i ayağını kurbanının (sağ) yanına basarak, kendi eliyle onu boğazlarken gördüm",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Shuaib Al Arnaut",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Sahih - Agreed Upon"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3156,
+        "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ سَعْدِ بْنِ عَمَّارِ بْنِ سَعْدٍ، مُؤَذِّنِ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ حَدَّثَنِي أَبِي عَنْ أَبِيهِ عَنْ جَدِّهِ أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ ذَبَحَ أُضْحِيَّتَهُ عِنْدَ طَرَفِ الزُّقَاقِ طَرِيقِ بَنِي زُرَيْقٍ بِيَدِهِ بِشَفْرَةٍ ‏.‏",
+        "translation": "Resulullah (Sallallahu Aleyhi ve Sellem)\"in müezzini Sa'd (bin Aiz el-Karaz) (r.a.)*den rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem), kurbanını Zürayk oğulları yolu olan sokağın kenarında kendi eliyle, keskin bir bıçakla boğazladı",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Daif Isnaad"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Daif Isnaad"
+            },
+            {
+                "name": "Shuaib Al Arnaut",
+                "grade": "Daif"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Daif"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3157,
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ مَعْمَرٍ، حَدَّثَنَا مُحَمَّدُ بْنُ بَكْرٍ الْبُرْسَانِيُّ، أَنْبَأَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي الْحَسَنُ بْنُ مُسْلِمٍ، أَنَّ مُجَاهِدًا، أَخْبَرَهُ أَنَّ عَبْدَ الرَّحْمَنِ بْنَ أَبِي لَيْلَى أَخْبَرَهُ أَنَّ عَلِيَّ بْنَ أَبِي طَالِبٍ أَخْبَرَهُ أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ أَمَرَهُ أَنْ يَقْسِمَ بُدْنَهُ كُلَّهَا لُحُومَهَا وَجُلُودَهَا وَجِلاَلَهَا لِلْمَسَاكِينِ ‏.‏",
+        "translation": "Alî bin Ebî Tâlib (r.a.)'dan rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem) kendisine. Haremi Şerife (Veda Haccında) sevkettiği bütün kurbanlarının etlerini, derilerini ve çullarını fakirlere dağıtmasını emretmiştir",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Shuaib Al Arnaut",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Isnaad Sahih Agreed Upon"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3158,
+        "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ، عَنْ أَبِيهِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ أَمَرَ مِنْ كُلِّ جَزُورٍ بِبَضْعَةٍ فَجُعِلَتْ فِي قِدْرٍ فَأَكَلُوا مِنَ اللَّحْمِ وَحَسَوْا مِنَ الْمَرَقِ ‏.‏",
+        "translation": "Câbir bin Abdillah (r.a.)'dan rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem) kurban ettiği her deveden bir parça etin alınmasını emretti. (Toplanan) etler bir çömleğe konulup pişirildi. Sonra Resul-i Ekrem (Sallallahu Aleyhi ve Sellem) ve beraberindekiler etten yediler ve et suyundan içtiler. Not: Bu senedin ravilerinin sıka (güvenilir) zatlar olduğu, Zevaid'de bildirilmiştir",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Shuaib Al Arnaut",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Hasan"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3159,
+        "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَابِسٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ إِنَّمَا نَهَى رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ عَنْ لُحُومِ الأَضَاحِيِّ لِجَهْدِ النَّاسِ ثُمَّ رَخَّصَ فِيهَا ‏.‏",
+        "translation": "Âişe (r.anha)'dan rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem), halk'ın maddi sıkıntısı nedeniyle kurbanların etlerini (saklamayı) yasaklamış. Sonra (sıkıntı kalmayınca) kurban etleri (ni saklamak) hakkında ruhsat vermiştir",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Shuaib Al Arnaut",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Sahih - Agreed Upon"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3160,
+        "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ الأَعْلَى بْنُ عَبْدِ الأَعْلَى، عَنْ خَالِدٍ الْحَذَّاءِ، عَنْ أَبِي الْمَلِيحِ، عَنْ نُبَيْشَةَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ ‏ \"‏ كُنْتُ نَهَيْتُكُمْ عَنْ لُحُومِ الأَضَاحِيِّ فَوْقَ ثَلاَثَةِ أَيَّامٍ فَكُلُوا وَادَّخِرُوا ‏\"‏ ‏.‏",
+        "translation": "Nübeyşe (bin Abdİllah bin Amr) (r.a.)'den ri-vâyet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: Ben sizi üç günden fazla kurban etlerinden (yâni saklayıp yemekten) menetmiştûn. Bundan sonra yeyiniz ve saklayınız.»",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Shuaib Al Arnaut",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Sahih"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3161,
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا أَبُو بَكْرٍ الْحَنَفِيُّ، حَدَّثَنَا أُسَامَةُ بْنُ زَيْدٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ أَنَّهُ كَانَ يَذْبَحُ بِالْمُصَلَّى ‏.‏",
+        "translation": "İbn-i Ömer (r.a.)'dan rivayet edildiğine göre: Nebi (Sallallahu Aleyhi ve Sellem), kurbanını musalla'da (yâni bayram namazını kıldırdığı alanda) boğazlardı",
+        "grades": [
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Muhammad Fouad Abd al-Baqi",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Shuaib Al Arnaut",
+                "grade": "Hasan"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Isnaad Hasan"
+            }
+        ]
+    }
+]

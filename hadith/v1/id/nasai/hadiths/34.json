@@ -1,0 +1,787 @@
+[
+    {
+        "hadithnumber": 3720,
+        "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا خَالِدٌ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ عَمْرِو بْنِ دِينَارٍ، قَالَ سَمِعْتُ طَاوُسًا، يُحَدِّثُ عَنْ زَيْدِ بْنِ ثَابِتٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ الْعُمْرَى هِيَ لِلْوَارِثِ ‏\"‏ ‏.‏",
+        "translation": "Telah mengabarkan kepada kami [Muhammad bin Abdul A'la] berkata; telah menceritakan kepada kami [Khalid] berkata; telah menceritakan kepada kami [Syu'bah] dari ['Amru bin Dinar] berkata; aku mendengar [Thawus] menceritakan dari [Zaid bin Tsabit] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"'Umra adalah untuk pewaris",
+        "grades": [
+            {
+                "name": "Abu Ghuddah",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Hasan"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3721,
+        "arabic": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا أَبُو دَاوُدَ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ أَخْبَرَنِي عَمْرُو بْنُ دِينَارٍ، قَالَ سَمِعْتُ طَاوُسًا، يُحَدِّثُ عَنْ حُجْرٍ الْمَدَرِيِّ، عَنْ زَيْدِ بْنِ ثَابِتٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ الْعُمْرَى لِلْوَارِثِ ‏\"‏ ‏.‏",
+        "translation": "Telah mengabarkan kepada kami ['Amru bin Ali] berkata; telah menceritakan kepada kami [Abu Daud] berkata; telah menceritakan kepada kami [Syu'bah] berkata; telah mengabarkan kepadaku ['Amru bin Dinar] berkata; aku mendengar [Thawus] menceritakan dari [Hujr Al Madari] dari [Zaid bin Tsabit], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"'Umra adalah untuk pewaris",
+        "grades": [
+            {
+                "name": "Abu Ghuddah",
+                "grade": "Sahih Isnaad"
+            },
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih Isnaad"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Hasan"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3722,
+        "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ يَزِيدَ، عَنْ سُفْيَانَ، عَنْ عَمْرٍو، عَنْ طَاوُسٍ، عَنْ حُجْرٍ الْمَدَرِيِّ، عَنْ زَيْدِ بْنِ ثَابِتٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَضَى بِالْعُمْرَى لِلْوَارِثِ ‏.‏",
+        "translation": "Telah mengabarkan kepada kami [Muhammad bin Abdullah bin Yazid] dari [Sufyan] dari ['Amru] dari [Thawus] dari [Hujr Al Madariji] dari [Zaid bin Tsabit], bahwa Nabi shallallahu 'alaihi wasallam memutuskan bahwa 'Umra adalah untuk pewaris",
+        "grades": [
+            {
+                "name": "Abu Ghuddah",
+                "grade": "Sahih Isnaad"
+            },
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih Isnaad"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Hasan"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3722.2,
+        "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، عَنْ سُفْيَانَ، عَنْ عَمْرٍو، عَنْ طَاوُسٍ، عَنْ حُجْرٍ الْمَدَرِيِّ، عَنْ زَيْدِ بْنِ ثَابِتٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَضَى بِالْعُمْرَى لِلْوَارِثِ ‏.‏",
+        "translation": "",
+        "grades": []
+    },
+    {
+        "hadithnumber": 3723,
+        "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عُبَيْدِ اللَّهِ بْنِ يَزِيدَ بْنِ إِبْرَاهِيمَ، قَالَ أَخْبَرَنِي أَبِي أَنَّهُ، عَرَضَ عَلَىَّ مَعْقِلٌ عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ حُجْرٍ الْمَدَرِيِّ، عَنْ زَيْدِ بْنِ ثَابِتٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَنْ أَعْمَرَ شَيْئًا فَهُوَ لِمُعْمَرِهِ مَحْيَاهُ وَمَمَاتَهُ وَلاَ تَرْقُبُوا فَمَنْ أَرْقَبَ شَيْئًا فَهُوَ لِسَبِيلِهِ ‏\"‏ ‏.‏",
+        "translation": "Telah mengabarkan kepada kami [Muhammad bin 'Ubaidullah bin Yazid bin Ibrahim] berkata; telah mengabarkan kepadaku [ayahku] bahwasanya [Ma'qil] telah menyampaikan kepadaku dari ['Amru bin Dinar] dari [Hujr Al Madari] dari [Zaid bin Tsabit] berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa memberikan sesuatu dengan system Umra maka sesuatu tersebut milik orang yang diberi, disaat hidup dan matinya. Dan janganlah kalian memberi dengan system Ruqba, barangsiapa memberi sesuatu dengan system Ruqba maka sesuatu tersebut menjadi miliknya",
+        "grades": [
+            {
+                "name": "Abu Ghuddah",
+                "grade": "Sahih Isnaad"
+            },
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih Isnaad"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Hasan"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3724,
+        "arabic": "أَخْبَرَنِي زَكَرِيَّا بْنُ يَحْيَى، قَالَ حَدَّثَنَا زَيْدُ بْنُ أَخْزَمَ، قَالَ أَنْبَأَنَا مُعَاذُ بْنُ هِشَامٍ، قَالَ حَدَّثَنِي أَبِي، عَنْ قَتَادَةَ، قَالَ حَدَّثَنَا عَمْرُو بْنُ دِينَارٍ، عَنْ طَاوُسٍ، عَنِ الْحَجُورِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ الْعُمْرَى جَائِزَةٌ ‏\"‏ ‏.‏",
+        "translation": "Telah mengabarkan kepada kami [Zakaria bin Yahya] berkata; telah menceritakan kepada kami [Zaid bin Akhzam] berkata; telah memberitakan kepada kami [Mu'adz bin Hisyam] berkata; telah menceritakan kepada kami [ayahku] dari [Qatadah] berkata; telah menceritakan kepada kami ['Amru bin Dinar] dari [Thawus] dari [Al Hajuri] dari [Abdullah bin Abbas] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Umra adalah boleh",
+        "grades": [
+            {
+                "name": "Abu Ghuddah",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Sahih"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3725,
+        "arabic": "أَخْبَرَنَا هَارُونُ بْنُ مُحَمَّدِ بْنِ بَكَّارِ بْنِ بِلاَلٍ، قَالَ حَدَّثَنَا أَبِي قَالَ، حَدَّثَنَا سَعِيدٌ، - هُوَ ابْنُ بَشِيرٍ - عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ إِنَّ الْعُمْرَى جَائِزَةٌ ‏\"‏ ‏.‏",
+        "translation": "Telah mengabarkan kepada kami [Harun bin Muhammad bin Bakkar bin Bilal] berkata; telah menceritakan kepada kami [ayahku] ia berkata; telah menceritakan kepada kami [Sa'id] -yaitu Ibnu Basyir- dari ['Amru bin Dinar] dari [Thawus] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Sesungguhnya Umra adalah boleh",
+        "grades": [
+            {
+                "name": "Abu Ghuddah",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Sahih"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3726,
+        "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ حَاتِمٍ، قَالَ حَدَّثَنَا حِبَّانُ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، قَالَ حَدَّثَنَا مَكْحُولٌ، عَنْ طَاوُسٍ، بَتَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم الْعُمْرَى وَالرُّقْبَى ‏.‏",
+        "translation": "Telah mengabarkan kepada kami [Muhammad bin Hatim] berkata; telah menceritakan kepada kami [Hibban] berkata; telah memberitakan kepada kami [Abdullah] dari [Muhammad bin Ishaq] ia berkata; telah menceritakan kepada kami [Makhul] dari [Thawus] bahwa Rasulullah shallallahu 'alaihi wasallam membedakan antara Umra dan Ruqba",
+        "grades": [
+            {
+                "name": "Abu Ghuddah",
+                "grade": "Sahih Lighairihi"
+            },
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Sahih"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3727,
+        "arabic": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا أَبُو دَاوُدَ، قَالَ حَدَّثَنَا بِسْطَامُ بْنُ مُسْلِمٍ، قَالَ حَدَّثَنَا مَالِكُ بْنُ دِينَارٍ، عَنْ عَطَاءٍ، عَنْ جَابِرٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم خَطَبَهُمْ فَقَالَ ‏ \"‏ الْعُمْرَى جَائِزَةٌ ‏\"‏ ‏.‏",
+        "translation": "Telah mengabarkan kepada kami ['Amru bin Ali] berkata; telah menceritakan kepada kami [Abu Daud] berkata; telah menceritakan kepada kami [Bistham bin Muslim] berkata; telah menceritakan kepada kami [Malik bin Dinar] dari ['Atha] dari [Jabir], bahwa Rasulullah shallallahu 'alaihi wasallam berkhutbah kepada mereka, beliau bersabda: \"Umra itu boleh",
+        "grades": [
+            {
+                "name": "Abu Ghuddah",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Isnaad Sahih"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3728,
+        "arabic": "أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ، قَالَ أَنْبَأَنَا عُبَيْدُ اللَّهِ، عَنْ إِسْرَائِيلَ، عَنْ عَبْدِ الْكَرِيمِ، عَنْ عَطَاءٍ، قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنِ الْعُمْرَى وَالرُّقْبَى ‏.‏ قُلْتُ وَمَا الرُّقْبَى قَالَ يَقُولُ الرَّجُلُ لِلرَّجُلِ هِيَ لَكَ حَيَاتَكَ ‏.‏ فَإِنْ فَعَلْتُمْ فَهُوَ جَائِزَةٌ ‏.‏",
+        "translation": "Telah mengabarkan kepada kami [Ahmad bin Sulaiman] berkata; telah memberitakan kepada kami ['Ubaidullah] dari [Israil] dari [Abdul Karim] dari ['Atha] berkata, \"Rasulullah shallallahu 'alaihi wasallam melarang dari Umra dan Ruqba. Aku lalu bertanya, \"Apakah Ruqba itu? Ia menjawab, \"Seseorang berkata kepada orang lain, 'Ini untukmu sepanjang hidupmu.' Maka jika kalian melakukannya maka hal tersebut adalah boleh",
+        "grades": [
+            {
+                "name": "Abu Ghuddah",
+                "grade": "Sahih Lighairihi"
+            },
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Sahih"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3729,
+        "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا مُحَمَّدٌ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ سَمِعْتُ قَتَادَةَ، يُحَدِّثُ عَنْ عَطَاءٍ، عَنْ جَابِرٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ الْعُمْرَى جَائِزَةٌ ‏\"‏ ‏.‏",
+        "translation": "Telah mengabarkan kepada kami [Muhammad bin Al Mutsanna] berkata; telah menceritakan kepada kami [Muhammad] berkata; telah menceritakan kepada kami [Syu'bah] berkata; aku mendengar [Qatadah] menceritakan dari ['Atha] dari [Jabir] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"'Umra adalah boleh",
+        "grades": [
+            {
+                "name": "Abu Ghuddah",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Sahih - Agreed Upon"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3730,
+        "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ حَاتِمٍ، قَالَ أَنْبَأَنَا حِبَّانُ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ عَبْدِ الْمَلِكِ بْنِ أَبِي سُلَيْمَانَ، عَنْ عَطَاءٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَنْ أُعْطِيَ شَيْئًا حَيَاتَهُ فَهُوَ لَهُ حَيَاتَهُ وَمَوْتَهُ ‏\"‏ ‏.‏",
+        "translation": "Telah mengabarkan kepada kami [Muhammad bin Hatim] berkata; telah memberitakan kepada kami [Hibban] berkata; telah memberitakan kepada kami [Abdullah] dari [Abdul Malik bin Abu Sulaiman] dari ['Atha] Ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa diberi sesuatu selama hidupnya, maka sesuatu tersebut miliknya sepanjang hidup dan matinya",
+        "grades": [
+            {
+                "name": "Abu Ghuddah",
+                "grade": "Sahih Lighairihi"
+            },
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Sahih"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3731,
+        "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ يَزِيدَ، عَنْ سُفْيَانَ، عَنِ ابْنِ جُرَيْجٍ، عَنْ عَطَاءٍ، عَنْ جَابِرٍ، رضى الله عنه أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ تُرْقِبُوا وَلاَ تُعْمِرُوا فَمَنْ أُرْقِبَ أَوْ أُعْمِرَ شَيْئًا فَهُوَ لِوَرَثَتِهِ ‏\"‏ ‏.‏",
+        "translation": "",
+        "grades": [
+            {
+                "name": "Abu Ghuddah",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Sahih"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3732,
+        "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا عَبْدُ الرَّزَّاقِ، قَالَ أَنْبَأَنَا ابْنُ جُرَيْجٍ، عَنْ عَطَاءٍ، أَنْبَأَنَا حَبِيبُ بْنُ أَبِي ثَابِتٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ عُمْرَى وَلاَ رُقْبَى فَمَنْ أُعْمِرَ شَيْئًا أَوْ أُرْقِبَهُ فَهُوَ لَهُ حَيَاتَهُ وَمَمَاتَهُ ‏\"‏ ‏.‏",
+        "translation": "Telah mengabarkan kepada kami [Ishaq bin Ibrahim] berkata; telah memberitakan kepada kami [Abdurrazaq] berkata; telah memberitakan kepada kami [Ibnu Juraij] dari ['Atha] telah memberitakan kepada kami [Habib bin Abu Tsabit] dari [Ibnu Umar], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tidak ada Umra atau ruqba, barangsiapa akan melakukan umra atau ruqba, maka ia adalah untuknya selama hidup atau matinya",
+        "grades": [
+            {
+                "name": "Abu Ghuddah",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Sahih"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3733,
+        "arabic": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ بَكْرٍ، ‏{‏ قَالَ أَنْبَأَنَا ابْنُ جُرَيْجٍ، ‏}‏ قَالَ أَخْبَرَنِي عَطَاءٌ، عَنْ حَبِيبِ بْنِ أَبِي ثَابِتٍ، عَنِ ابْنِ عُمَرَ، وَلَمْ يَسْمَعْهُ مِنْهُ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لاَ عُمْرَى وَلاَ رُقْبَى فَمَنْ أُعْمِرَ شَيْئًا أَوْ أُرْقِبَهُ فَهُوَ لَهُ حَيَاتَهُ وَمَمَاتَهُ ‏\"‏ ‏.‏ قَالَ عَطَاءٌ هُوَ لِلآخَرِ ‏.‏",
+        "translation": "Telah mengabarkan kepada kami ['Ubaidullah bin Sa'id] berkata; telah menceritakan kepada kami [Muhammad bin Bakr] berkata; telah mengabarkan kepada kami [Ibnu Juraij] berkata; telah mengabarkan kepadaku ['Atha] dari [Habib bin Abu Tsabit] dari [Ibnu Umar] dan ia belum mendengarnya darinya, ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tidak ada 'Umra dan Ruqba, barangsiapa yang diberi sesuatu dengan system umra atau ruqba maka sesuatu tersebut adalah miliknya, selama hidup dan matinya.\" ['Atha] berkata, \"Sesuatu tersebut untuk orang lain",
+        "grades": [
+            {
+                "name": "Abu Ghuddah",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Hasan"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3734,
+        "arabic": "أَخْبَرَنِي عَبْدَةُ بْنُ عَبْدِ الرَّحِيمِ، قَالَ أَنْبَأَنَا وَكِيعٌ، عَنْ يَزِيدَ بْنِ زِيَادِ بْنِ أَبِي الْجَعْدِ، عَنْ حَبِيبِ بْنِ أَبِي ثَابِتٍ، قَالَ سَمِعْتُ ابْنَ عُمَرَ، يَقُولُ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنِ الرُّقْبَى وَقَالَ ‏ \"‏ مَنْ أُرْقِبَ رُقْبَى فَهُوَ لَهُ ‏\"‏ ‏.‏",
+        "translation": "Telah mengabarkan kepada kami ['Abdah bin Abdurrahim] berkata; telah memberitakan kepada kami [Waki'] dari [Yazid bin Abu Al Ja'd] dari [Habib bin Abu Tsabit] berkata; aku mendengar [Ibnu Umar] berkata, \"Rasulullah shallallahu 'alaihi wasallam melarang dari ruqba. Beliau bersabda: \"Barangsiapa diberi dengan system ruqba maka sesuatu sesuatu tersebut menjadi miliknya",
+        "grades": [
+            {
+                "name": "Abu Ghuddah",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Hasan"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3735,
+        "arabic": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا أَبُو عَاصِمٍ، قَالَ حَدَّثَنَا ابْنُ جُرَيْجٍ، قَالَ أَخْبَرَنِي أَبُو الزُّبَيْرِ، أَنَّهُ سَمِعَ جَابِرًا، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَنْ أُعْمِرَ شَيْئًا فَهُوَ لَهُ حَيَاتَهُ وَمَمَاتَهُ ‏\"‏ ‏.‏",
+        "translation": "",
+        "grades": [
+            {
+                "name": "Abu Ghuddah",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Sahih Muslim"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3736,
+        "arabic": "أَخْبَرَنِي مُحَمَّدُ بْنُ إِبْرَاهِيمَ بْنِ صُدْرَانَ، عَنْ بِشْرِ بْنِ الْمُفَضَّلِ، قَالَ حَدَّثَنَا الْحَجَّاجُ الصَّوَّافُ، عَنْ أَبِي الزُّبَيْرِ، قَالَ حَدَّثَنَا جَابِرٌ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ يَا مَعْشَرَ الأَنْصَارِ امْسِكُوا عَلَيْكُمْ - يَعْنِي أَمْوَالَكُمْ - لاَ تُعْمِرُوهَا فَإِنَّهُ مَنْ أَعْمَرَ شَيْئًا فَإِنَّهُ لِمَنْ أُعْمِرَهُ حَيَاتَهُ وَمَمَاتَهُ ‏\"‏ ‏.‏",
+        "translation": "Telah mengabarkan kepadaku [Muhammad bin Ibrahim bin Shudran] dari [Bisyr bin Al Mufadhdhal] berkata; telah menceritakan kepada kami [Al Hajjaj Ash Shawwaf] dari [Abu Az Zubair] berkata; telah menceritakan kepada kami [Jabir] berkata; Rasulullah shallallahu 'alaihi wasallam: \"Wahai orang-orang Anshar, tahanlah harta-harta kalian janganlah kalian memberikannya dengan system umra, sesungguhnya orang yang memberikan sesuatu dengan system umra maka sesuatu tersebut adalah milik orang yang diberi selama hidup dan matinya",
+        "grades": [
+            {
+                "name": "Abu Ghuddah",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Sahih Muslim"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3737,
+        "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا خَالِدٌ، عَنْ هِشَامٍ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ امْسِكُوا عَلَيْكُمْ أَمْوَالَكُمْ وَلاَ تُعْمِرُوهَا فَمَنْ أُعْمِرَ شَيْئًا حَيَاتَهُ فَهُوَ لَهُ حَيَاتَهُ وَبَعْدَ مَوْتِهِ ‏\"‏ ‏.‏",
+        "translation": "Telah mengabarkan kepada kami [Muhammad bin Abdul A'la] berkata; telah menceritakan kepada kami [Khalid] dari [Hisyam] dari [Abu Az Zubair] dari [Jabir], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tahanlah harta kalian dan janganlah memberikannya dengan system umra, barangsiapa diberi sesuatu dengan system umra maka sesuatu tersebut adalah miliknya selama hidup dan matinya",
+        "grades": [
+            {
+                "name": "Abu Ghuddah",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Sahih"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3738,
+        "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا خَالِدٌ، عَنْ دَاوُدَ بْنِ أَبِي هِنْدٍ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ الرُّقْبَى لِمَنْ أُرْقِبَهَا ‏\"‏ ‏.‏",
+        "translation": "",
+        "grades": [
+            {
+                "name": "Abu Ghuddah",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Sahih"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3739,
+        "arabic": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ، قَالَ حَدَّثَنَا هُشَيْمٌ، عَنْ دَاوُدَ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ الْعُمْرَى جَائِزَةٌ لأَهْلِهَا وَالرُّقْبَى جَائِزَةٌ لأَهْلِهَا ‏\"‏ ‏.‏",
+        "translation": "Telah mengabarkan kepada kami [Ali bin Hujr] berkata; telah menceritakan kepada kami [Husyaim] dari [Daud] dari [Abu Az Zubair] dari [Jabir] berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"'Umra diperbolehkan bagi pemiliknya dan ruqba diperbolehkan bagi pemiliknya",
+        "grades": [
+            {
+                "name": "Abu Ghuddah",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Hasan"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3740,
+        "arabic": "أَخْبَرَنَا مَحْمُودُ بْنُ خَالِدٍ، قَالَ حَدَّثَنَا عُمَرُ، عَنِ الأَوْزَاعِيِّ، حَدَّثَنَا ابْنُ شِهَابٍ، قَالَ وَأَخْبَرَنِي عَمْرُو بْنُ عُثْمَانَ، أَنْبَأَنَا بَقِيَّةُ بْنُ الْوَلِيدِ، عَنِ الأَوْزَاعِيِّ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ جَابِرٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَنْ أُعْمِرَ عُمْرَى فَهِيَ لَهُ وَلِعَقِبِهِ يَرِثُهَا مَنْ يَرِثُهُ مِنْ عَقِبِهِ ‏\"‏ ‏.‏",
+        "translation": "Telah mengabarkan kepada kami [Mahmud bin Khalid] berkata; telah menceritakan kepada kami [Umar] dari [Al Auza'i] telah menceritakan kepada kami [Ibnu Syihab] berkata; dan telah mengabarkan kepadaku ['Amru bin Utsman] telah memberitakan kepadaku [Baqiyyah bin Al Walid] dari [Al Auza'i] dari [Az Zuhri] dari ['Urwah] dari [Jabir] berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa diberi Umra maka umra tersebut untuknya dan orang setelahnya, dan akan diwarisi oleh orang setelahnya",
+        "grades": [
+            {
+                "name": "Abu Ghuddah",
+                "grade": "Sahih Lighairihi"
+            },
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Sahih"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3741,
+        "arabic": "أَخْبَرَنَا عِيسَى بْنُ مُسَاوِرٍ، قَالَ حَدَّثَنَا الْوَلِيدُ، قَالَ حَدَّثَنَا أَبُو عَمْرٍو، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي سَلَمَةَ، عَنْ جَابِرٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ الْعُمْرَى لِمَنْ أُعْمِرَهَا هِيَ لَهُ وَلِعَقِبِهِ يَرِثُهَا مَنْ يَرِثُهُ مِنْ عَقِبِهِ ‏\"‏ ‏.‏",
+        "translation": "Telah mengabarkan kepada kami [Isa bin Musawir] berkata; telah menceritakan kepada kami [Al Walid] berkata; telah menceritakan kepada kami [Abu 'Amru] dari [Ibnu Syihab] dari [Abu Salamah] dari [Jabir] berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"'Umra itu untuk orang yang diberi dan orang yang setelahnya, dan akan diwarisi oleh orang setelahnya lagi",
+        "grades": [
+            {
+                "name": "Abu Ghuddah",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Sahih - Agreed Upon"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3742,
+        "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ هَاشِمٍ الْبَعْلَبَكِّيُّ، قَالَ حَدَّثَنَا الْوَلِيدُ، قَالَ حَدَّثَنَا الأَوْزَاعِيُّ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، وَأَبِي، سَلَمَةَ عَنْ جَابِرٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ الْعُمْرَى لِمَنْ أُعْمِرَهَا هِيَ لَهُ وَلِعَقِبِهِ يَرِثُهَا مَنْ يَرِثُهُ مِنْ عَقِبِهِ ‏\"‏ ‏.‏",
+        "translation": "Telah mengabarkan kepada kami [Muhammad bin Hasyim Al Ba'labaki] berkata; telah menceritakan kepada kami [Al Walid] berkata; telah menceritakan kepada kami [Al Auza'i] dari [Az Zuhri] dari ['Urwah] dan [Abu Salamah] dari [Jabir] berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Umra itu untuk orang yang diberi dengan system umra, dia miliknya dan milik orang setelahnya, dan akan diwarisi oleh orang yang mewarisinya setelahnya",
+        "grades": [
+            {
+                "name": "Abu Ghuddah",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Hasan"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3743,
+        "arabic": "أَخْبَرَنِي مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ عَبْدِ الرَّحِيمِ، قَالَ حَدَّثَنَا عَمْرُو بْنُ أَبِي سَلَمَةَ الدِّمَشْقِيُّ، عَنْ أَبِي عُمَرَ الصَّنْعَانِيِّ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ أَيُّمَا رَجُلٍ أَعْمَرَ رَجُلاً عُمْرَى لَهُ وَلِعَقِبِهِ فَهِيَ لَهُ وَلِمَنْ يَرِثُهُ مِنْ عَقِبِهِ مَوْرُوثَةٌ ‏\"‏ ‏.‏",
+        "translation": "Telah mengabarkan kepadaku [Muhammad bin Abdullah bin Abdurrahim] berkata; telah menceritakan kepada kami ['Amru bin Abu Salamah Ad Dimasyqi] dari [Abu Umar Ash Shan'ani] dari [Hisyam bin 'Urwah] dari [ayahnya] dari [Abdullah bin Az Zubair], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Siapapun lelaki yang memberikan umra kepada orang lain untuknya dan orang setelahnya, maka ia adalah miliknya dan milik orang yang mewarisi setelahnya sebagai warisan",
+        "grades": [
+            {
+                "name": "Abu Ghuddah",
+                "grade": "Sahih Isnaad"
+            },
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih Isnaad"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Isnaad Hasan"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3744,
+        "arabic": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ جَابِرٍ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ مَنْ أَعْمَرَ رَجُلاً عُمْرَى لَهُ وَلِعَقِبِهِ فَقَدْ قَطَعَ قَوْلُهُ حَقَّهُ وَهِيَ لِمَنْ أُعْمِرَ وَلِعَقِبِهِ ‏\"‏ ‏.‏",
+        "translation": "Telah mengabarkan kepada kami [Qutaibah bin Sa'id] berkata; telah menceritakan kepada kami [Al Laits] dari [Ibnu Syihab] dari [Abu Salamah bin 'Abdurrahman] dari [Jabir] berkata, \"Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa memberikan umra kepada orang lain untuknya dan orang setelahnya, maka perkataannya telah memutuskan haknya, dan umra tersebut milik orang yang diberi dan orang setelahnya",
+        "grades": [
+            {
+                "name": "Abu Ghuddah",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Hasan"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3745,
+        "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ سَلَمَةَ، وَالْحَارِثُ بْنُ مِسْكِينٍ، قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، عَنِ ابْنِ الْقَاسِمِ، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي سَلَمَةَ، عَنْ جَابِرٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ أَيُّمَا رَجُلٍ أُعْمِرَ عُمْرَى لَهُ وَلِعَقِبِهِ فَإِنَّهَا لِلَّذِي يُعْطَاهَا لاَ تَرْجِعُ إِلَى الَّذِي أَعْطَاهَا لأَنَّهُ أَعْطَى عَطَاءً وَقَعَتْ فِيهِ الْمَوَارِيثُ ‏\"‏ ‏.‏",
+        "translation": "Telah mengabarkan kepada kami [Muhammad bin Salamah] dan [Al Harits bin Miskin] dia membacakan dan aku yang mendengar, dari [Ibnu Al Qasim] dari [Malik] dari [Ibnu Syihab] dari [Abu Salamah] dari [Jabir] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Siapapun laki-laki yang diberi umra untuknya dan orang setelahnya, maka ia adalah milik orang yang diberi, tidak akan kembali kepada orang yang memberinya. Karena ia telah memberikan suatu pemberian, dan berlaku padanya pewarisan",
+        "grades": [
+            {
+                "name": "Abu Ghuddah",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Hasan"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3746,
+        "arabic": "أَخْبَرَنَا عِمْرَانُ بْنُ بَكَّارٍ، قَالَ حَدَّثَنَا أَبُو الْيَمَانِ، قَالَ حَدَّثَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ حَدَّثَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ، أَنَّ جَابِرًا، أَخْبَرَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَضَى أَنَّهُ مَنْ أَعْمَرَ رَجُلاً عُمْرَى لَهُ وَلِعَقِبِهِ فَإِنَّهَا لِلَّذِي أُعْمِرَهَا يَرِثُهَا مِنْ صَاحِبِهَا الَّذِي أَعْطَاهَا مَا وَقَعَ مِنْ مَوَارِيثِ اللَّهِ وَحَقِّهِ ‏.‏",
+        "translation": "Telah mengabarkan kepada kami [Imran bin Bakkar] berkata; telah menceritakan kepada kami [Abu Al Yaman] berkata; telah menceritakan kepada kami [Syu'aib] dari [Az Zuhri] berkata; telah menceritakan kepadaku [Abu Salamah bin 'Abdurrahman] bahwa [Jabir] telah mengabarkan kepadanya, bahwa Rasulullah shallallahu 'alaihi wasallam memberi putusan bahwa barangsiapa memberikan umra kepada orang lain, maka umra tersebut menjadi miliknya dan milik orang setelahnya. Sesungguhnya ia untuk orang yang diberi, ia mewarisi dari pemilik yang telah memberikan kepadanya, sesuatu yang berlaku dari warisan dan hak Allah",
+        "grades": [
+            {
+                "name": "Abu Ghuddah",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Hasan"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3747,
+        "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ عَبْدِ الْحَكَمِ، عَنِ ابْنِ أَبِي فُدَيْكٍ، قَالَ حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي سَلَمَةَ، عَنْ جَابِرٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَضَى فِيمَنْ أُعْمِرَ عُمْرَى لَهُ وَلِعَقِبِهِ فَهِيَ لَهُ بَتْلَةٌ لاَ يَجُوزُ لِلْمُعْطِي مِنْهَا شَرْطٌ وَلاَ ثُنْيَا ‏.‏ قَالَ أَبُو سَلَمَةَ لأَنَّهُ أَعْطَى عَطَاءً وَقَعَتْ فِيهِ الْمَوَارِيثُ فَقَطَعَتِ الْمَوَارِيثُ شَرْطَهُ ‏.‏",
+        "translation": "Telah mengabarkan kepada kami [Muhammad bin Abdullah bin Abdul Hakam] dari [Ibnu Abu Fudaik] berkata; telah menceritakan kepada kami [Ibnu Abu Dzi`b] dari [Ibnu Syihab] dari [Abu Salamah] dari [Jabir], bahwa Rasulullah shallallahu 'alaihi wasallam memberi putusan tentang orang yang menerima umra, bahwa umra tersebut adalah (menjadi) miliknya dan milik orang setelahnya, ia tidak bisa kembali kepada orang yang memberinya dan si pemberi pun tidak boleh memberikan dengan bersyarat.\" Abu Salamah berkata, \"Karena ia memberi suatu pemberian yang berlaku padanya pewarisan, sehingga pewarisan telah memutus syaratnya",
+        "grades": [
+            {
+                "name": "Abu Ghuddah",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Hasan"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3748,
+        "arabic": "أَخْبَرَنَا أَبُو دَاوُدَ، سُلَيْمَانُ بْنُ سَيْفٍ قَالَ حَدَّثَنَا يَعْقُوبُ، قَالَ حَدَّثَنَا أَبِي، عَنْ صَالِحٍ، عَنِ ابْنِ شِهَابٍ، أَنَّ أَبَا سَلَمَةَ، أَخْبَرَهُ عَنْ جَابِرٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ أَيُّمَا رَجُلٍ أَعْمَرَ رَجُلاً عُمْرَى لَهُ وَلِعَقِبِهِ قَالَ قَدْ أَعْطَيْتُكَهَا وَعَقِبَكَ مَا بَقِيَ مِنْكُمْ أَحَدٌ فَإِنَّهَا لِمَنْ أُعْطِيَهَا وَإِنَّهَا لاَ تَرْجِعُ إِلَى صَاحِبِهَا مِنْ أَجْلِ أَنَّهُ أَعْطَاهَا عَطَاءً وَقَعَتْ فِيهِ الْمَوَارِيثُ ‏\"‏ ‏.‏",
+        "translation": "Telah mengabarkan kepada kami [Abu Daud Sulaiman bin Saif] berkata; telah menceritakan kepada kami [Ya'qub] berkata; telah menceritakan kepada kami [ayahku] dari [Shalih] dari [Ibnu Syihab] bahwa [Abu Salamah] telah mengabarkan kepadanya dari [Jabir], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Siapapun laki-laki yang memberikan umra, maka umra tersebut menjadi miliknya dan milik orang yang setelahnya. Ia berkata, 'Aku telah memberikannya kepadamu dan orang setelahmu', maka ia milik orang yang diberinya dan tidak kembali kepada pemiliknya karena ia telah memberikannya sebagai suatu pemberian, dan berlaku padanya (hukum) pewarisan",
+        "grades": [
+            {
+                "name": "Abu Ghuddah",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Hasan"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3749,
+        "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ يَزِيدَ، قَالَ حَدَّثَنَا أَبِي قَالَ، حَدَّثَنَا سَعِيدٌ، قَالَ حَدَّثَنِي يَزِيدُ بْنُ أَبِي حَبِيبٍ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي سَلَمَةَ، عَنْ جَابِرٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَضَى بِالْعُمْرَى أَنْ يَهَبَ الرَّجُلُ لِلرَّجُلِ وَلِعَقِبِهِ الْهِبَةَ وَيَسْتَثْنِي إِنْ حَدَثَ بِكَ حَدَثٌ وَبِعَقِبِكَ فَهُوَ إِلَىَّ وَإِلَى عَقِبِي إِنَّهَا لِمَنْ أُعْطِيَهَا وَلِعَقِبِهِ ‏.‏",
+        "translation": "Telah mengabarkan kepada kami [Muhammad bin Abdullah bin Yazid] berkata; telah menceritakan kepada kami [ayahku] ia berkata; telah menceritakan kepada kami [Sa'id] ia berkata; telah menceritakan kepadaku [Yazid bin Abu Habib] dari [Ibnu Syihab] dari [Abu Salamah] dari [Jabir], bahwa Rasulullah shallallahu 'alaihi wasallam memutuskan mengenai umra, yaitu seorang laki-laki memberikan suatu pemberian kepada orang lain dan orang yang setelahnya, dan ia memberikan syarat. Yaitu 'Apabila terjadi sesuatu padamu dan orang yang setelahmu maka kembali kepadaku dan orang yang setelahku'. Beliau kemudian memutuskan, bahwa pemberian tersebut adalah milik orang yang diberinya dan orang yang setelahnya",
+        "grades": [
+            {
+                "name": "Abu Ghuddah",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Hasan"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3750,
+        "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا خَالِدُ بْنُ الْحَارِثِ، قَالَ حَدَّثَنَا هِشَامٌ، قَالَ حَدَّثَنَا يَحْيَى بْنُ أَبِي كَثِيرٍ، قَالَ حَدَّثَنِي أَبُو سَلَمَةَ، قَالَ سَمِعْتُ جَابِرًا، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ الْعُمْرَى لِمَنْ وُهِبَتْ لَهُ ‏\"‏ ‏.‏",
+        "translation": "Telah mengabarkan kepada kami [Muhammad bin Abdul A'la] berkata; telah menceritakan kepada kami [Khalid bin Al Harits] berkata; telah menceritakan kepada kami [Hisyam] ia berkata; telah menceritakan kepada kami [Yahya bin Abu Katsir] berkata; telah menceritakan kepadaku [Abu Salamah] ia berkata; aku mendengar [Jabir] berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Umra adalah milik orang yang diberinya",
+        "grades": [
+            {
+                "name": "Abu Ghuddah",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Hasan"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3751,
+        "arabic": "أَخْبَرَنَا يَحْيَى بْنُ دُرُسْتَ، قَالَ حَدَّثَنَا أَبُو إِسْمَاعِيلَ، قَالَ حَدَّثَنَا يَحْيَى، أَنَّ أَبَا سَلَمَةَ، حَدَّثَهُ عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، عَنْ نَبِيِّ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ الْعُمْرَى لِمَنْ وُهِبَتْ لَهُ ‏\"‏ ‏.‏",
+        "translation": "Telah mengabarkan kepada kami [Yahya bin Durust] ia berkata; telah menceritakan kepada kami [Abu Isma'il] ia berkata; telah menceritakan kepada kami [Yahya] bahwa [Abu Salamah] telah menceritakan kepadanya dari [Jabir bin Abdullah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Umra adalah milik orang yang diberi",
+        "grades": [
+            {
+                "name": "Abu Ghuddah",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Isnaad Sahih"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3752,
+        "arabic": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ، قَالَ أَنْبَأَنَا إِسْمَاعِيلُ، عَنْ مُحَمَّدٍ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ عُمْرَى فَمَنْ أُعْمِرَ شَيْئًا فَهُوَ لَهُ ‏\"‏ ‏.‏",
+        "translation": "Telah mengabarkan kepada kami [Ali bin Hujr] ia berkata; telah memberitakan kepada kami [Isma'il] dari [Muhammad] dari [Abu Salamah] dari [Abu Hurairah], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tidak ada umra, barangsiapa diberi sesuatu dengan system umra maka ia adalah miliknya",
+        "grades": [
+            {
+                "name": "Abu Ghuddah",
+                "grade": "Hasan Sahih"
+            },
+            {
+                "name": "Al-Albani",
+                "grade": "Hasan Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Isnaad Hasan"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3753,
+        "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا عِيسَى، وَعَبْدَةُ بْنُ سُلَيْمَانَ، قَالاَ حَدَّثَنَا مُحَمَّدُ بْنُ عَمْرٍو، قَالَ حَدَّثَنَا أَبُو سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنْ أُعْمِرَ شَيْئًا فَهُوَ لَهُ ‏\"‏ ‏.‏",
+        "translation": "Telah mengabarkan kepada kami [Ishaq bin Ibrahim] ia berkata; telah menceritakan kepada kami [Isa] dan ['Abdah bin Sulaiman] mereka berdua berkata; telah menceritakan kepada kami [Muhammad bin 'Amru] ia berkata; telah menceritakan kepada kami [Abu Salamah] dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: \"Barangsiapa diberi sesuatu maka ia adalah miliknya",
+        "grades": [
+            {
+                "name": "Abu Ghuddah",
+                "grade": "Hasan Sahih"
+            },
+            {
+                "name": "Al-Albani",
+                "grade": "Hasan Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Isnaad Hasan"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3754,
+        "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا مُحَمَّدٌ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنِ النَّضْرِ بْنِ أَنَسٍ، عَنْ بَشِيرِ بْنِ نَهِيكٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ الْعُمْرَى جَائِزَةٌ ‏\"‏ ‏.‏",
+        "translation": "Telah mengabarkan kepada kami [Muhammad bin Al Mutsanna] berkata; telah menceritakan kepada kami [Muhammad] ia berkata; telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dari [An Nadhr bin Anas] dari [Basyir bin Nahik] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Umra itu dibolehkan",
+        "grades": [
+            {
+                "name": "Abu Ghuddah",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Sahih - Agreed Upon"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3755,
+        "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا مُعَاذُ بْنُ هِشَامٍ، قَالَ حَدَّثَنِي أَبِي، عَنْ قَتَادَةَ، قَالَ سَأَلَنِي سُلَيْمَانُ بْنُ هِشَامٍ عَنِ الْعُمْرَى، فَقُلْتُ حَدَّثَ مُحَمَّدُ بْنُ سِيرِينَ، عَنْ شُرَيْحٍ، قَالَ قَضَى نَبِيُّ اللَّهِ صلى الله عليه وسلم أَنَّ الْعُمْرَى جَائِزَةٌ ‏.‏ قَالَ قَتَادَةُ وَقُلْتُ حَدَّثَنِي النَّضْرُ بْنُ أَنَسٍ عَنْ بَشِيرِ بْنِ نَهِيكٍ عَنْ أَبِي هُرَيْرَةَ أَنَّ نَبِيَّ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ الْعُمْرَى جَائِزَةٌ ‏\"‏ ‏.‏ قَالَ قَتَادَةُ وَقُلْتُ كَانَ الْحَسَنُ يَقُولُ الْعُمْرَى جَائِزَةٌ ‏.‏ قَالَ قَتَادَةُ فَقَالَ الزُّهْرِيُّ إِنَّمَا الْعُمْرَى إِذَا أُعْمِرَ وَعَقِبَهُ مِنْ بَعْدِهِ فَإِذَا لَمْ يَجْعَلْ عَقِبَهُ مِنْ بَعْدِهِ كَانَ لِلَّذِي يَجْعَلُ شَرْطُهُ ‏.‏ قَالَ قَتَادَةُ فَسُئِلَ عَطَاءُ بْنُ أَبِي رَبَاحٍ فَقَالَ حَدَّثَنِي جَابِرُ بْنُ عَبْدِ اللَّهِ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ الْعُمْرَى جَائِزَةٌ ‏\"‏ ‏.‏ قَالَ قَتَادَةُ فَقَالَ الزُّهْرِيُّ كَانَ الْخُلَفَاءُ لاَ يَقْضُونَ بِهَذَا ‏.‏ قَالَ عَطَاءٌ قَضَى بِهَا عَبْدُ الْمَلِكِ بْنُ مَرْوَانَ ‏.‏",
+        "translation": "Telah mengabarkan kepada kami [Muhammad bin Al Mutsanna] berkata; telah menceritakan kepada kami [Mu'adz bin Hisyam] berkata; telah menceritakan kepadaku [Bapakku] dari [Qatadah] ia berkata, \"Sulaiman bin Hisyam bertanya kepadaku mengenai Umra. Kemudian aku katakan, \" [Muhammad bin Sirin] telah menceritakan dari [Syuraih], ia berkata, \"Nabi shallallahu 'alaihi wasallam memutuskan bahwa umra itu dibolehkan.\" [Qatadah] berkata, \"Aku berkata; telah menceritakan kepadaku [An Nadlr bin Anas] dari [Basyir bin Nahik] dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: \"Umrah itu dibolehkan.\" Qatadah berkata, \"Aku berkata, \"Al Hasan berkata, \"Umra itu dibolehkan.\" Qatadah berkata, \"Az Zuhri berkata, \"Sesungguhnya umra itu adalah apabila seseorang dan orang yang setelahnya diberi pemberian, kemudian apabila orang yang memberi tidak menjadikan umra untuk orang setelahnya maka pemberian tersebut milik orang yang memberikan syarat.\" [Qatadah] berkata, \" ['Atha bin Abu Rabah] ditanya mengenai hal tersebut, kemudian ia berkata, \" [Jabir bin Abdullah] menceritakan kepadaku, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Umra itu dibolehkan.\" Qatadah berkata, \"Az Zuhri berkata, \"Dahulu para khalifah tidak memutuskan dengan hal ini.\" 'Atha berkata, \"Abdul Malik bin Marwan memberi putusan dengannya",
+        "grades": [
+            {
+                "name": "Abu Ghuddah",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Sahih"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3756,
+        "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَعْمَرٍ، قَالَ حَدَّثَنَا حَبَّانُ، قَالَ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، ح وَأَخْبَرَنِي إِبْرَاهِيمُ بْنُ يُونُسَ بْنِ مُحَمَّدٍ، قَالَ حَدَّثَنَا أَبِي قَالَ، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ دَاوُدَ، - وَهُوَ ابْنُ أَبِي هِنْدٍ - وَحَبِيبٍ الْمُعَلِّمِ عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ يَجُوزُ لاِمْرَأَةٍ هِبَةٌ فِي مَالِهَا إِذَا مَلَكَ زَوْجُهَا عِصْمَتَهَا ‏\"‏ ‏.‏ اللَّفْظُ لِمُحَمَّدٍ ‏.‏",
+        "translation": "Telah mengabarkan kepada kami [Muhammad bin Ma'mar] berkata; telah menceritakan kepada kami [Habban] berkata; telah menceritakan kepada kami [Hammad bin Salamah]. (dalam jalur lain disebutkan) Telah mengabarkan kepadaku [Ibrahim bin Yunus bin Muhammad] berkata; telah menceritakan kepada kami [ayahku] berkata; telah menceritakan kepada kami [Hammad bin Salamah] dari [Daud] -yaitu Ibnu Abu Hind- dan [Habib Al Mu'allim] dari ['Amru bin Syu'aib] dari [ayahnya] dari [kakeknya], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tidak boleh bagi seorang wanita memberikan hartanya apabila suaminya memilki ikatan pernikahannya.\" Dan ini adalah lafadz Muhammad",
+        "grades": [
+            {
+                "name": "Abu Ghuddah",
+                "grade": "Hasan Sahih"
+            },
+            {
+                "name": "Al-Albani",
+                "grade": "Hasan Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Daif"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3757,
+        "arabic": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ، قَالَ حَدَّثَنَا خَالِدٌ، قَالَ حَدَّثَنَا حُسَيْنٌ الْمُعَلِّمُ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، أَنَّ أَبَاهُ، حَدَّثَهُ عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، ح وَأَخْبَرَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، قَالَ حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، قَالَ حَدَّثَنَا حُسَيْنٌ الْمُعَلِّمُ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ لَمَّا فَتَحَ رَسُولُ اللَّهِ صلى الله عليه وسلم مَكَّةَ قَامَ خَطِيبًا فَقَالَ فِي خُطْبَتِهِ ‏ \"‏ لاَ يَجُوزُ لاِمْرَأَةٍ عَطِيَّةٌ إِلاَّ بِإِذْنِ زَوْجِهَا ‏\"‏ ‏.‏",
+        "translation": "Telah mengabarkan kepada kami [Isma'il bin Mas'ud] ia berkata; telah menceritakan kepada kami [Khalid] berkata; telah menceritakan kepada kami [Husain Al Mu'allim] dari ['Amru bin Syu'aib] bahwa [ayahnya] menceritakan kepadanya dari [Abdullah bin 'Amru]. (dalam jalur lain disebutkan) Dan telah mengabarkan kepada kami [Humaid bin Mas'adah] berkata; telah menceritakan kepada kami [Yazid bin Zurai'] berkata; telah menceritakan kepada kami [Husain Al Mu'allim] dari ['Amru bin Syu'aib] dari [ayahnya] dari [kakeknya] berkata, \"Tatkala Rasulullah shallallahu 'alaihi wasallam menaklukkan Makkah, beliau berdiri untuk berkhutbah, beliau katakan: \"Tidak boleh bagi seorang wanita memberikan pemberian kecuali dengan seizin suaminya",
+        "grades": [
+            {
+                "name": "Abu Ghuddah",
+                "grade": "Hasan Sahih"
+            },
+            {
+                "name": "Al-Albani",
+                "grade": "Hasan Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Hasan"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3758,
+        "arabic": "أَخْبَرَنَا هَنَّادُ بْنُ السَّرِيِّ، قَالَ حَدَّثَنَا أَبُو بَكْرِ بْنُ عَيَّاشٍ، عَنْ يَحْيَى بْنِ هَانِئٍ، عَنْ أَبِي حُذَيْفَةَ، عَنْ عَبْدِ الْمَلِكِ بْنِ مُحَمَّدِ بْنِ بَشِيرٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَلْقَمَةَ الثَّقَفِيِّ، قَالَ قَدِمَ وَفْدُ ثَقِيفٍ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم وَمَعَهُمْ هَدِيَّةٌ فَقَالَ ‏ \"‏ أَهَدِيَّةٌ أَمْ صَدَقَةٌ فَإِنْ كَانَتْ هَدِيَّةً فَإِنَّمَا يُبْتَغَى بِهَا وَجْهُ رَسُولِ اللَّهِ صلى الله عليه وسلم وَقَضَاءُ الْحَاجَةِ وَإِنْ كَانَتْ صَدَقَةً فَإِنَّمَا يُبْتَغَى بِهَا وَجْهُ اللَّهِ عَزَّ وَجَلَّ ‏\"‏ ‏.‏ قَالُوا لاَ بَلْ هَدِيَّةٌ ‏.‏ فَقَبِلَهَا مِنْهُمْ وَقَعَدَ مَعَهُمْ يُسَائِلُهُمْ وَيُسَائِلُونَهُ حَتَّى صَلَّى الظُّهْرَ مَعَ الْعَصْرِ ‏.‏",
+        "translation": "Telah mengabarkan kepada kami [Hannad bin As Sari] berkata; telah menceritakan kepada kami [Abu Bakr bin 'Ayyasy] dari [Yahya bin Hani`] dari [Abu Hudzifah] dari [Abdul Malik bin Muhammad bin Basyir] dari ['Abdurrahman bin 'Alqamah Ats Tsaqafi] ia berkata, \"Utusan Tsaqif datang kepada Rasulullah shallallahu 'alaihi wasallam dengan membawa hadiah, beliau lalu bertanya: \"Ini hadiah atau sedekah. Jika hadiah maka itu adalah karena mengharapkan ridla Rasulullah shallallahu 'alaihi wasallam dan memenuhi kebutuhan, namun jika sedekah maka itu adalah karena mengharap ridla Allah Azza wa Jalla.\" Mereka menjawab, \"Tidak, ini adalah hadiah.\" Maka beliau pun menerimanya dan duduk bersama mereka, beliau bertanya kepada mereka dan mereka bertanya kepada beliau hingga beliau melakukan shalat zhuhur dan ashar",
+        "grades": [
+            {
+                "name": "Abu Ghuddah",
+                "grade": "Daif Isnaad"
+            },
+            {
+                "name": "Al-Albani",
+                "grade": "Daif Isnaad"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Daif"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3759,
+        "arabic": "أَخْبَرَنَا أَبُو عَاصِمٍ، خُشَيْشُ بْنُ أَصْرَمَ قَالَ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، قَالَ أَنْبَأَنَا مَعْمَرٌ، عَنِ ابْنِ عَجْلاَنَ، عَنْ سَعِيدٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ لَقَدْ هَمَمْتُ أَنْ لاَ أَقْبَلَ هَدِيَّةً إِلاَّ مِنْ قُرَشِيٍّ أَوْ أَنْصَارِيٍّ أَوْ ثَقَفِيٍّ أَوْ دَوْسِيٍّ ‏\"‏ ‏.‏",
+        "translation": "Telah mengabarkan kepada kami [Abu 'Ashim Khusyaisy bin Ashram] ia berkata; telah menceritakan kepada kami [Abdurrazaq] berkata; telah memberitakan kepada kami [Ma'mar] dari [Ibnu 'Ajlan] dari [Sa'id] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sungguh aku ingin tidak menerima hadiah kecuali dari orang Quraisy, atau Anshar, atau Tsaqif, atau Daus",
+        "grades": [
+            {
+                "name": "Abu Ghuddah",
+                "grade": "Hasan Sahih"
+            },
+            {
+                "name": "Al-Albani",
+                "grade": "Hasan Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Sahih"
+            }
+        ]
+    },
+    {
+        "hadithnumber": 3760,
+        "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا وَكِيعٌ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أُتِيَ بِلَحْمٍ فَقَالَ ‏\"‏ مَا هَذَا ‏\"‏ ‏.‏ فَقِيلَ تُصُدِّقَ بِهِ عَلَى بَرِيرَةَ ‏.‏ فَقَالَ ‏\"‏ هُوَ لَهَا صَدَقَةٌ وَلَنَا هَدِيَّةٌ ‏\"‏ ‏.‏",
+        "translation": "Telah mengabarkan kepada kami [Ishaq bin Ibrahim] berkata; telah menceritakan kepada kami [Waki'] berkata; telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dari [Anas], bahwa ketika Rasulullah shallallahu 'alaihi wasallam diberi daging maka beliau pun bertanya: \"Apakah ini?\" Lalu dijawab, \"Daging yang disedekahkan kepada Barirah.\" Kemudian beliau bersabda: \"Itu sedekah baginya dan hadiah untuk kita",
+        "grades": [
+            {
+                "name": "Abu Ghuddah",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Al-Albani",
+                "grade": "Sahih"
+            },
+            {
+                "name": "Zubair Ali Zai",
+                "grade": "Sahih - Agreed Upon"
+            }
+        ]
+    }
+]

@@ -1,0 +1,429 @@
+[
+  {
+    "id": 1,
+    "name": "Namaz Vakitleri",
+    "startingHadithNo": 1,
+    "endingHadithNo": 31,
+    "totalHadith": 31
+  },
+  {
+    "id": 2,
+    "name": "Kitap el-Taharet (Temizlik Bahsi)",
+    "startingHadithNo": 32,
+    "endingHadithNo": 145,
+    "totalHadith": 114
+  },
+  {
+    "id": 3,
+    "name": "Kitap el-Salat (Namaz Bahsi)",
+    "startingHadithNo": 146,
+    "endingHadithNo": 221,
+    "totalHadith": 76
+  },
+  {
+    "id": 4,
+    "name": "Namazda Yanılma (Sehiv Secdesi)",
+    "startingHadithNo": 222,
+    "endingHadithNo": 224,
+    "totalHadith": 3
+  },
+  {
+    "id": 5,
+    "name": "Kitap el-Cuma (Cuma Namazı Bahsi)",
+    "startingHadithNo": 225,
+    "endingHadithNo": 245,
+    "totalHadith": 21
+  },
+  {
+    "id": 6,
+    "name": "Ramazan Namazı (Teravih)",
+    "startingHadithNo": 246,
+    "endingHadithNo": 253,
+    "totalHadith": 8
+  },
+  {
+    "id": 7,
+    "name": "Teheccüd Namazı",
+    "startingHadithNo": 254,
+    "endingHadithNo": 286,
+    "totalHadith": 33
+  },
+  {
+    "id": 8,
+    "name": "Cemaatle Namaz",
+    "startingHadithNo": 287,
+    "endingHadithNo": 325,
+    "totalHadith": 39
+  },
+  {
+    "id": 9,
+    "name": "Seferi Namazı (Yolcu Namazının Kısaltılması)",
+    "startingHadithNo": 326,
+    "endingHadithNo": 427,
+    "totalHadith": 102
+  },
+  {
+    "id": 10,
+    "name": "Bayram Namazları (İdeyn)",
+    "startingHadithNo": 428,
+    "endingHadithNo": 440,
+    "totalHadith": 13
+  },
+  {
+    "id": 11,
+    "name": "Korku Namazı (Salatü'l-Havf)",
+    "startingHadithNo": 441,
+    "endingHadithNo": 444,
+    "totalHadith": 4
+  },
+  {
+    "id": 12,
+    "name": "Küsûf Namazı (Güneş Tutulması Namazı)",
+    "startingHadithNo": 445,
+    "endingHadithNo": 448,
+    "totalHadith": 4
+  },
+  {
+    "id": 13,
+    "name": "İstiska Namazı (Yağmur Duası)",
+    "startingHadithNo": 449,
+    "endingHadithNo": 454,
+    "totalHadith": 6
+  },
+  {
+    "id": 14,
+    "name": "Kıble Bahsi",
+    "startingHadithNo": 455,
+    "endingHadithNo": 469,
+    "totalHadith": 15
+  },
+  {
+    "id": 15,
+    "name": "Kur'an-ı Kerim'in Faziletleri ve Hükümleri",
+    "startingHadithNo": 470,
+    "endingHadithNo": 519,
+    "totalHadith": 50
+  },
+  {
+    "id": 16,
+    "name": "Kitap el-Cenaiz (Cenaze İşlemleri ve Defin)",
+    "startingHadithNo": 520,
+    "endingHadithNo": 577,
+    "totalHadith": 58
+  },
+  {
+    "id": 17,
+    "name": "Kitap el-Zekat (Zekat Bahsi)",
+    "startingHadithNo": 578,
+    "endingHadithNo": 629,
+    "totalHadith": 52
+  },
+  {
+    "id": 18,
+    "name": "Kitap el-Siyam (Oruç Bahsi)",
+    "startingHadithNo": 630,
+    "endingHadithNo": 689,
+    "totalHadith": 60
+  },
+  {
+    "id": 19,
+    "name": "Ramazan'da İtikaf",
+    "startingHadithNo": 690,
+    "endingHadithNo": 704,
+    "totalHadith": 15
+  },
+  {
+    "id": 20,
+    "name": "Kitap el-Hac (Hac Hükümleri)",
+    "startingHadithNo": 705,
+    "endingHadithNo": 957,
+    "totalHadith": 253
+  },
+  {
+    "id": 21,
+    "name": "Kitap el-Cihad",
+    "startingHadithNo": 959,
+    "endingHadithNo": 1008,
+    "totalHadith": 50
+  },
+  {
+    "id": 22,
+    "name": "Adaklar ve Yeminler",
+    "startingHadithNo": 1009,
+    "endingHadithNo": 1027,
+    "totalHadith": 19
+  },
+  {
+    "id": 23,
+    "name": "Kurbanlık Hayvanlar",
+    "startingHadithNo": 1028,
+    "endingHadithNo": 1041,
+    "totalHadith": 14
+  },
+  {
+    "id": 24,
+    "name": "Zebiha (Hayvan Kesim Hükümleri)",
+    "startingHadithNo": 1042,
+    "endingHadithNo": 1051,
+    "totalHadith": 10
+  },
+  {
+    "id": 25,
+    "name": "Avcılık Hükümleri",
+    "startingHadithNo": 1052,
+    "endingHadithNo": 1066,
+    "totalHadith": 15
+  },
+  {
+    "id": 26,
+    "name": "Akika Kurbanı Hükümleri",
+    "startingHadithNo": 1067,
+    "endingHadithNo": 1073,
+    "totalHadith": 7
+  },
+  {
+    "id": 27,
+    "name": "Kitap el-Faraid (Miras Hukuku)",
+    "startingHadithNo": 1074,
+    "endingHadithNo": 1089,
+    "totalHadith": 16
+  },
+  {
+    "id": 28,
+    "name": "Kitap el-Nikah (Evlilik Hükümleri)",
+    "startingHadithNo": 1091,
+    "endingHadithNo": 1149,
+    "totalHadith": 59
+  },
+  {
+    "id": 29,
+    "name": "Kitap el-Talak (Boşanma Hükümleri)",
+    "startingHadithNo": 1150,
+    "endingHadithNo": 1271,
+    "totalHadith": 122
+  },
+  {
+    "id": 30,
+    "name": "Radâ' (Süt Emzirme Hükümleri)",
+    "startingHadithNo": 1272,
+    "endingHadithNo": 1289,
+    "totalHadith": 18
+  },
+  {
+    "id": 31,
+    "name": "Ticaret ve Alışveriş İşlemleri",
+    "startingHadithNo": 1290,
+    "endingHadithNo": 1385,
+    "totalHadith": 96
+  },
+  {
+    "id": 32,
+    "name": "Kırand (Mudarebe / Sermaye-Emek Ortaklığı)",
+    "startingHadithNo": 1386,
+    "endingHadithNo": 1387,
+    "totalHadith": 2
+  },
+  {
+    "id": 33,
+    "name": "Müzareet (Tarım Ortaklığı)",
+    "startingHadithNo": 1388,
+    "endingHadithNo": 1389,
+    "totalHadith": 2
+  },
+  {
+    "id": 34,
+    "name": "Arazi Kiralama",
+    "startingHadithNo": 1390,
+    "endingHadithNo": 1394,
+    "totalHadith": 5
+  },
+  {
+    "id": 35,
+    "name": "Gayrimenkulde Şufa Hakkı (Ön Alım Hakkı)",
+    "startingHadithNo": 1395,
+    "endingHadithNo": 1398,
+    "totalHadith": 4
+  },
+  {
+    "id": 36,
+    "name": "Yargı Kararları ve Kadılık",
+    "startingHadithNo": 1399,
+    "endingHadithNo": 1454,
+    "totalHadith": 56
+  },
+  {
+    "id": 37,
+    "name": "Vasiyet Hükümleri",
+    "startingHadithNo": 1455,
+    "endingHadithNo": 1463,
+    "totalHadith": 9
+  },
+  {
+    "id": 38,
+    "name": "Köle Âzat Etme ve Velâ Hakkı",
+    "startingHadithNo": 1464,
+    "endingHadithNo": 1488,
+    "totalHadith": 25
+  },
+  {
+    "id": 39,
+    "name": "Mükâtep (Bedel Ödeyerek Özgürleşen Köle)",
+    "startingHadithNo": 1489,
+    "endingHadithNo": 1496,
+    "totalHadith": 8
+  },
+  {
+    "id": 40,
+    "name": "Müdebbir (Efendisinin Ölümüyle Özgür Kalacak Köle)",
+    "startingHadithNo": 1497,
+    "endingHadithNo": 1499,
+    "totalHadith": 3
+  },
+  {
+    "id": 41,
+    "name": "Kitap el-Hudud (Şer'i Cezalar)",
+    "startingHadithNo": 1500,
+    "endingHadithNo": 1536,
+    "totalHadith": 37
+  },
+  {
+    "id": 42,
+    "name": "İçeceklerle İlgili Hükümler",
+    "startingHadithNo": 1537,
+    "endingHadithNo": 1551,
+    "totalHadith": 15
+  },
+  {
+    "id": 43,
+    "name": "Diyet (Kan Bedeli / Tazminat)",
+    "startingHadithNo": 1552,
+    "endingHadithNo": 1595,
+    "totalHadith": 44
+  },
+  {
+    "id": 44,
+    "name": "Kasâme (Cinayet Şüphesinde Yemin Etme)",
+    "startingHadithNo": 1596,
+    "endingHadithNo": 1597,
+    "totalHadith": 2
+  },
+  {
+    "id": 45,
+    "name": "Medine-i Münevvere'nin Faziletleri",
+    "startingHadithNo": 1598,
+    "endingHadithNo": 1622,
+    "totalHadith": 25
+  },
+  {
+    "id": 46,
+    "name": "Kader Bahsi",
+    "startingHadithNo": 1623,
+    "endingHadithNo": 1632,
+    "totalHadith": 10
+  },
+  {
+    "id": 47,
+    "name": "Güzel Ahlak",
+    "startingHadithNo": 1633,
+    "endingHadithNo": 1650,
+    "totalHadith": 18
+  },
+  {
+    "id": 48,
+    "name": "Giyim Kuşam Hükümleri",
+    "startingHadithNo": 1651,
+    "endingHadithNo": 1670,
+    "totalHadith": 20
+  },
+  {
+    "id": 49,
+    "name": "Peygamber Efendimiz'in ﷺ Mübarek Vasifları ve Dış Görünüşü",
+    "startingHadithNo": 1671,
+    "endingHadithNo": 1710,
+    "totalHadith": 40
+  },
+  {
+    "id": 50,
+    "name": "Nazar (Göz Değmesi) ve Tedavisi",
+    "startingHadithNo": 1711,
+    "endingHadithNo": 1729,
+    "totalHadith": 19
+  },
+  {
+    "id": 51,
+    "name": "Saçla İlgili Hüküm ve Sünnetler",
+    "startingHadithNo": 1730,
+    "endingHadithNo": 1746,
+    "totalHadith": 17
+  },
+  {
+    "id": 52,
+    "name": "Rüyalar ve Tabirleri",
+    "startingHadithNo": 1747,
+    "endingHadithNo": 1755,
+    "totalHadith": 9
+  },
+  {
+    "id": 53,
+    "name": "Selamlaşma Âdabı",
+    "startingHadithNo": 1756,
+    "endingHadithNo": 1762,
+    "totalHadith": 7
+  },
+  {
+    "id": 54,
+    "name": "Çeşitli Meseleler (Müteferrik Konular)",
+    "startingHadithNo": 1763,
+    "endingHadithNo": 1807,
+    "totalHadith": 45
+  },
+  {
+    "id": 55,
+    "name": "Biat (Bağlılık Sözü) Bahsi",
+    "startingHadithNo": 1808,
+    "endingHadithNo": 1810,
+    "totalHadith": 3
+  },
+  {
+    "id": 56,
+    "name": "Konuşma ve Söz Söyleme Âdabı",
+    "startingHadithNo": 1811,
+    "endingHadithNo": 1838,
+    "totalHadith": 28
+  },
+  {
+    "id": 57,
+    "name": "Cehennem Bahsi",
+    "startingHadithNo": 1839,
+    "endingHadithNo": 1840,
+    "totalHadith": 2
+  },
+  {
+    "id": 58,
+    "name": "Sadaka ve Hayır İşleri",
+    "startingHadithNo": 1841,
+    "endingHadithNo": 1855,
+    "totalHadith": 15
+  },
+  {
+    "id": 59,
+    "name": "İlim Bahsi",
+    "startingHadithNo": 1856,
+    "endingHadithNo": 1856,
+    "totalHadith": 1
+  },
+  {
+    "id": 60,
+    "name": "Mazlumun Duası",
+    "startingHadithNo": 1857,
+    "endingHadithNo": 1857,
+    "totalHadith": 1
+  },
+  {
+    "id": 61,
+    "name": "Peygamber Efendimiz'in ﷺ Mübarek İsimleri",
+    "startingHadithNo": 1858,
+    "endingHadithNo": 1858,
+    "totalHadith": 1
+  }
+]

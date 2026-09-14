@@ -1,0 +1,359 @@
+[
+  {
+    "id": 1,
+    "name": "Kitab Al-Taharah (Temizlik Kitabı)",
+    "startingHadithNo": 1,
+    "endingHadithNo": 324,
+    "totalHadith": 324
+  },
+  {
+    "id": 2,
+    "name": "Kitab Al-Miyah (Sular Kitabı)",
+    "startingHadithNo": 325,
+    "endingHadithNo": 347,
+    "totalHadith": 23
+  },
+  {
+    "id": 3,
+    "name": "Kitab Al-Haid wa Al-Istihadah (Adres ve İstihaza / Özür Kanı Kitabı)",
+    "startingHadithNo": 348,
+    "endingHadithNo": 395,
+    "totalHadith": 48
+  },
+  {
+    "id": 4,
+    "name": "Kitab Al-Ghusl wa Al-Tayammum (Gusül ve Teyemmüm Kitabı)",
+    "startingHadithNo": 396,
+    "endingHadithNo": 447,
+    "totalHadith": 52
+  },
+  {
+    "id": 5,
+    "name": "Kitab Al-Shalah (Namaz Kitabı)",
+    "startingHadithNo": 448,
+    "endingHadithNo": 493,
+    "totalHadith": 46
+  },
+  {
+    "id": 6,
+    "name": "Kitab Al-Mawaqit (Namaz Vakitleri Kitabı)",
+    "startingHadithNo": 494,
+    "endingHadithNo": 625,
+    "totalHadith": 132
+  },
+  {
+    "id": 7,
+    "name": "Kitab Al-Adzan (Ezan Kitabı)",
+    "startingHadithNo": 626,
+    "endingHadithNo": 687,
+    "totalHadith": 62
+  },
+  {
+    "id": 8,
+    "name": "Kitab Al-Masajid (Mescitler Kitabı)",
+    "startingHadithNo": 688,
+    "endingHadithNo": 741,
+    "totalHadith": 54
+  },
+  {
+    "id": 9,
+    "name": "Kitab Al-Qiblah (Kıble Kitabı)",
+    "startingHadithNo": 742,
+    "endingHadithNo": 776,
+    "totalHadith": 35
+  },
+  {
+    "id": 10,
+    "name": "Kitab Al-Imamah (İmamlık Kitabı)",
+    "startingHadithNo": 777,
+    "endingHadithNo": 875,
+    "totalHadith": 99
+  },
+  {
+    "id": 11,
+    "name": "Kitab Al-Iftitah (Namazın Başlangıcı Kitabı)",
+    "startingHadithNo": 876,
+    "endingHadithNo": 1028,
+    "totalHadith": 153
+  },
+  {
+    "id": 12,
+    "name": "Kitab Al-Tatbiq (Rükûda Elleri Birleştirme Kitabı)",
+    "startingHadithNo": 1029,
+    "endingHadithNo": 1178,
+    "totalHadith": 150
+  },
+  {
+    "id": 13,
+    "name": "Kitab Al-Sahwi (Namazda Sehiv / Yanılma Kitabı)",
+    "startingHadithNo": 1179,
+    "endingHadithNo": 1366,
+    "totalHadith": 188
+  },
+  {
+    "id": 14,
+    "name": "Kitab Al-Jumu'ah (Cuma Namazı Kitabı)",
+    "startingHadithNo": 1367,
+    "endingHadithNo": 1432,
+    "totalHadith": 66
+  },
+  {
+    "id": 15,
+    "name": "Kitab Taqshir Al-Shalah Fi Al-Safar (Seferde Namazı Kısaltma Kitabı)",
+    "startingHadithNo": 1433,
+    "endingHadithNo": 1458,
+    "totalHadith": 26
+  },
+  {
+    "id": 16,
+    "name": "Kitab Al-Kusuf (Güneş ve Ay Tutulması Namazı Kitabı)",
+    "startingHadithNo": 1459,
+    "endingHadithNo": 1503,
+    "totalHadith": 45
+  },
+  {
+    "id": 17,
+    "name": "Kitab Al-Istisqa' (Yağmur Duası Namazı Kitabı)",
+    "startingHadithNo": 1504,
+    "endingHadithNo": 1528,
+    "totalHadith": 25
+  },
+  {
+    "id": 18,
+    "name": "Kitab Shalat Al-Khauf (Korku Namazı Kitabı)",
+    "startingHadithNo": 1529,
+    "endingHadithNo": 1555,
+    "totalHadith": 27
+  },
+  {
+    "id": 19,
+    "name": "Kitab Shalat Al-'Idain (Bayram Namazları Kitabı)",
+    "startingHadithNo": 1556,
+    "endingHadithNo": 1597,
+    "totalHadith": 42
+  },
+  {
+    "id": 20,
+    "name": "Kitab Qiyam Al-Lail wa Tathawwu' Al-Nahar (Gece Namazı ve Gündüz Nafileleri Kitabı)",
+    "startingHadithNo": 1598,
+    "endingHadithNo": 1817,
+    "totalHadith": 220
+  },
+  {
+    "id": 21,
+    "name": "Kitab Al-Jana'iz (Cenazeler Kitabı)",
+    "startingHadithNo": 1818,
+    "endingHadithNo": 2089,
+    "totalHadith": 272
+  },
+  {
+    "id": 22,
+    "name": "Kitab Al-Shiyam (Oruç Kitabı)",
+    "startingHadithNo": 2090,
+    "endingHadithNo": 2434,
+    "totalHadith": 345
+  },
+  {
+    "id": 23,
+    "name": "Kitab Al-Zakah (Zekat Kitabı)",
+    "startingHadithNo": 2435,
+    "endingHadithNo": 2618,
+    "totalHadith": 184
+  },
+  {
+    "id": 24,
+    "name": "Kitab Al-Hajj (Hac Ritüelleri ve Hükümleri Kitabı)",
+    "startingHadithNo": 2619,
+    "endingHadithNo": 3084,
+    "totalHadith": 466
+  },
+  {
+    "id": 25,
+    "name": "Kitab Al-Jihad (Cihat Kitabı)",
+    "startingHadithNo": 3085,
+    "endingHadithNo": 3195,
+    "totalHadith": 111
+  },
+  {
+    "id": 26,
+    "name": "Kitab Al-Nikah (Nikah Kitabı)",
+    "startingHadithNo": 3196,
+    "endingHadithNo": 3388,
+    "totalHadith": 193
+  },
+  {
+    "id": 27,
+    "name": "Kitab Al-Thalaq (Boşanma Kitabı)",
+    "startingHadithNo": 3389,
+    "endingHadithNo": 3560,
+    "totalHadith": 172
+  },
+  {
+    "id": 28,
+    "name": "Kitab Al-Kheil wa Al-Sabaq wa Al-Ramyi (Atlar, At Yarışları ve Okçuluk Kitabı)",
+    "startingHadithNo": 3561,
+    "endingHadithNo": 3593,
+    "totalHadith": 33
+  },
+  {
+    "id": 29,
+    "name": "Kitab Al-Hubus (Vakıflar Kitabı)",
+    "startingHadithNo": 3594,
+    "endingHadithNo": 3610,
+    "totalHadith": 17
+  },
+  {
+    "id": 30,
+    "name": "Kitab Al-Washaya (Vasiyetler Kitabı)",
+    "startingHadithNo": 3611,
+    "endingHadithNo": 3671,
+    "totalHadith": 61
+  },
+  {
+    "id": 31,
+    "name": "Kitab Al-Nahl (Bağış ve Hediyeler Kitabı)",
+    "startingHadithNo": 3672,
+    "endingHadithNo": 3687,
+    "totalHadith": 16
+  },
+  {
+    "id": 32,
+    "name": "Kitab Al-Hibah (Hibe / Hediye Kitabı)",
+    "startingHadithNo": 3688,
+    "endingHadithNo": 3705,
+    "totalHadith": 18
+  },
+  {
+    "id": 33,
+    "name": "Kitab Al-Ruqba (Şarta Bağlı Hibe / Rukba Kitabı)",
+    "startingHadithNo": 3706,
+    "endingHadithNo": 3719,
+    "totalHadith": 14
+  },
+  {
+    "id": 34,
+    "name": "Kitab Al-'Umra (Ömür Boyu Bağış / Umra Kitabı)",
+    "startingHadithNo": 3720,
+    "endingHadithNo": 3760,
+    "totalHadith": 41
+  },
+  {
+    "id": 35,
+    "name": "Kitab Al-Muzara'ah (Tarım ve Ortakçılık Kitabı)",
+    "startingHadithNo": 3761,
+    "endingHadithNo": 3856,
+    "totalHadith": 96
+  },
+  {
+    "id": 36,
+    "name": "Kitab 'Asyrah Al-Nisa' (Kadınlarla İyi Geçinme Kitabı)",
+    "startingHadithNo": 3939,
+    "endingHadithNo": 3965,
+    "totalHadith": 27
+  },
+  {
+    "id": 37,
+    "name": "Kitab Tahrim Al-Dam (Kan Akıtmanın Haramlığı / İsyan Yasağı Kitabı)",
+    "startingHadithNo": 3966,
+    "endingHadithNo": 4132,
+    "totalHadith": 167
+  },
+  {
+    "id": 38,
+    "name": "Kitab Qasm Al-Fai' (Fey Mallarının Paylaşımı Kitabı)",
+    "startingHadithNo": 4133,
+    "endingHadithNo": 4148,
+    "totalHadith": 16
+  },
+  {
+    "id": 39,
+    "name": "Kitab Al-Bai'ah (Biat Kitabı)",
+    "startingHadithNo": 4149,
+    "endingHadithNo": 4211,
+    "totalHadith": 63
+  },
+  {
+    "id": 40,
+    "name": "Kitab Al-'Aqiqah (Akika Kurbanı Kitabı)",
+    "startingHadithNo": 4212,
+    "endingHadithNo": 4221,
+    "totalHadith": 10
+  },
+  {
+    "id": 41,
+    "name": "Kitab Al-Fara' wa Al-'Atirah (Fara ve Atire Kurbanları Kitabı)",
+    "startingHadithNo": 4222,
+    "endingHadithNo": 4262,
+    "totalHadith": 41
+  },
+  {
+    "id": 42,
+    "name": "Kitab Al-Shaid wa Al-Zabaih (Avlanma ve Kesim Hükümleri Kitabı)",
+    "startingHadithNo": 4263,
+    "endingHadithNo": 4360,
+    "totalHadith": 98
+  },
+  {
+    "id": 43,
+    "name": "Kitab Al-Dhahaya (Kurban Kitabı)",
+    "startingHadithNo": 4361,
+    "endingHadithNo": 4448,
+    "totalHadith": 88
+  },
+  {
+    "id": 44,
+    "name": "Kitab Al-Buyu' (Alım Satım / Ticaret İşlemleri Kitabı)",
+    "startingHadithNo": 4449,
+    "endingHadithNo": 4705,
+    "totalHadith": 257
+  },
+  {
+    "id": 45,
+    "name": "Kitab Al-Qasamah wa Al-Qud wa Al-Diyat (Kasamet, Kısas ve Diyet Kitabı)",
+    "startingHadithNo": 4706,
+    "endingHadithNo": 4869,
+    "totalHadith": 164
+  },
+  {
+    "id": 46,
+    "name": "Kitab Qath' Al-Sariq (Hırsızın Elinin Kesilmesi Kitabı)",
+    "startingHadithNo": 4870,
+    "endingHadithNo": 4984,
+    "totalHadith": 115
+  },
+  {
+    "id": 47,
+    "name": "Kitab Al-Iman wa Syara'ihi (İman ve Hükümleri Kitabı)",
+    "startingHadithNo": 4985,
+    "endingHadithNo": 5039,
+    "totalHadith": 55
+  },
+  {
+    "id": 48,
+    "name": "Kitab Al-Zinah (Süs ve Güzellik Malzemeleri Kitabı)",
+    "startingHadithNo": 5040,
+    "endingHadithNo": 5378,
+    "totalHadith": 339
+  },
+  {
+    "id": 49,
+    "name": "Kitab Adab Al-Qudhat (Kadı / Hakim Adabı ve Yargı Kararları Kitabı)",
+    "startingHadithNo": 5379,
+    "endingHadithNo": 5427,
+    "totalHadith": 49
+  },
+  {
+    "id": 50,
+    "name": "Kitab Al-Ist'adzah (Allah'a Sığınma Duaları Kitabı)",
+    "startingHadithNo": 5428,
+    "endingHadithNo": 5539,
+    "totalHadith": 112
+  },
+  {
+    "id": 51,
+    "name": "Kitab Al-Asyribah (İçecekler Kitabı)",
+    "startingHadithNo": 5540,
+    "endingHadithNo": 5758,
+    "totalHadith": 219
+  }
+]

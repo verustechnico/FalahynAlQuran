@@ -1,0 +1,345 @@
+[
+  {
+    "id": 1,
+    "name": "Kitab Al-Taharah (Penjelasan tentang Bersuci)",
+    "startingHadithNo": 1,
+    "endingHadithNo": 148,
+    "totalHadith": 148
+  },
+  {
+    "id": 2,
+    "name": "Kitab Al-Shalah (Penjelasan tentang Shalat)",
+    "startingHadithNo": 149,
+    "endingHadithNo": 451,
+    "totalHadith": 303
+  },
+  {
+    "id": 3,
+    "name": "Kitab Al-Witr (Hukum-Hukum dan Masalah Shalat Witr)",
+    "startingHadithNo": 452,
+    "endingHadithNo": 487,
+    "totalHadith": 36
+  },
+  {
+    "id": 4,
+    "name": "Kitab Al-Jum'ah (Penjelasan tentang Shalat Jumat)",
+    "startingHadithNo": 488,
+    "endingHadithNo": 529,
+    "totalHadith": 42
+  },
+  {
+    "id": 5,
+    "name": "Kitab Al-Eedain (Penjelasan tentang Shalat Hari Raya/Idul Fitri dan Idul Adha)",
+    "startingHadithNo": 530,
+    "endingHadithNo": 543,
+    "totalHadith": 14
+  },
+  {
+    "id": 6,
+    "name": "Kitab Al-Safar (Hukum-Hukum dan Masalah Bepergian/Musafir)",
+    "startingHadithNo": 544,
+    "endingHadithNo": 616,
+    "totalHadith": 73
+  },
+  {
+    "id": 7,
+    "name": "Kitab Al-Zakah (Hukum-Hukum Zakat)",
+    "startingHadithNo": 617,
+    "endingHadithNo": 681,
+    "totalHadith": 65
+  },
+  {
+    "id": 8,
+    "name": "Kitab Al-Shaum (Penjelasan tentang Puasa)",
+    "startingHadithNo": 682,
+    "endingHadithNo": 808,
+    "totalHadith": 127
+  },
+  {
+    "id": 9,
+    "name": "Kitab Al-Hajj (Manasik dan Hukum-Hukum Haji)",
+    "startingHadithNo": 809,
+    "endingHadithNo": 964,
+    "totalHadith": 156
+  },
+  {
+    "id": 10,
+    "name": "Kitab Al-Jana'iz (Hukum-Hukum Jenazah)",
+    "startingHadithNo": 965,
+    "endingHadithNo": 1079,
+    "totalHadith": 115
+  },
+  {
+    "id": 11,
+    "name": "Kitab Al-Nikah (Hukum-Hukum Pernikahan)",
+    "startingHadithNo": 1080,
+    "endingHadithNo": 1145,
+    "totalHadith": 66
+  },
+  {
+    "id": 12,
+    "name": "Kitab Al-Radha' (Hukum-Hukum Penyusuan/Radha'ah)",
+    "startingHadithNo": 1146,
+    "endingHadithNo": 1174,
+    "totalHadith": 29
+  },
+  {
+    "id": 13,
+    "name": "Kitab Al-Thalaq wa Al-Li'an (Penjelasan tentang Perceraian dan Li'an)",
+    "startingHadithNo": 1175,
+    "endingHadithNo": 1204,
+    "totalHadith": 30
+  },
+  {
+    "id": 14,
+    "name": "Kitab Al-Buyu' (Transaksi Jual Beli)",
+    "startingHadithNo": 1205,
+    "endingHadithNo": 1321,
+    "totalHadith": 117
+  },
+  {
+    "id": 15,
+    "name": "Abwab Al-Ahkam (Keputusan-Keputusan Peradilan Rasulullah ﷺ)",
+    "startingHadithNo": 1322,
+    "endingHadithNo": 1385,
+    "totalHadith": 64
+  },
+  {
+    "id": 16,
+    "name": "Kitab Al-Diyat (Hukum-Hukum Diyat/Denda Darah)",
+    "startingHadithNo": 1386,
+    "endingHadithNo": 1422,
+    "totalHadith": 37
+  },
+  {
+    "id": 17,
+    "name": "Kitab Al-Hudud (Penjelasan tentang Hukum-Hukum Pidana Islam/Hudud)",
+    "startingHadithNo": 1423,
+    "endingHadithNo": 1463,
+    "totalHadith": 41
+  },
+  {
+    "id": 18,
+    "name": "Kitab Al-Shaid (Hukum-Hukum Berburu)",
+    "startingHadithNo": 1464,
+    "endingHadithNo": 1492,
+    "totalHadith": 29
+  },
+  {
+    "id": 19,
+    "name": "Kitab Al-Adhahi (Penjelasan tentang Kurban)",
+    "startingHadithNo": 1493,
+    "endingHadithNo": 1523,
+    "totalHadith": 31
+  },
+  {
+    "id": 20,
+    "name": "Kitab Al-Nudhur wa Al-Aiman (Penjelasan tentang Nazar dan Sumpah)",
+    "startingHadithNo": 1524,
+    "endingHadithNo": 1547,
+    "totalHadith": 24
+  },
+  {
+    "id": 21,
+    "name": "Kitab Al-Siyar (Peperangan/Ghazwah dan Hukum Kepemimpinan Militer)",
+    "startingHadithNo": 1548,
+    "endingHadithNo": 1618,
+    "totalHadith": 71
+  },
+  {
+    "id": 22,
+    "name": "Kitab Fadhail Al-Jihad (Penjelasan tentang Keutamaan Jihad)",
+    "startingHadithNo": 1619,
+    "endingHadithNo": 1669,
+    "totalHadith": 51
+  },
+  {
+    "id": 23,
+    "name": "Kitab Al-Jihad (Hukum-Hukum dan Masalah Jihad)",
+    "startingHadithNo": 1670,
+    "endingHadithNo": 1719,
+    "totalHadith": 50
+  },
+  {
+    "id": 24,
+    "name": "Kitab Al-Libas (Hukum-Hukum Pakaian)",
+    "startingHadithNo": 1720,
+    "endingHadithNo": 1787,
+    "totalHadith": 68
+  },
+  {
+    "id": 25,
+    "name": "Kitab Al-At'imah (Adab dan Hukum Makanan)",
+    "startingHadithNo": 1788,
+    "endingHadithNo": 1860,
+    "totalHadith": 73
+  },
+  {
+    "id": 26,
+    "name": "Kitab Al-Asyribah (Hukum-Hukum Minuman)",
+    "startingHadithNo": 1861,
+    "endingHadithNo": 1896,
+    "totalHadith": 36
+  },
+  {
+    "id": 27,
+    "name": "Abwab Al-Birr wa Al-Silah (Akhlak Baik dan Silaturahim)",
+    "startingHadithNo": 1897,
+    "endingHadithNo": 2035,
+    "totalHadith": 139
+  },
+  {
+    "id": 28,
+    "name": "Abwab Al-Thibb (Penjelasan Pengobatan dan Medis)",
+    "startingHadithNo": 2036,
+    "endingHadithNo": 2089,
+    "totalHadith": 54
+  },
+  {
+    "id": 29,
+    "name": "Abwab Al-Fara'id (Hukum-Hukum Waris)",
+    "startingHadithNo": 2090,
+    "endingHadithNo": 2115,
+    "totalHadith": 26
+  },
+  {
+    "id": 30,
+    "name": "Abwab Al-Washaya (Masalah Wasiat)",
+    "startingHadithNo": 2116,
+    "endingHadithNo": 2124,
+    "totalHadith": 9
+  },
+  {
+    "id": 31,
+    "name": "Abwab Al-Wala' wa Al-Hibah (Penjelasan tentang Wala' dan Pemberian Hadiah)",
+    "startingHadithNo": 2125,
+    "endingHadithNo": 2132,
+    "totalHadith": 8
+  },
+  {
+    "id": 32,
+    "name": "Abwab Al-Qadar (Penjelasan tentang Takdir)",
+    "startingHadithNo": 2133,
+    "endingHadithNo": 2298,
+    "totalHadith": 166
+  },
+  {
+    "id": 33,
+    "name": "Abwab Al-Fitan (Penjelasan tentang Fitnah/Ujian)",
+    "startingHadithNo": 2158,
+    "endingHadithNo": 2269,
+    "totalHadith": 112
+  },
+  {
+    "id": 34,
+    "name": "Abwab Al-Ru'ya (Penjelasan tentang Takwil Mimpi)",
+    "startingHadithNo": 2270,
+    "endingHadithNo": 2294,
+    "totalHadith": 25
+  },
+  {
+    "id": 35,
+    "name": "Abwab Al-Syahadat (Penjelasan tentang Persaksian/Kesaksian)",
+    "startingHadithNo": 2295,
+    "endingHadithNo": 2303,
+    "totalHadith": 9
+  },
+  {
+    "id": 36,
+    "name": "Abwab Al-Zuhd (Penjelasan tentang Zuhud dan Ketakwaan)",
+    "startingHadithNo": 2304,
+    "endingHadithNo": 2414,
+    "totalHadith": 111
+  },
+  {
+    "id": 37,
+    "name": "Abwab Sifat Al-Qiyamah wa Al-Raqaiq wa Al-Wara' (Sifat Kiamat, Pelembut Hati, dan Sikap Wara')",
+    "startingHadithNo": 2415,
+    "endingHadithNo": 2522,
+    "totalHadith": 108
+  },
+  {
+    "id": 38,
+    "name": "Abwab Sifat Al-Jannah (Penjelasan tentang Sifat Surga)",
+    "startingHadithNo": 2523,
+    "endingHadithNo": 2735,
+    "totalHadith": 213
+  },
+  {
+    "id": 39,
+    "name": "Kitab Sifat Jahannam (Penjelasan tentang Sifat Neraka)",
+    "startingHadithNo": 2573,
+    "endingHadithNo": 2795,
+    "totalHadith": 223
+  },
+  {
+    "id": 40,
+    "name": "Kitab Al-Iman (Penjelasan tentang Iman)",
+    "startingHadithNo": 2606,
+    "endingHadithNo": 2644,
+    "totalHadith": 39
+  },
+  {
+    "id": 41,
+    "name": "Abwab Al-Ilm (Keutamaan Ilmu dan Masalah-Masalahnya)",
+    "startingHadithNo": 2645,
+    "endingHadithNo": 2687,
+    "totalHadith": 43
+  },
+  {
+    "id": 42,
+    "name": "Abwab Al-Istizan (Adab Meminta Izin)",
+    "startingHadithNo": 2688,
+    "endingHadithNo": 2734,
+    "totalHadith": 47
+  },
+  {
+    "id": 43,
+    "name": "Abwab Al-Adab (Penjelasan tentang Adab dan Akhlak)",
+    "startingHadithNo": 2736,
+    "endingHadithNo": 2858,
+    "totalHadith": 123
+  },
+  {
+    "id": 44,
+    "name": "Abwab Al-Amthal (Penjelasan tentang Perumpamaan/Contoh)",
+    "startingHadithNo": 2859,
+    "endingHadithNo": 2874,
+    "totalHadith": 16
+  },
+  {
+    "id": 45,
+    "name": "Abwab Fadhail Al-Quran (Keutamaan Al-Qur'an Al-Karim)",
+    "startingHadithNo": 2875,
+    "endingHadithNo": 2926,
+    "totalHadith": 52
+  },
+  {
+    "id": 46,
+    "name": "Abwab Al-Qira'at (Penjelasan tentang Ragam Qira'at Al-Qur'an)",
+    "startingHadithNo": 2927,
+    "endingHadithNo": 2949,
+    "totalHadith": 23
+  },
+  {
+    "id": 47,
+    "name": "Abwab Al-Tafsir (Penjelasan tentang Tafsir Al-Qur'an)",
+    "startingHadithNo": 2950,
+    "endingHadithNo": 3723,
+    "totalHadith": 774
+  },
+  {
+    "id": 48,
+    "name": "Abwab Al-Da'awat (Penjelasan tentang Doa-Doa)",
+    "startingHadithNo": 3370,
+    "endingHadithNo": 3604.1,
+    "totalHadith": 235
+  },
+  {
+    "id": 49,
+    "name": "Abwab Al-Manaqib (Penjelasan tentang Manaqib, Keutamaan, dan Kemuliaan)",
+    "startingHadithNo": 3605,
+    "endingHadithNo": 3956,
+    "totalHadith": 352
+  }
+]

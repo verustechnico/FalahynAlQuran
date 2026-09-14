@@ -1,0 +1,429 @@
+[
+  {
+    "id": 1,
+    "name": "Les horaires de prière",
+    "startingHadithNo": 1,
+    "endingHadithNo": 31,
+    "totalHadith": 31
+  },
+  {
+    "id": 2,
+    "name": "Le livre de la purification (La pureté)",
+    "startingHadithNo": 32,
+    "endingHadithNo": 145,
+    "totalHadith": 114
+  },
+  {
+    "id": 3,
+    "name": "Le livre de la prière (La prière)",
+    "startingHadithNo": 146,
+    "endingHadithNo": 221,
+    "totalHadith": 76
+  },
+  {
+    "id": 4,
+    "name": "L'oubli dans la prière (La prosternation de l'oubli)",
+    "startingHadithNo": 222,
+    "endingHadithNo": 224,
+    "totalHadith": 3
+  },
+  {
+    "id": 5,
+    "name": "Le livre du Vendredi (La prière du Vendredi)",
+    "startingHadithNo": 225,
+    "endingHadithNo": 245,
+    "totalHadith": 21
+  },
+  {
+    "id": 6,
+    "name": "La prière de Ramadan (Tarawih)",
+    "startingHadithNo": 246,
+    "endingHadithNo": 253,
+    "totalHadith": 8
+  },
+  {
+    "id": 7,
+    "name": "La prière de nuit (Tahajjud)",
+    "startingHadithNo": 254,
+    "endingHadithNo": 286,
+    "totalHadith": 33
+  },
+  {
+    "id": 8,
+    "name": "La prière en congrégation",
+    "startingHadithNo": 287,
+    "endingHadithNo": 325,
+    "totalHadith": 39
+  },
+  {
+    "id": 9,
+    "name": "La prière raccourcie (La prière du voyageur)",
+    "startingHadithNo": 326,
+    "endingHadithNo": 427,
+    "totalHadith": 102
+  },
+  {
+    "id": 10,
+    "name": "La prière des deux fêtes ('Idain)",
+    "startingHadithNo": 428,
+    "endingHadithNo": 440,
+    "totalHadith": 13
+  },
+  {
+    "id": 11,
+    "name": "La prière de la peur",
+    "startingHadithNo": 441,
+    "endingHadithNo": 444,
+    "totalHadith": 4
+  },
+  {
+    "id": 12,
+    "name": "La prière de l'éclipse (Éclipse solaire)",
+    "startingHadithNo": 445,
+    "endingHadithNo": 448,
+    "totalHadith": 4
+  },
+  {
+    "id": 13,
+    "name": "La prière de rogation (Demande de pluie)",
+    "startingHadithNo": 449,
+    "endingHadithNo": 454,
+    "totalHadith": 6
+  },
+  {
+    "id": 14,
+    "name": "La direction de la prière (La Qibla)",
+    "startingHadithNo": 455,
+    "endingHadithNo": 469,
+    "totalHadith": 15
+  },
+  {
+    "id": 15,
+    "name": "Les mérites et règles du Noble Coran",
+    "startingHadithNo": 470,
+    "endingHadithNo": 519,
+    "totalHadith": 50
+  },
+  {
+    "id": 16,
+    "name": "Le livre des funérailles (Soins mortuaires)",
+    "startingHadithNo": 520,
+    "endingHadithNo": 577,
+    "totalHadith": 58
+  },
+  {
+    "id": 17,
+    "name": "Le livre de la Zakat (L'aumône légale)",
+    "startingHadithNo": 578,
+    "endingHadithNo": 629,
+    "totalHadith": 52
+  },
+  {
+    "id": 18,
+    "name": "Le livre du jeûne (Le jeûne)",
+    "startingHadithNo": 630,
+    "endingHadithNo": 689,
+    "totalHadith": 60
+  },
+  {
+    "id": 19,
+    "name": "La retraite spirituelle (I'tikaf) pendant Ramadan",
+    "startingHadithNo": 690,
+    "endingHadithNo": 704,
+    "totalHadith": 15
+  },
+  {
+    "id": 20,
+    "name": "Le livre du Pèlerinage (Règles du Hajj)",
+    "startingHadithNo": 705,
+    "endingHadithNo": 957,
+    "totalHadith": 253
+  },
+  {
+    "id": 21,
+    "name": "Le livre du Jihad",
+    "startingHadithNo": 959,
+    "endingHadithNo": 1008,
+    "totalHadith": 50
+  },
+  {
+    "id": 22,
+    "name": "Les vœux et les serments",
+    "startingHadithNo": 1009,
+    "endingHadithNo": 1027,
+    "totalHadith": 19
+  },
+  {
+    "id": 23,
+    "name": "Les animaux sacrificiels",
+    "startingHadithNo": 1028,
+    "endingHadithNo": 1041,
+    "totalHadith": 14
+  },
+  {
+    "id": 24,
+    "name": "L'égorgement rituel (Règles d'abattage des animaux)",
+    "startingHadithNo": 1042,
+    "endingHadithNo": 1051,
+    "totalHadith": 10
+  },
+  {
+    "id": 25,
+    "name": "Les règles de la chasse",
+    "startingHadithNo": 1052,
+    "endingHadithNo": 1066,
+    "totalHadith": 15
+  },
+  {
+    "id": 26,
+    "name": "Les règles de l'Aqiqah",
+    "startingHadithNo": 1067,
+    "endingHadithNo": 1073,
+    "totalHadith": 7
+  },
+  {
+    "id": 27,
+    "name": "Le livre des successions (Lois de l'héritage)",
+    "startingHadithNo": 1074,
+    "endingHadithNo": 1089,
+    "totalHadith": 16
+  },
+  {
+    "id": 28,
+    "name": "Le livre du mariage (Règles du mariage)",
+    "startingHadithNo": 1091,
+    "endingHadithNo": 1149,
+    "totalHadith": 59
+  },
+  {
+    "id": 29,
+    "name": "Le livre du divorce (Règles du divorce)",
+    "startingHadithNo": 1150,
+    "endingHadithNo": 1271,
+    "totalHadith": 122
+  },
+  {
+    "id": 30,
+    "name": "L'allaitement (Règles d'allaitement maternel)",
+    "startingHadithNo": 1272,
+    "endingHadithNo": 1289,
+    "totalHadith": 18
+  },
+  {
+    "id": 31,
+    "name": "Le commerce et les transactions d'achat et de vente",
+    "startingHadithNo": 1290,
+    "endingHadithNo": 1385,
+    "totalHadith": 96
+  },
+  {
+    "id": 32,
+    "name": "Le prêt commercial (Mudharabah / Partenariat financier)",
+    "startingHadithNo": 1386,
+    "endingHadithNo": 1387,
+    "totalHadith": 2
+  },
+  {
+    "id": 33,
+    "name": "Le métayage (Partenariat agricole)",
+    "startingHadithNo": 1388,
+    "endingHadithNo": 1389,
+    "totalHadith": 2
+  },
+  {
+    "id": 34,
+    "name": "La location de terres",
+    "startingHadithNo": 1390,
+    "endingHadithNo": 1394,
+    "totalHadith": 5
+  },
+  {
+    "id": 35,
+    "name": "Le droit de préemption immobilière (Shuf'ah)",
+    "startingHadithNo": 1395,
+    "endingHadithNo": 1398,
+    "totalHadith": 4
+  },
+  {
+    "id": 36,
+    "name": "Les jugements judiciaires et la justice (Qada)",
+    "startingHadithNo": 1399,
+    "endingHadithNo": 1454,
+    "totalHadith": 56
+  },
+  {
+    "id": 37,
+    "name": "Les règles du testament",
+    "startingHadithNo": 1455,
+    "endingHadithNo": 1463,
+    "totalHadith": 9
+  },
+  {
+    "id": 38,
+    "name": "L'affranchissement des esclaves et le droit de patronage (Wala)",
+    "startingHadithNo": 1464,
+    "endingHadithNo": 1488,
+    "totalHadith": 25
+  },
+  {
+    "id": 39,
+    "name": "L'esclave sous contrat d'affranchissement (Mukatab)",
+    "startingHadithNo": 1489,
+    "endingHadithNo": 1496,
+    "totalHadith": 8
+  },
+  {
+    "id": 40,
+    "name": "L'esclave promis à la liberté après la mort de son maître (Mudabbar)",
+    "startingHadithNo": 1497,
+    "endingHadithNo": 1499,
+    "totalHadith": 3
+  },
+  {
+    "id": 41,
+    "name": "Le livre des peines légales (Hudud)",
+    "startingHadithNo": 1500,
+    "endingHadithNo": 1536,
+    "totalHadith": 37
+  },
+  {
+    "id": 42,
+    "name": "Les règles des boissons",
+    "startingHadithNo": 1537,
+    "endingHadithNo": 1551,
+    "totalHadith": 15
+  },
+  {
+    "id": 43,
+    "name": "Le prix du sang (Diyat / Compensation pour meurtre)",
+    "startingHadithNo": 1552,
+    "endingHadithNo": 1595,
+    "totalHadith": 44
+  },
+  {
+    "id": 44,
+    "name": "Le serment collectif pour meurtre suspect (Qasamah)",
+    "startingHadithNo": 1596,
+    "endingHadithNo": 1597,
+    "totalHadith": 2
+  },
+  {
+    "id": 45,
+    "name": "Les mérites de Médine Al-Munawwarah",
+    "startingHadithNo": 1598,
+    "endingHadithNo": 1622,
+    "totalHadith": 25
+  },
+  {
+    "id": 46,
+    "name": "Le décret divin et le destin (Qadar)",
+    "startingHadithNo": 1623,
+    "endingHadithNo": 1632,
+    "totalHadith": 10
+  },
+  {
+    "id": 47,
+    "name": "Les nobles caractères (La bonne moralité)",
+    "startingHadithNo": 1633,
+    "endingHadithNo": 1650,
+    "totalHadith": 18
+  },
+  {
+    "id": 48,
+    "name": "Les règles vestimentaires",
+    "startingHadithNo": 1651,
+    "endingHadithNo": 1670,
+    "totalHadith": 20
+  },
+  {
+    "id": 49,
+    "name": "Les nobles descriptions et l'apparence du Prophète ﷺ",
+    "startingHadithNo": 1671,
+    "endingHadithNo": 1710,
+    "totalHadith": 40
+  },
+  {
+    "id": 50,
+    "name": "Le mauvais œil (Al-'Ayn) et son traitement",
+    "startingHadithNo": 1711,
+    "endingHadithNo": 1729,
+    "totalHadith": 19
+  },
+  {
+    "id": 51,
+    "name": "Les règles et traditions relatives aux cheveux",
+    "startingHadithNo": 1730,
+    "endingHadithNo": 1746,
+    "totalHadith": 17
+  },
+  {
+    "id": 52,
+    "name": "Les rêves et leur interprétation",
+    "startingHadithNo": 1747,
+    "endingHadithNo": 1755,
+    "totalHadith": 9
+  },
+  {
+    "id": 53,
+    "name": "Les bienséances de la salutation (Salam)",
+    "startingHadithNo": 1756,
+    "endingHadithNo": 1762,
+    "totalHadith": 7
+  },
+  {
+    "id": 54,
+    "name": "Questions diverses (Mutafarriqat)",
+    "startingHadithNo": 1763,
+    "endingHadithNo": 1807,
+    "totalHadith": 45
+  },
+  {
+    "id": 55,
+    "name": "Le serment d'allégeance (Bay'ah)",
+    "startingHadithNo": 1808,
+    "endingHadithNo": 1810,
+    "totalHadith": 3
+  },
+  {
+    "id": 56,
+    "name": "Les bienséances de la parole et de la discussion",
+    "startingHadithNo": 1811,
+    "endingHadithNo": 1838,
+    "totalHadith": 28
+  },
+  {
+    "id": 57,
+    "name": "Description de l'Enfer (Jahannam)",
+    "startingHadithNo": 1839,
+    "endingHadithNo": 1840,
+    "totalHadith": 2
+  },
+  {
+    "id": 58,
+    "name": "L'aumône et les œuvres de bienfaisance",
+    "startingHadithNo": 1841,
+    "endingHadithNo": 1855,
+    "totalHadith": 15
+  },
+  {
+    "id": 59,
+    "name": "La science religieuse",
+    "startingHadithNo": 1856,
+    "endingHadithNo": 1856,
+    "totalHadith": 1
+  },
+  {
+    "id": 60,
+    "name": "L'invocation de la personne opprimée",
+    "startingHadithNo": 1857,
+    "endingHadithNo": 1857,
+    "totalHadith": 1
+  },
+  {
+    "id": 61,
+    "name": "Les noms bénis du Prophète ﷺ",
+    "startingHadithNo": 1858,
+    "endingHadithNo": 1858,
+    "totalHadith": 1
+  }
+]

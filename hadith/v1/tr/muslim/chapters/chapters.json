@@ -1,0 +1,401 @@
+[
+  {
+    "id": 0,
+    "name": "Giriş",
+    "startingHadithNo": 1,
+    "endingHadithNo": 92,
+    "totalHadith": 92
+  },
+  {
+    "id": 1,
+    "name": "Kitabü'l-İman (İmanın Açıklaması)",
+    "startingHadithNo": 93,
+    "endingHadithNo": 533,
+    "totalHadith": 441
+  },
+  {
+    "id": 2,
+    "name": "Kitabü't-Taharah (Temizliğin Açıklaması)",
+    "startingHadithNo": 534,
+    "endingHadithNo": 678,
+    "totalHadith": 145
+  },
+  {
+    "id": 3,
+    "name": "Kitabü'l-Hayd (Adet Halleriyle İlgili Hükümler)",
+    "startingHadithNo": 679,
+    "endingHadithNo": 836,
+    "totalHadith": 158
+  },
+  {
+    "id": 4,
+    "name": "Kitabü's-Salah (Namazın Açıklaması)",
+    "startingHadithNo": 837,
+    "endingHadithNo": 1160,
+    "totalHadith": 324
+  },
+  {
+    "id": 5,
+    "name": "Kitabü'l-Mesacid (Mescitler ve Namaz Kılınan Yerlerin Açıklaması)",
+    "startingHadithNo": 1161,
+    "endingHadithNo": 1569,
+    "totalHadith": 409
+  },
+  {
+    "id": 6,
+    "name": "Kitabü Salati'l-Musafirin (Yolcunun Namazı ve Namazı Kısaltma Kuralları)",
+    "startingHadithNo": 1570,
+    "endingHadithNo": 1950,
+    "totalHadith": 381
+  },
+  {
+    "id": 7,
+    "name": "Kitabü'l-Cumu'ah (Cuma Namazının Açıklaması)",
+    "startingHadithNo": 1951,
+    "endingHadithNo": 2043,
+    "totalHadith": 93
+  },
+  {
+    "id": 8,
+    "name": "Kitabü Salati'l-İdayn (İki Bayram Namazının Açıklaması)",
+    "startingHadithNo": 2044,
+    "endingHadithNo": 2069,
+    "totalHadith": 26
+  },
+  {
+    "id": 9,
+    "name": "Kitabü'l-Istiska (Yağmur Duası Namazının Açıklaması)",
+    "startingHadithNo": 2070,
+    "endingHadithNo": 2088,
+    "totalHadith": 19
+  },
+  {
+    "id": 10,
+    "name": "Kitabü'l-Kusuf (Güneş ve Ay Tutulması Namazının Açıklaması)",
+    "startingHadithNo": 2089,
+    "endingHadithNo": 2122,
+    "totalHadith": 34
+  },
+  {
+    "id": 11,
+    "name": "Kitabü'l-Cenaiz (Cenaze İle İlgili Hükümler)",
+    "startingHadithNo": 2123,
+    "endingHadithNo": 2262,
+    "totalHadith": 140
+  },
+  {
+    "id": 12,
+    "name": "Kitabü'z-Zakah (Zekatın Açıklaması)",
+    "startingHadithNo": 2263,
+    "endingHadithNo": 2494,
+    "totalHadith": 232
+  },
+  {
+    "id": 13,
+    "name": "Kitabü's-Siyam (Oruçla İlgili Hükümler)",
+    "startingHadithNo": 2495,
+    "endingHadithNo": 2779,
+    "totalHadith": 285
+  },
+  {
+    "id": 14,
+    "name": "Kitabü'l-İtikaf (İtikaf İle İlgili Hükümler)",
+    "startingHadithNo": 2780,
+    "endingHadithNo": 2790,
+    "totalHadith": 11
+  },
+  {
+    "id": 15,
+    "name": "Kitabü'l-Hac (Haccın Hükümleri ve Rituelleri)",
+    "startingHadithNo": 2791,
+    "endingHadithNo": 3397,
+    "totalHadith": 607
+  },
+  {
+    "id": 16,
+    "name": "Kitabü'n-Nikah (Evliliğin Açıklaması)",
+    "startingHadithNo": 388,
+    "endingHadithNo": 3567,
+    "totalHadith": 3180
+  },
+  {
+    "id": 17,
+    "name": "Kitabü'r-Rada (Anne Sütüyle Emzirmenin Açıklaması)",
+    "startingHadithNo": 3568,
+    "endingHadithNo": 3651,
+    "totalHadith": 84
+  },
+  {
+    "id": 18,
+    "name": "Kitabü't-Talaq (Boşanmanın Açıklaması)",
+    "startingHadithNo": 3652,
+    "endingHadithNo": 3742,
+    "totalHadith": 91
+  },
+  {
+    "id": 19,
+    "name": "Kitabü'l-Lian (Karşılıklı Lanetleşme Yeminlerinin Hükümleri)",
+    "startingHadithNo": 3743,
+    "endingHadithNo": 3769,
+    "totalHadith": 27
+  },
+  {
+    "id": 20,
+    "name": "Kitabü'l-İtq (Kölelerin Azad Edilmesinin Açıklaması)",
+    "startingHadithNo": 3770,
+    "endingHadithNo": 3800,
+    "totalHadith": 31
+  },
+  {
+    "id": 21,
+    "name": "Kitabü'l-Buyu (Ticaret ve Alışveriş Kuralları)",
+    "startingHadithNo": 3801,
+    "endingHadithNo": 3961,
+    "totalHadith": 161
+  },
+  {
+    "id": 22,
+    "name": "Kitabü'l-Müsakat ve'l-Müzara'a (Sulama ve Tarım Kuralları)",
+    "startingHadithNo": 3962,
+    "endingHadithNo": 4139,
+    "totalHadith": 178
+  },
+  {
+    "id": 23,
+    "name": "Kitabü'l-Faraid (Miras Hukuku Kuralları)",
+    "startingHadithNo": 4140,
+    "endingHadithNo": 4162,
+    "totalHadith": 23
+  },
+  {
+    "id": 24,
+    "name": "Kitabü'l-Hibat (Hediye ve Bağış Kuralları)",
+    "startingHadithNo": 4163,
+    "endingHadithNo": 4203,
+    "totalHadith": 41
+  },
+  {
+    "id": 25,
+    "name": "Kitabü'l-Vasıyyah (Vasiyet Kuralları)",
+    "startingHadithNo": 4204,
+    "endingHadithNo": 4234,
+    "totalHadith": 31
+  },
+  {
+    "id": 26,
+    "name": "Kitabü'n-Nazr (Adaklar İle İlgili Hükümler)",
+    "startingHadithNo": 4235,
+    "endingHadithNo": 4253,
+    "totalHadith": 19
+  },
+  {
+    "id": 27,
+    "name": "Kitabü'l-Ayman (Yeminlerin Açıklaması)",
+    "startingHadithNo": 4254,
+    "endingHadithNo": 4341,
+    "totalHadith": 88
+  },
+  {
+    "id": 28,
+    "name": "Kitabü'l-Kasama ve'l-Muharibin ve'l-Qisas ve'l-Diyat (Yeminler, Eşkıyalık, Kısas ve Diyet Kuralları)",
+    "startingHadithNo": 4342,
+    "endingHadithNo": 4397,
+    "totalHadith": 56
+  },
+  {
+    "id": 29,
+    "name": "Kitabü'l-Hudud (Şer'i Cezaların Açıklaması)",
+    "startingHadithNo": 4398,
+    "endingHadithNo": 4469,
+    "totalHadith": 72
+  },
+  {
+    "id": 30,
+    "name": "Kitabü'l-Akdiye (Yargı Kararları ve Adalet Kuralları)",
+    "startingHadithNo": 4470,
+    "endingHadithNo": 4497,
+    "totalHadith": 28
+  },
+  {
+    "id": 31,
+    "name": "Kitabü'l-Lukatah (Buluntu Eşya Kuralları)",
+    "startingHadithNo": 4498,
+    "endingHadithNo": 4518,
+    "totalHadith": 21
+  },
+  {
+    "id": 32,
+    "name": "Kitabü'l-Cihad ve's-Siyar (Cihad ve Askeri Seferlerin Açıklaması)",
+    "startingHadithNo": 4519,
+    "endingHadithNo": 4700,
+    "totalHadith": 182
+  },
+  {
+    "id": 33,
+    "name": "Kitabü'l-İmare (Yönetim ve Komutanlık Kuralları)",
+    "startingHadithNo": 4701,
+    "endingHadithNo": 4967,
+    "totalHadith": 267
+  },
+  {
+    "id": 34,
+    "name": "Kitabü's-Sayd ve'l-Zebaih ve Ma Yu'kalu min el-Hayavan (Avcılık, Kesilen Hayvanlar ve Yenmesi Helal ve Haram Olan Hayvanlar)",
+    "startingHadithNo": 4972,
+    "endingHadithNo": 5063,
+    "totalHadith": 92
+  },
+  {
+    "id": 35,
+    "name": "Kitabü'l-Edahi (Kurbanın Açıklaması)",
+    "startingHadithNo": 5064,
+    "endingHadithNo": 5126,
+    "totalHadith": 63
+  },
+  {
+    "id": 36,
+    "name": "Kitabü'l-Esribah (İçeceklerin Açıklaması)",
+    "startingHadithNo": 5114,
+    "endingHadithNo": 5383,
+    "totalHadith": 270
+  },
+  {
+    "id": 37,
+    "name": "Kitabü'l-Libas ve'l-Zinah (Giysiler ve Süslerin Açıklaması)",
+    "startingHadithNo": 5385,
+    "endingHadithNo": 5585,
+    "totalHadith": 201
+  },
+  {
+    "id": 38,
+    "name": "Kitabü'l-Adab (Ahlak ve Güzel Davranışların Açıklaması)",
+    "startingHadithNo": 5586,
+    "endingHadithNo": 5645,
+    "totalHadith": 60
+  },
+  {
+    "id": 39,
+    "name": "Kitabü's-Selam (Selamlaşma Kuralları ve Adabı)",
+    "startingHadithNo": 5646,
+    "endingHadithNo": 5861,
+    "totalHadith": 216
+  },
+  {
+    "id": 40,
+    "name": "Kitabü Elfazi'l-Adab ve Gayruha (Söz Seçimi ve Sözlü Nezaket)",
+    "startingHadithNo": 5862,
+    "endingHadithNo": 5884,
+    "totalHadith": 23
+  },
+  {
+    "id": 41,
+    "name": "Kitabü'ş-Şi'r (Şiirin Açıklaması)",
+    "startingHadithNo": 5887,
+    "endingHadithNo": 5896,
+    "totalHadith": 10
+  },
+  {
+    "id": 42,
+    "name": "Kitabü'r-Ru'ya (Rüya Tabirlerinin Açıklaması)",
+    "startingHadithNo": 5897,
+    "endingHadithNo": 5937,
+    "totalHadith": 41
+  },
+  {
+    "id": 43,
+    "name": "Kitabü'l-Fadail (Peygamber Efendimiz'in ﷺ Faziletleri ve Üstünlükleri)",
+    "startingHadithNo": 384,
+    "endingHadithNo": 6168,
+    "totalHadith": 5785
+  },
+  {
+    "id": 44,
+    "name": "Kitabü Fadaili's-Sahabah (Peygamber'in Sahabelerinin Faziletleri)",
+    "startingHadithNo": 6169,
+    "endingHadithNo": 6499,
+    "totalHadith": 331
+  },
+  {
+    "id": 45,
+    "name": "Kitabü'l-Birr ve's-Sila ve'l-Adab (İyilik, Akrabalık Bağları ve Güzel Ahlak)",
+    "startingHadithNo": 6500,
+    "endingHadithNo": 6722,
+    "totalHadith": 223
+  },
+  {
+    "id": 46,
+    "name": "Kitabü'l-Kader (İlahi Kader ve Alınyazısının Açıklaması)",
+    "startingHadithNo": 6723,
+    "endingHadithNo": 6774,
+    "totalHadith": 52
+  },
+  {
+    "id": 47,
+    "name": "Kitabü'l-İlm (Dini İlimlerin Açıklaması)",
+    "startingHadithNo": 6775,
+    "endingHadithNo": 6804,
+    "totalHadith": 30
+  },
+  {
+    "id": 48,
+    "name": "Kitabü'z-Zikir ve'd-Dua ve'l-Tawba ve'l-İstighfar (Zikir, Dua, Tövbe ve Bağışlanma Dileme)",
+    "startingHadithNo": 6805,
+    "endingHadithNo": 6936,
+    "totalHadith": 132
+  },
+  {
+    "id": 49,
+    "name": "Kitabü'r-Rikak (Kalpleri Yumuşatan Hadisler)",
+    "startingHadithNo": 6937,
+    "endingHadithNo": 6951,
+    "totalHadith": 15
+  },
+  {
+    "id": 50,
+    "name": "Kitabü't-Tövbe (Tövbenin Açıklaması)",
+    "startingHadithNo": 6952,
+    "endingHadithNo": 7023,
+    "totalHadith": 72
+  },
+  {
+    "id": 51,
+    "name": "Kitabü Sıfati'l-Munafiqin ve Ahkamuhum (Münafıkların Özellikleri ve Haklarındaki Hükümler)",
+    "startingHadithNo": 7024,
+    "endingHadithNo": 7044,
+    "totalHadith": 21
+  },
+  {
+    "id": 52,
+    "name": "Kitabü Sıfati'l-Kiyamah ve'l-Cannah ve'l-Nar (Kıyametin, Cennetin ve Cehennemin Tasviri)",
+    "startingHadithNo": 7045,
+    "endingHadithNo": 7129,
+    "totalHadith": 85
+  },
+  {
+    "id": 53,
+    "name": "Kitabü'l-Cannah ve Sıfati Naimiha ve Ahliha (Cennet, Nimetlerinin Tasviri ve Sakinleri)",
+    "startingHadithNo": 7130,
+    "endingHadithNo": 7234,
+    "totalHadith": 105
+  },
+  {
+    "id": 54,
+    "name": "Kitabü'l-Fiten ve Aşratü's-Saa (Kargaşalar ve Kıyamet Alametleri)",
+    "startingHadithNo": 7235,
+    "endingHadithNo": 7416,
+    "totalHadith": 182
+  },
+  {
+    "id": 55,
+    "name": "Kitabü'z-Zuhd ve'r-Rikak (Zühd, Dindarlık ve Kalp İnceliği)",
+    "startingHadithNo": 7417,
+    "endingHadithNo": 7522,
+    "totalHadith": 106
+  },
+  {
+    "id": 56,
+    "name": "Kitabü't-Tefsir (Kuran Tefsirinin Açıklaması)",
+    "startingHadithNo": 7523,
+    "endingHadithNo": 7563,
+    "totalHadith": 41
+  }
+]

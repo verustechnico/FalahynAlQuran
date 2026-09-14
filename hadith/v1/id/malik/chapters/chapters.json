@@ -1,0 +1,429 @@
+[
+  {
+    "id": 1,
+    "name": "Waktu-Waktu Salat",
+    "startingHadithNo": 1,
+    "endingHadithNo": 31,
+    "totalHadith": 31
+  },
+  {
+    "id": 2,
+    "name": "Kitab Al-Thaharah (Bab Bersuci)",
+    "startingHadithNo": 32,
+    "endingHadithNo": 145,
+    "totalHadith": 114
+  },
+  {
+    "id": 3,
+    "name": "Kitab Al-Shalah (Bab Salat)",
+    "startingHadithNo": 146,
+    "endingHadithNo": 221,
+    "totalHadith": 76
+  },
+  {
+    "id": 4,
+    "name": "Lupa dalam Salat (Sujud Sahwi)",
+    "startingHadithNo": 222,
+    "endingHadithNo": 224,
+    "totalHadith": 3
+  },
+  {
+    "id": 5,
+    "name": "Kitab Al-Jumu'ah (Bab Salat Jumat)",
+    "startingHadithNo": 225,
+    "endingHadithNo": 245,
+    "totalHadith": 21
+  },
+  {
+    "id": 6,
+    "name": "Salat Ramadan (Tarawih)",
+    "startingHadithNo": 246,
+    "endingHadithNo": 253,
+    "totalHadith": 8
+  },
+  {
+    "id": 7,
+    "name": "Salat Tahajud",
+    "startingHadithNo": 254,
+    "endingHadithNo": 286,
+    "totalHadith": 33
+  },
+  {
+    "id": 8,
+    "name": "Salat Berjamaah",
+    "startingHadithNo": 287,
+    "endingHadithNo": 325,
+    "totalHadith": 39
+  },
+  {
+    "id": 9,
+    "name": "Salat Qashar (Salat Musafir)",
+    "startingHadithNo": 326,
+    "endingHadithNo": 427,
+    "totalHadith": 102
+  },
+  {
+    "id": 10,
+    "name": "Salat Dua Hari Raya ('Idain)",
+    "startingHadithNo": 428,
+    "endingHadithNo": 440,
+    "totalHadith": 13
+  },
+  {
+    "id": 11,
+    "name": "Salat Khauf (Salat dalam Keadaan Takut)",
+    "startingHadithNo": 441,
+    "endingHadithNo": 444,
+    "totalHadith": 4
+  },
+  {
+    "id": 12,
+    "name": "Salat Kusuf (Salat Gerhana Matahari)",
+    "startingHadithNo": 445,
+    "endingHadithNo": 448,
+    "totalHadith": 4
+  },
+  {
+    "id": 13,
+    "name": "Salat Istisqa' (Doa Meminta Hujan)",
+    "startingHadithNo": 449,
+    "endingHadithNo": 454,
+    "totalHadith": 6
+  },
+  {
+    "id": 14,
+    "name": "Bab Kiblat",
+    "startingHadithNo": 455,
+    "endingHadithNo": 469,
+    "totalHadith": 15
+  },
+  {
+    "id": 15,
+    "name": "Keutamaan dan Hukum Al-Qur'an Al-Karim",
+    "startingHadithNo": 470,
+    "endingHadithNo": 519,
+    "totalHadith": 50
+  },
+  {
+    "id": 16,
+    "name": "Kitab Al-Jana'iz (Pengurusan Jenazah)",
+    "startingHadithNo": 520,
+    "endingHadithNo": 577,
+    "totalHadith": 58
+  },
+  {
+    "id": 17,
+    "name": "Kitab Al-Zakah (Bab Zakat)",
+    "startingHadithNo": 578,
+    "endingHadithNo": 629,
+    "totalHadith": 52
+  },
+  {
+    "id": 18,
+    "name": "Kitab Al-Shiyam (Bab Puasa)",
+    "startingHadithNo": 630,
+    "endingHadithNo": 689,
+    "totalHadith": 60
+  },
+  {
+    "id": 19,
+    "name": "I'tikaf di Bulan Ramadan",
+    "startingHadithNo": 690,
+    "endingHadithNo": 704,
+    "totalHadith": 15
+  },
+  {
+    "id": 20,
+    "name": "Kitab Al-Hajj (Hukum-Hukum Haji)",
+    "startingHadithNo": 705,
+    "endingHadithNo": 957,
+    "totalHadith": 253
+  },
+  {
+    "id": 21,
+    "name": "Kitab Jihad",
+    "startingHadithNo": 959,
+    "endingHadithNo": 1008,
+    "totalHadith": 50
+  },
+  {
+    "id": 22,
+    "name": "Nazar dan Sumpah",
+    "startingHadithNo": 1009,
+    "endingHadithNo": 1027,
+    "totalHadith": 19
+  },
+  {
+    "id": 23,
+    "name": "Hewan Kurban",
+    "startingHadithNo": 1028,
+    "endingHadithNo": 1041,
+    "totalHadith": 14
+  },
+  {
+    "id": 24,
+    "name": "Penyembelihan (Hukum Menyembelih Hewan)",
+    "startingHadithNo": 1042,
+    "endingHadithNo": 1051,
+    "totalHadith": 10
+  },
+  {
+    "id": 25,
+    "name": "Hukum-Hukum Berburu",
+    "startingHadithNo": 1052,
+    "endingHadithNo": 1066,
+    "totalHadith": 15
+  },
+  {
+    "id": 26,
+    "name": "Hukum-Hukum Aqiqah",
+    "startingHadithNo": 1067,
+    "endingHadithNo": 1073,
+    "totalHadith": 7
+  },
+  {
+    "id": 27,
+    "name": "Kitab Al-Fara'id (Hukum Kewarisan)",
+    "startingHadithNo": 1074,
+    "endingHadithNo": 1089,
+    "totalHadith": 16
+  },
+  {
+    "id": 28,
+    "name": "Kitab Al-Nikah (Hukum Pernikahan)",
+    "startingHadithNo": 1091,
+    "endingHadithNo": 1149,
+    "totalHadith": 59
+  },
+  {
+    "id": 29,
+    "name": "Kitab Al-Thalaq (Hukum Perceraian)",
+    "startingHadithNo": 1150,
+    "endingHadithNo": 1271,
+    "totalHadith": 122
+  },
+  {
+    "id": 30,
+    "name": "Radha'ah (Hukum Menyusui)",
+    "startingHadithNo": 1272,
+    "endingHadithNo": 1289,
+    "totalHadith": 18
+  },
+  {
+    "id": 31,
+    "name": "Perdagangan serta Transaksi Jual Beli",
+    "startingHadithNo": 1290,
+    "endingHadithNo": 1385,
+    "totalHadith": 96
+  },
+  {
+    "id": 32,
+    "name": "Qiradh (Mudharabah / Kerjasama Modal dan Usaha)",
+    "startingHadithNo": 1386,
+    "endingHadithNo": 1387,
+    "totalHadith": 2
+  },
+  {
+    "id": 33,
+    "name": "Muzara'ah (Kerjasama Pengelolaan Pertanian)",
+    "startingHadithNo": 1388,
+    "endingHadithNo": 1389,
+    "totalHadith": 2
+  },
+  {
+    "id": 34,
+    "name": "Menyewakan Tanah",
+    "startingHadithNo": 1390,
+    "endingHadithNo": 1394,
+    "totalHadith": 5
+  },
+  {
+    "id": 35,
+    "name": "Hak Syuf'ah dalam Properti",
+    "startingHadithNo": 1395,
+    "endingHadithNo": 1398,
+    "totalHadith": 4
+  },
+  {
+    "id": 36,
+    "name": "Keputusan Peradilan dan Qadha'",
+    "startingHadithNo": 1399,
+    "endingHadithNo": 1454,
+    "totalHadith": 56
+  },
+  {
+    "id": 37,
+    "name": "Hukum Wasiat",
+    "startingHadithNo": 1455,
+    "endingHadithNo": 1463,
+    "totalHadith": 9
+  },
+  {
+    "id": 38,
+    "name": "Memerdekakan Budak dan Wala'",
+    "startingHadithNo": 1464,
+    "endingHadithNo": 1488,
+    "totalHadith": 25
+  },
+  {
+    "id": 39,
+    "name": "Kitab Mukatab (Budak yang Menebus Dirinya untuk Merdeka)",
+    "startingHadithNo": 1489,
+    "endingHadithNo": 1496,
+    "totalHadith": 8
+  },
+  {
+    "id": 40,
+    "name": "Kitab Mudabbar (Budak yang Merdeka setelah Kematian Tuannya)",
+    "startingHadithNo": 1497,
+    "endingHadithNo": 1499,
+    "totalHadith": 3
+  },
+  {
+    "id": 41,
+    "name": "Kitab Al-Hudud (Hukuman Syariat)",
+    "startingHadithNo": 1500,
+    "endingHadithNo": 1536,
+    "totalHadith": 37
+  },
+  {
+    "id": 42,
+    "name": "Hukum Minuman",
+    "startingHadithNo": 1537,
+    "endingHadithNo": 1551,
+    "totalHadith": 15
+  },
+  {
+    "id": 43,
+    "name": "Diyat (Denda Darah / Kompensasi Pembunuhan)",
+    "startingHadithNo": 1552,
+    "endingHadithNo": 1595,
+    "totalHadith": 44
+  },
+  {
+    "id": 44,
+    "name": "Qasamah (Sumpah Tuduhan Pembunuhan)",
+    "startingHadithNo": 1596,
+    "endingHadithNo": 1597,
+    "totalHadith": 2
+  },
+  {
+    "id": 45,
+    "name": "Keutamaan Kota Madinah Al-Munawwarah",
+    "startingHadithNo": 1598,
+    "endingHadithNo": 1622,
+    "totalHadith": 25
+  },
+  {
+    "id": 46,
+    "name": "Bab Takdir",
+    "startingHadithNo": 1623,
+    "endingHadithNo": 1632,
+    "totalHadith": 10
+  },
+  {
+    "id": 47,
+    "name": "Akhlak yang Mulia",
+    "startingHadithNo": 1633,
+    "endingHadithNo": 1650,
+    "totalHadith": 18
+  },
+  {
+    "id": 48,
+    "name": "Hukum Pakaian",
+    "startingHadithNo": 1651,
+    "endingHadithNo": 1670,
+    "totalHadith": 20
+  },
+  {
+    "id": 49,
+    "name": "Sifat-sifat Mulia dan Penampilan Nabi ﷺ",
+    "startingHadithNo": 1671,
+    "endingHadithNo": 1710,
+    "totalHadith": 40
+  },
+  {
+    "id": 50,
+    "name": "Penyakit Ain (Pengaruh Pandangan Mata Jahat) dan Pengobatannya",
+    "startingHadithNo": 1711,
+    "endingHadithNo": 1729,
+    "totalHadith": 19
+  },
+  {
+    "id": 51,
+    "name": "Hukum dan Sunnah Terkait Rambut",
+    "startingHadithNo": 1730,
+    "endingHadithNo": 1746,
+    "totalHadith": 17
+  },
+  {
+    "id": 52,
+    "name": "Mimpi dan Takwilannya",
+    "startingHadithNo": 1747,
+    "endingHadithNo": 1755,
+    "totalHadith": 9
+  },
+  {
+    "id": 53,
+    "name": "Adab Mengucapkan Salam",
+    "startingHadithNo": 1756,
+    "endingHadithNo": 1762,
+    "totalHadith": 7
+  },
+  {
+    "id": 54,
+    "name": "Berbagai Macam Permasalahan (Mutafarriqah)",
+    "startingHadithNo": 1763,
+    "endingHadithNo": 1807,
+    "totalHadith": 45
+  },
+  {
+    "id": 55,
+    "name": "Bab Bai'at (Janji Setia)",
+    "startingHadithNo": 1808,
+    "endingHadithNo": 1810,
+    "totalHadith": 3
+  },
+  {
+    "id": 56,
+    "name": "Adab Berbicara dan Berkata-kata",
+    "startingHadithNo": 1811,
+    "endingHadithNo": 1838,
+    "totalHadith": 28
+  },
+  {
+    "id": 57,
+    "name": "Bab Neraka Jahanam",
+    "startingHadithNo": 1839,
+    "endingHadithNo": 1840,
+    "totalHadith": 2
+  },
+  {
+    "id": 58,
+    "name": "Sedekah dan Amal Kebaikan",
+    "startingHadithNo": 1841,
+    "endingHadithNo": 1855,
+    "totalHadith": 15
+  },
+  {
+    "id": 59,
+    "name": "Bab Ilmu Agama",
+    "startingHadithNo": 1856,
+    "endingHadithNo": 1856,
+    "totalHadith": 1
+  },
+  {
+    "id": 60,
+    "name": "Doa Orang yang Terdzalimi",
+    "startingHadithNo": 1857,
+    "endingHadithNo": 1857,
+    "totalHadith": 1
+  },
+  {
+    "id": 61,
+    "name": "Nama-Nama Mulia Nabi ﷺ",
+    "startingHadithNo": 1858,
+    "endingHadithNo": 1858,
+    "totalHadith": 1
+  }
+]
